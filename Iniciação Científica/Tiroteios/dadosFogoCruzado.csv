@@ -1,0 +1,798 @@
+LOCAL DO TIROTEIO,DATA DO TIROTEIO,HORÁRIO DO TIROTEIO,MORTES?,CIVIS MORTOS,POLICIAIS MORTOS,FERIDOS?,CIVIS FERIDOS,POLICIAIS FERIDOS,OPERAÇÃO POLICIAL?
+favela do rola - santa cruz,2016/07/05,06:02:00,Não Sabe,0,1,Não Sabe,0,1,Não Sabe
+Rua Barão - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/05,13:44:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Estrada da Covanca - Tanque| Rio de Janeiro - RJ| Brasil,2016/07/05,13:48:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Arquias Cordeiro - Todos os Santos| Rio de Janeiro - RJ| Brasil,2016/07/03,22:34:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Santa Cruz| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/05,07:49:00,Não Sabe,0,1,Não Sabe,0,0,Sim
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/05,16:32:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/05,16:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Coreia| Mesquita - RJ| Brasil,2016/07/05,18:19:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Brás de Pina - Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/05,18:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida São Paulo| Mesquita - RJ| Brasil,2016/07/05,18:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida São Paulo| Mesquita - RJ| Brasil,2016/07/05,18:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Sao Jose - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/05,18:51:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Guaiúba - Acari| Rio de Janeiro - RJ| Brasil,2016/07/05,18:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. União - Santa Terezinha| Mesquita - RJ| Brasil,2016/07/05,19:16:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/05,19:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Travessa Antonio Pereira Martins| Nilópolis - RJ| Brasil,2016/07/05,19:21:00,Não,0,0,Não,0,0,Não Sabe
+Rua Ana Neri próximo ao 1255 - Rocha| Rio de Janeiro - RJ| Brasil,2016/07/05,19:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Brg. Lima e Silva - Jardim Vinte e Cinco de Agosto| Duque de Caxias - RJ| Brasil,2016/07/04,18:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro Sao Joao - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/05,19:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Piracambú - Acari| Rio de Janeiro - RJ| Brasil,2016/07/05,20:34:00,Sim,1,0,Não Sabe,0,0,Sim
+Rua Arlíndo Cardoso - Santíssimo| Rio de Janeiro - RJ| Brasil,2016/07/05,19:00:00,Sim,1,0,Não Sabe,0,0,Não Sabe
+Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/05,20:58:00,Sim,0,0,Não Sabe,0,0,Não Sabe
+Rua Alcobaça - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/05,20:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Araújo Leitão - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/05,20:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Penha| Rio de Janeiro - RJ| Brasil,2016/07/05,21:56:00,Não,0,0,Não,0,0,Não
+Morro da fe,2016/07/05,22:16:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Professor João Brasil - Venda da Cruz| São Gonçalo - RJ| Brasil,2016/07/05,22:24:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Pastor Martin Luther King Junior - Inhauma| Rio de Janeiro - RJ| Brasil,2016/07/05,22:24:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Nilo Peçanha - Olinda| Nilópolis - RJ| Brasil,2016/07/05,22:34:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua do Desenhista - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/05,22:38:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Abílio Augusto Távora - Jardim Alvorada| Nova Iguaçu - RJ| Brasil,2016/07/05,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/05,22:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Engenheiro Pedreira| Japeri - RJ| Brasil,2016/07/02,22:52:00,Não Sabe,3,0,Não Sabe,6,1,Sim
+Engenheiro Pedreira| Japeri - RJ| Brasil,2016/07/02,22:52:00,Não Sabe,3,0,Não Sabe,6,1,Sim
+Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Presidente General Craveiro Lopes - Olinda| Nilópolis - RJ| Brasil,2016/07/05,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:39:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Baiana - Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/05,23:05:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Travessa Cesário de Melo - Paciência| Rio de Janeiro - RJ| Brasil,2016/07/05,06:56:00,Sim,0,1,Não,0,0,Sim
+Rua Nair - Tomazinho| São João de Meriti - RJ| Brasil,2016/07/05,23:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Costa Júnior - Bangu| Rio de Janeiro - RJ| Brasil,2016/06/28,19:45:00,Não,0,0,Não,0,0,Sim
+Rua Conselheiro Galvão - Madureira| Rio de Janeiro - RJ| Brasil,2016/07/06,00:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Figueiredo Camargo próximo ao 1332 - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/05,22:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Gardênia Azul| Rio de Janeiro - RJ| Brasil,2016/07/06,23:53:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/06,00:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Camboatá - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/06,00:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/07/06,00:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Padre Mário Versé - Anchieta| Nilópolis - RJ| Brasil,2016/07/06,00:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Itajace - Anchieta| Nilópolis - RJ| Brasil,2016/07/06,00:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/06,00:29:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Doutor Garnier - Rocha| Rio de Janeiro - RJ| Brasil,2016/07/06,00:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Jacaré| RJ| Brasil,2016/07/06,00:06:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua do Engenho Novo - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/05,00:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Bispo Lacerda - Del Castilho| Rio de Janeiro - RJ| Brasil,2016/07/06,00:46:00,Não Sabe,1,0,Não Sabe,1,0,Não Sabe
+Amendoeira| São Gonçalo - RJ| Brasil,2016/07/06,21:56:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Raul Pompéia - Engenho do Porto| Duque de Caxias - RJ| Brasil,2016/07/06,01:04:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Av. São Bento - São Bento| Duque de Caxias - RJ| Brasil,2016/07/05,20:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada de Belford Roxo| Nova Iguaçu - RJ| Brasil,2016/07/06,01:14:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Ibiá - Turiaçu| Rio de Janeiro - RJ| Brasil,2016/07/06,01:44:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Av. União - Santa Terezinha| Mesquita - RJ| Brasil,2016/06/05,22:00:00,Sim,1,0,Sim,2,0,Não
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/05,20:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Pedro Guedes - Maracanã| Rio de Janeiro - RJ| Brasil,2016/07/06,06:51:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Linha Amarela - Jacarepagua| Rio de Janeiro - RJ| Brasil,2016/07/06,07:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Cezar Muzio próximo ao 281 - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/06,08:19:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Cavalcante| Rio de Janeiro - RJ| Brasil,2016/07/06,09:12:00,Não Sabe,0,12,Não Sabe,0,0,Não Sabe
+Rua do Magistrado - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/04,11:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Enes Filho - Penha Circular| Rio de Janeiro - RJ| Brasil,2016/07/06,12:03:00,Não,0,0,Não,0,0,Não
+Av. Vicente de Carvalho - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/06,12:24:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Dezoito - Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/07/06,13:36:00,Não Sabe,0,9,Não Sabe,0,0,Sim
+Rua Lisboa - Jardim Santa Rosa| São João de Meriti - RJ| Brasil,2016/07/06,16:03:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Lisboa - Jardim Santa Rosa| São João de Meriti - RJ| Brasil,2016/07/06,16:03:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Capineira - Vila Ideal| Duque de Caxias - RJ| Brasil,2016/07/06,17:55:00,Não Sabe,0,0,Sim,1,0,Sim
+Rua São José - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Ajuda - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:16:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada de Praia Seca| Araruama - RJ| Brasil,2016/07/06,18:46:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/06,18:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua São José - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:15:00,Não Sabe,1,0,Não Sabe,1,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/06,19:32:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada do Itararé - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/06,19:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Governador Portela - Trezentos| São João de Meriti - RJ| Brasil,2016/07/06,19:53:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Uranos próximo ao 1326 - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/06,19:28:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Baronesa de Uruguaiana - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/06,18:05:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Maria Lucinda - Vila Tiradentes| São João de Meriti - RJ| Brasil,2016/07/06,20:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Valinhos - Engenho da Rainha| Rio de Janeiro - RJ| Brasil,2016/07/06,20:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada do Itararé - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/06,20:24:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada do Páu-Ferro - Pechincha| RJ| Brasil,2016/07/06,20:47:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada do Páu-Ferro - Pechincha| Rio de Janeiro - RJ| Brasil,2016/07/06,21:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Piratini próximo ao 728 - Centro| Duque de Caxias - RJ| Brasil,2016/07/06,21:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Arcampo| Duque de Caxias - RJ| Brasil,2016/07/06,20:00:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Av. Cesário de Melo - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,21:33:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,21:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Marcolino - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,20:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Dr. Jurumenha - Barro Vermelho| São Gonçalo - RJ| Brasil,2016/07/06,22:01:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua México - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:00:00,Não Sabe,0,0,Não Sabe,1,0,Não Sabe
+Avenida Professor João Brasil - Venda da Cruz| Niterói - RJ| Brasil,2016/07/06,22:21:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça Mário Lago - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:10:00,Sim,1,0,Não,0,0,Sim
+Rua Vicentina Goularte - Miriambi| São Gonçalo - RJ| Brasil,2016/07/06,18:15:00,Não Sabe,2,0,Não Sabe,3,0,Não
+Rua General Belegarde - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/06,22:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Cesário de Melo - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,23:01:00,Não,0,0,Não Sabe,0,0,Não Sabe
+Maré| Rio de Janeiro - RJ| Brasil,2016/07/06,23:28:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/07/06,23:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/06,23:43:00,Não,0,0,Não Sabe,0,0,Não Sabe
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/06,23:45:00,Não,0,0,Sim,1,0,Sim
+Morro Sao Joao - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/06,23:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Santa Amelia| Belford Roxo - RJ| Brasil,2016/07/07,23:50:00,Não Sabe,0,0,Não Sabe,1,0,Não Sabe
+Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/07/07,00:15:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Morro Sao Joao - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/07,00:25:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Muito tito em frente a churrascaria Toca do Boi,2016/07/07,00:35:00,Não,0,0,Não,0,0,Não
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,00:43:00,Sim,0,0,Não Sabe,0,0,Sim
+Rua Japoara - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/06,23:30:00,Não Sabe,1,0,Não Sabe,0,0,Sim
+Rua H Isaac Zaidman - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,00:20:00,Não,0,0,Sim,0,0,Sim
+Largo da Carioca - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:10:00,Não Sabe,1,0,Não Sabe,0,0,Não Sabe
+Estrada de Madureira - Jardim Paraoso| Nova Iguaçu - RJ| Brasil,2016/07/07,02:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Via Light - Centro| Nova Iguaçu - RJ| Brasil,2016/07/07,02:53:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Magalhães Castro - Riachuelo| Rio de Janeiro - RJ| Brasil,2016/07/05,23:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Magalhães Castro - Riachuelo| Rio de Janeiro - RJ| Brasil,2016/07/05,23:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Duque de Caxias - RJ| Brasil,2016/07/06,22:00:00,Sim,1,0,Sim,1,0,Não
+Rua Iguaba Grande - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,09:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Maré| Rio de Janeiro - RJ| Brasil,2016/07/07,09:54:00,Não,0,0,Sim,0,0,Sim
+Rua do Cajá - Penha| Rio de Janeiro - RJ| Brasil,2016/07/07,10:31:00,Não,0,0,Não,0,0,Sim
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,10:36:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. Granja - Palhada| Nova Iguaçu - RJ| Brasil,2016/07/04,15:18:00,Não,3,5,Não Sabe,0,0,Sim
+Rua Joaquim de Queiroz - Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/07,10:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Guaiúba - Acari| Rio de Janeiro - RJ| Brasil,2016/07/07,10:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada do Camboatá - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/07,10:43:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Duque de Caxias - RJ| Brasil,2016/07/07,11:12:00,Não Sabe,0,0,Sim,0,0,Não Sabe
+Av. Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/07,11:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Fidélis de Carvalho - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,11:17:00,Não Sabe,0,0,Sim,0,0,Sim
+Rua dos Coqueiros - Santa Cruz da Serra| Duque de Caxias - RJ| Brasil,2016/07/06,22:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Lins de Vasconcelos - Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,11:22:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Baronesa do Engenho Novo - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/05,20:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Lins De Vasconcelos próximo ao 640 - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/07,12:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Lins De Vasconcelos próximo ao 640 - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/07,12:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Parque Paulista| Duque de Caxias - RJ| Brasil,2016/07/06,13:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Goiás - Centro| São João de Meriti - RJ| Brasil,2016/07/07,13:03:00,Sim,1,0,Não,0,0,Não
+Rua Eden - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/07,14:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Hannibal Porto próximo ao 601 - Irajá| Rio de Janeiro - RJ| Brasil,2016/07/07,14:30:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Av. União - Santa Terezinha| Mesquita - RJ| Brasil,2016/07/07,15:13:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Álvares de Azevedo - Cachambi| Rio de Janeiro - RJ| Brasil,2016/07/07,03:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/07/07,15:57:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,16:57:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Álvares de Azevedo - Cachambi| Rio de Janeiro - RJ| Brasil,2016/07/07,04:24:00,Sim,1,0,Sim,1,0,Sim
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,17:14:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Baronesa,2016/07/07,17:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+São José Operário| Praça Seca,2016/07/07,17:24:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Barão - Praça Seca| RJ| Brasil,2016/07/07,17:30:00,Não Sabe,0,190,Não Sabe,0,0,Não Sabe
+Rua Barão - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,17:34:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Cangulo| Duque de Caxias - RJ| Brasil,2016/07/07,18:08:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Leme| Rio de Janeiro - RJ| Brasil,2016/07/07,18:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Rio D\'ouro - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,18:59:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Mogiqui - Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/07,19:21:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua São Francisco Xavier - Maracanã| Rio de Janeiro - RJ| Brasil,2016/07/07,20:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/07,20:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/07,20:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/07,20:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Nádia Maria de Menezes - Jardim Santo Antonio| São João de Meriti - RJ| Brasil,2016/07/07,21:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Comandante Ari Parreiras - Porto Velho| São Gonçalo - RJ| Brasil,2016/07/07,22:14:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua afonso guimaraes 47,2016/07/07,22:13:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Duque de Caxias - RJ| Brasil,2016/07/07,22:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Antônio Basílio - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/07,23:09:00,Sim,1,0,Não Sabe,0,0,Não Sabe
+Rua ivanildo alves,2016/07/07,23:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Bento Ribeiro Dantas - Maré| Rio de Janeiro - RJ| Brasil,2016/07/07,23:16:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Emílio Gomes| Duque de Caxias - RJ| Brasil,2016/07/07,22:07:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Do Magarca próximo ao 1284 - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/07,23:35:00,Sim,3,2,Sim,12,0,Não
+Rua da Jangada - Penha Circular| Rio de Janeiro - RJ| Brasil,2016/07/08,00:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Sarapuí - Chatuba| Mesquita - RJ| Brasil,2016/07/08,01:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Pinheiros| Teresópolis - RJ| Brasil,2016/07/08,04:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Bem-Te-VI - Galeão| Rio de Janeiro - RJ| Brasil,2016/07/08,07:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/08,07:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Iguaba Grande - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/08,07:48:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Lima Drumond - Váz Lobo| Rio de Janeiro - RJ| Brasil,2016/07/08,08:02:00,Não Sabe,0,10,Não Sabe,0,0,Sim
+Estrada José Rucas - Penha| Rio de Janeiro - RJ| Brasil,2016/07/08,09:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Dez - Morro de São Bento| Santos - SP| Brasil,2015/12/01,10:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Pirpirituba - Realengo| Rio de Janeiro - RJ| Brasil,2016/07/08,11:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Tiroteio pesado,2016/07/07,11:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Camboatá 3427 - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/08,12:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Codajás| Duque de Caxias - RJ| Brasil,2016/07/08,15:14:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Senador Nabuco - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/08,16:18:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Santa Rosa| Niterói - RJ| Brasil,2016/07/08,17:24:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Centenário| Duque de Caxias - RJ| Brasil,2016/07/08,18:08:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Jose Do Patrocinio próximo ao 290 - Grajau| Rio de Janeiro - RJ| Brasil,2016/07/08,22:37:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Travessa do Holofote - Largo do Barradas| Niterói - RJ| Brasil,2016/07/08,22:57:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Manhama - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/09,00:32:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/09,00:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça da Prainha| Duque de Caxias - RJ| Brasil,2016/07/09,00:51:00,Não,0,0,Não,0,0,Não Sabe
+Linha Amarela - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/09,03:08:00,Não Sabe,0,2,Não Sabe,0,1,Não Sabe
+Rua Olegário Mariano - Vila São Luiz| Duque de Caxias - RJ| Brasil,2016/07/08,21:30:00,Sim,1,0,Não Sabe,0,0,Não Sabe
+Galeão| Rio de Janeiro - RJ| Brasil,2016/07/08,16:40:00,Não,0,0,Não,0,0,Não Sabe
+Rua Judite Guerra - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/09,08:07:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua do Bispo| 117 - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/07/09,08:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Coronel Viêira - Irajá| Rio de Janeiro - RJ| Brasil,2016/07/09,11:10:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Morro da adita Sao Goncalo rj,2016/07/08,12:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Luigi de Amêndola - Parque das Palmeiras| Angra dos Reis - RJ| Brasil,2016/07/09,13:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Gávea - Vila Leopoldina| Duque de Caxias - RJ| Brasil,2016/07/09,13:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Dom Hélder Câmara - Engenho de Dentro| Rio de Janeiro - RJ| Brasil,2016/07/09,18:43:21,Não Sabe,0,0,Não Sabe,0,0,Não
+Avenida Pelotas - Jardim Gramacho| Duque de Caxias - RJ| Brasil,2016/07/09,20:17:00,Não Sabe,0,0,Não,0,0,Não Sabe
+Rua Capitão Machado - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/09,20:39:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Camboatá - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/09,21:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Maestro Francisco Braga - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/09,19:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Dr. Carvalhães - Belford Roxo - RJ| Brasil,2016/07/09,21:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Domicília César - Engenheiro Belford| São João de Meriti - RJ| Brasil,2016/07/09,13:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Barão da Torre| 54 - Ipanema| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/06/30,22:30:00,Não Sabe,0,0,Sim,1,0,Sim
+Rua Gonçalves Ferreira - Tomazinho| São João de Meriti - RJ| Brasil,2016/07/10,18:56:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. do Parque - Santa Cruz da Serra| Duque de Caxias - RJ| Brasil,2016/07/10,18:51:00,Sim,0,0,Não Sabe,0,0,Não Sabe
+Rua Professora Íria Goulart - Barros Filho| Rio de Janeiro - RJ| Brasil,2016/07/10,20:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/10,20:37:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Nilo Peçanha - Vilar dos Teles| São João de Meriti - RJ| Brasil,2016/07/10,20:30:00,Sim,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Camboatá 3293 - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/10,21:30:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/10,23:47:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua do Ceu - Vila Caranga| Búzios - RJ| Brasil,2016/07/11,00:52:00,Não,0,0,Não,0,0,Não
+Morro do Dende - Jardim Carioca| Rio de Janeiro - RJ| Brasil,2016/07/11,06:33:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Aníbal da Mota - Santa Teresa| Duque de Caxias - RJ| Brasil,2016/07/10,18:15:00,Não Sabe,1,0,Não,0,0,Sim
+quitanda|pavuna| rio de janeiro,2016/07/11,08:13:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Japeri - Parque Senhor do Bonfim| Duque de Caxias - RJ| Brasil,2016/07/11,08:51:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Centenário| Duque de Caxias - RJ| Brasil,2016/07/11,03:00:00,Não,0,0,Não,0,0,Sim
+Rua Tales de Carvalho - Jardim America| Rio de Janeiro - RJ| Brasil,2016/07/11,10:15:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Tales de Carvalho - Jardim America| Rio de Janeiro - RJ| Brasil,2016/07/11,10:15:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Darvin Brandão - Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/11,07:00:00,Não,0,0,Não,0,0,Sim
+Acari| Rio de Janeiro - RJ| Brasil,2016/07/11,13:10:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Acari| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/05,11:50:00,Não,0,0,Não,0,0,Sim
+Rodovia Washington Luiz| 2895 - Parque Duque| Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/06,22:16:00,Sim,2,0,Não Sabe,0,0,Não
+Morro Pau da Bandeira - Vila Isabel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/08,16:18:00,Não,0,0,Não,0,0,Sim
+Rua Jordão - Taquara| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/09,10:19:00,Não,0,0,Não,0,0,Não
+Praça Nilo Peçanha - Centro| Nilópolis - State of Rio de Janeiro| Brazil,2016/07/08,22:20:00,Sim,1,0,Não,0,0,Não
+Rua Álvares de Azevedo| 270 - Cachambi| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,14:26:00,Não,0,0,Sim,0,0,Sim
+Serrinha - State of Rio de Janeiro| Brazil,2016/07/08,07:00:00,Não,0,0,Não,0,0,Sim
+Rodovia Presidente Dutra| Belford Roxo - State of Rio de Janeiro| Brazil,2016/07/07,05:30:00,Não,0,0,Sim,1,0,Sim
+Rua Nove| 508 - Maré| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/09,10:30:00,Não,0,0,Sim,0,1,Não
+Rua Cruzeiro do Sul| Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/10,06:00:00,Sim,1,0,Não,0,0,Não
+Jardim América| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/10,07:00:00,Sim,1,0,Não,0,0,Não Sabe
+Rua Barão do Bom Retiro - Engenho Novo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/10,22:54:00,Sim,0,1,Sim,0,1,Não Sabe
+Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,09:57:00,Não,0,0,Sim,2,0,Sim
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/05,22:00:00,Não,0,0,Não,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/06,17:20:00,Não,0,0,Não,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,11:44:00,Não,0,0,Não,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,17:27:00,Não,0,0,Não,0,0,Sim
+Rua Manhama - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/11,17:38:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/11,17:45:00,Não,0,0,Não Sabe,0,0,Não Sabe
+Acari| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/08,13:02:00,Não,0,0,Não,0,0,Não Sabe
+Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,05:47:00,Sim,1,0,Não,0,0,Não Sabe
+Via Light - Centro| Nova Iguaçu - State of Rio de Janeiro| Brazil,2016/07/07,18:51:00,Sim,1,0,Sim,0,1,Sim
+Jardim Sumare| São João de Meriti - State of Rio de Janeiro| Brazil,2016/07/07,12:55:00,Não,0,0,Sim,0,1,Não Sabe
+Itaguaí - State of Rio de Janeiro| Brazil,2016/07/08,19:01:00,Sim,0,1,Não,0,0,Não
+Marechal Hermes| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,16:00:00,Não,0,0,Não,0,0,Sim
+Rua Capitão Machado - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/11,21:49:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Comendador Pinto - Campinho| Rio de Janeiro - RJ| Brasil,2016/07/11,22:14:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Engenheiro Gama Lobo| 548 - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/11,22:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Maestro Ernesto Nazaré - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/11,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Maestro Ernesto Nazaré - Vila Isabel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,22:21:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/11,23:10:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua A A - Tomás Coelho| Rio de Janeiro - RJ| Brasil,2016/07/11,23:08:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Fernando Lobo - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/12,03:08:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Dois - Maré| Rio de Janeiro - RJ| Brasil,2016/07/12,08:45:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Avenida Brigadeiro Trompowski próximo ao 222 - Maré| Rio de Janeiro - RJ| Brasil,2016/07/12,08:47:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Avenida Brigadeiro Trompowski| 214 - Maré| Rio de Janeiro - RJ| Brasil,2016/07/12,08:49:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Parque União - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/12,07:52:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Principal - Maré| Rio de Janeiro - RJ| Brasil,2016/07/12,09:08:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Darcí Vargas - Maré| Rio de Janeiro - RJ| Brasil,2016/07/12,09:24:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Cavalcanti| Rio de Janeiro - RJ| Brasil,2016/07/12,09:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Sabóia| 54 - Cavalcanti| Rio de Janeiro - RJ| Brasil,2016/07/12,10:12:00,Não Sabe,0,0,Sim,0,0,Sim
+Rua Limeira - Tomás Coelho| Rio de Janeiro - RJ| Brasil,2016/07/12,09:41:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Silvio Terra - Barros Filho| Rio de Janeiro - RJ| Brasil,2016/07/12,12:52:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Jordão| 650 - Tanque| Rio de Janeiro - RJ| Brasil,2016/07/09,09:42:00,Não,0,0,Não,0,0,Não
+Avenida Brasil| 4600 - Ramos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/10,14:01:00,Não,0,0,Sim,0,0,Não
+Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,10:07:00,Sim,1,0,Não Sabe,0,0,Sim
+Coelho Neto| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,14:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Afonso Pena - Imperador| Nova Iguaçu - RJ| Brasil,2016/07/12,15:42:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Pinto de Azevedo - Cidade Nova| Rio de Janeiro - RJ| Brasil,2016/07/12,17:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Barão do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/12,06:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida do Corretor - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/12,19:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Jardim América| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,18:36:00,Não,0,0,Sim,0,1,Não
+Rua Santa Margarida - Km 32 - RJ| Brasil,2016/07/12,21:10:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Avenida Doutor Manoel Teles - Centro| Duque de Caxias - RJ| Brasil,2016/07/12,21:09:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Joaquim Tôrres - Miriambi| São Gonçalo - RJ| Brasil,2016/07/12,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Felipe Cardoso - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/12,21:08:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Felipe Cardoso - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/12,21:08:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Jurubeba - Parque Anchieta| Rio de Janeiro - RJ| Brasil,2016/07/13,01:28:00,Não,0,0,Não,0,0,Não
+Rua Presidente Pedreira - Ingá| Niterói - RJ| Brasil,2016/07/13,01:57:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Eliseu Visconti - Catumbi| Rio de Janeiro - RJ| Brasil,2016/07/13,07:49:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Travessa Jacupema - Olaria| Rio de Janeiro - RJ| Brasil,2016/07/13,06:19:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,10:32:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Jacarezinho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,11:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Pão de Açúcar - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/13,13:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Iguaçu - Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,15:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/13,16:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua José do Patrocínio - Grajau| Rio de Janeiro - RJ| Brasil,2016/07/13,16:49:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Macacos - Sampaio| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,17:13:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/13,17:08:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Realengo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,17:33:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Laurindo Filho - Cavalcanti| Rio de Janeiro - RJ| Brasil,2016/07/13,19:06:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Central do Brasil - Centro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,19:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Barbuda| Magé - State of Rio de Janeiro| Brazil,2016/07/12,20:58:00,Não Sabe,1,0,Não Sabe,0,0,Não Sabe
+Jardim América| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,21:01:00,Não Sabe,0,0,Sim,0,1,Não Sabe
+Av. Rio de Janeiro - Caju| Rio de Janeiro - RJ| Brasil,2016/07/13,12:46:00,Não,0,0,Não,0,0,Não Sabe,Polícia
+Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/13,21:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/09,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/13,22:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Km 32| Nova Iguaçu - RJ| Brasil,2016/07/13,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Camboatá - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/13,23:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua São Carlos - Estácio| Rio de Janeiro - RJ| Brasil,2016/07/13,23:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Marangá - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/13,22:57:00,Não Sabe,2,0,Não Sabe,0,0,Sim
+Rua São Miguel - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/13,22:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Vila Isabel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,21:53:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada de Botafogo - Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/14,07:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Seropédica - RJ| Brasil,2016/07/13,21:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/14,09:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Bento Ribeiro Dantas - Maré| Rio de Janeiro - RJ| Brasil,2016/07/14,09:51:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Riachuelo - Rocha Sobrinho| Mesquita - RJ| Brasil,2016/07/14,09:57:00,Não,0,0,Não,0,0,Não
+Av. Cidade de Deus - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/14,11:41:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Sinimbú - São Cristóvão| Rio de Janeiro - RJ| Brasil,2016/07/14,12:29:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Nova Aurora| Belford Roxo - RJ| Brasil,2016/07/07,01:30:00,Sim,0,0,Não,0,0,Não
+Morro dos Cabritos,2016/07/14,08:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Macacos - vila isabel| Rio de Janeiro - RJ| Brasil,2016/07/13,21:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Augusto Magno - Vila Margarida| Itaguaí - RJ| Brasil,2016/07/14,06:07:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Viçoso Jardim - Cubango| Niterói - RJ| Brasil,2016/07/14,05:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/13,23:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Itaóca| 2547 - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/14,15:34:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Paulino Barbosa - Éden| São João de Meriti - RJ| Brasil,2016/07/13,23:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/14,16:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Araújo Leitão - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/13,09:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Dr. Mario Vianna - Santa Rosa| Niterói - RJ| Brasil,2016/07/14,18:07:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Cacilda Becker| Petrópolis - RJ| Brasil,2016/07/14,18:34:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Alto idependencia. Petropolis rj,2016/07/14,18:46:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Santa cruz rio de janeiro  favela do rollas,2016/07/14,18:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro Jorge Turco - Colégio| Rio de Janeiro - RJ| Brasil,2016/07/13,17:13:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Maracanã - Maracanã| Rio de Janeiro - RJ| Brasil,2016/07/10,23:30:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua 18 - Engenho| Itaguaí - RJ| Brasil,2016/07/14,20:31:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Freguesia (Jacarepaguá)| Rio de Janeiro - RJ| Brasil,2016/07/14,20:39:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Duque de Caxias - RJ| Brasil,2016/07/14,13:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Linha Amarela; Avenida Governador Carlos Lacerda - Manguinhos| Rio de Janeiro - RJ| Brasil,2016/07/14,21:19:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Ilha do Governador| Rio de Janeiro - RJ| Brasil,2016/07/14,21:18:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Joaquim Silva - Centro| Rio de Janeiro - RJ| Brasil,2016/07/07,23:00:00,Não,0,0,Não Sabe,0,0,Não
+Rua Maria Luiza - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/14,22:03:00,Não Sabe,0,4,Não Sabe,0,0,Não Sabe
+PARQUE DAS Palmeiras Palhada Nova Iguaçu RJ,2016/07/14,04:00:00,Sim,1,0,Sim,0,0,Não
+Rua Maria Luiza - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/14,22:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Rio do Pau - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/14,22:37:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Adhemar Bebiano - Del Castilho| Rio de Janeiro - RJ| Brasil,2016/07/14,22:37:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Araruama - RJ| Brasil,2016/06/13,22:39:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Brás de Pina| Rio de Janeiro - RJ| Brasil,2016/07/14,22:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Álvaro Neves - Fonseca| Niterói - RJ| Brasil,2016/07/14,22:38:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Himalaia - Anchieta| Rio de Janeiro - RJ| Brasil,2016/07/14,22:54:00,Não,0,0,Não Sabe,0,0,Não Sabe
+Rua Campo Grande| 2104 - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/14,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Não
+R. Gentil de Almeida - HonÃ³rio Gurgel
+Rio de Janeiro - RJ,2016/07/14,23:28:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Comendador Luís de Matos - Engenheiro Belford| São João de Meriti - RJ| Brasil,2016/07/14,21:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+R. Souto - Cascadura| Rio de Janeiro - RJ| Brasil,2016/07/15,00:26:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Marieta| 173 - SÃ£o Mateus
+SÃ£o JoÃ£o de Meriti - RJ,2016/07/15,00:31:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Albano - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/15,00:32:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. Manuel Nogueira de SÃ¡| 752 - Realengo
+Rio de Janeiro - RJ,2016/07/15,00:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. dos Italianos - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/15,00:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Marcodesia| 74 - Realengo
+Rio de Janeiro - RJ,2016/07/15,01:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Medeiros Pássaro - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/15,04:00:30,Não Sabe,1,0,Não Sabe,0,0,Não Sabe
+Bangu| Rio de Janeiro - RJ| Brasil,2016/07/15,00:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,06:22:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,06:22:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Felipe Cardoso - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,06:24:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Tv. Adalberto Batista| 2 - Bangu
+Rio de Janeiro - RJ,2016/07/15,06:49:00,Não,0,0,Não Sabe,0,0,Sim
+R. Natividade Saldanha| 182 - Santo Antonio
+Duque de Caxias - RJ,2016/07/01,09:00:00,Sim,1,0,Não,0,0,Não
+R. Boa Vista| 795-1929 - Anchieta
+Rio de Janeiro - RJ,2016/07/15,08:15:00,Não Sabe,0,0,Sim,1,0,Sim
+Praça São Joaquim - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/13,20:00:47,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/15,09:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Pátria - Água Santa| Rio de Janeiro - RJ| Brasil,2016/07/15,09:28:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Água Santa| Rio de Janeiro - RJ| Brasil,2016/07/15,09:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Travessa José Rucas| 1273 - Penha| Rio de Janeiro - RJ 21070-370| Brasil,2016/07/15,09:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Salvador Rizzo - Inhauma| Rio de Janeiro - RJ| Brasil,2016/07/14,22:19:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Guilhermina Bastos - Badu| Niterói - RJ| Brasil,2016/07/15,09:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Violeta próximo ao 397 - Água Santa| Rio de Janeiro - RJ| Brasil,2016/07/15,08:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Boa Vista| 795 - Anchieta
+Rio de Janeiro - RJ
+21645-500,2016/07/15,11:42:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/07/15,11:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Bispo Lacerda - Del Castilho| Rio de Janeiro - RJ| Brasil,2016/07/15,12:07:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. dos Democráticos - Manguinhos| Rio de Janeiro - RJ| Brasil,2016/07/15,12:10:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Avenida Senador Vitórino Freire - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/07/15,12:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada do Dendê - Praia da Bandeira| Rio de Janeiro - RJ| Brasil,2016/07/15,14:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Caetano da Silva - Cascadura| Rio de Janeiro - RJ| Brasil,2016/07/15,14:03:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. ParanapuÃ£| 1818-1982 - Barros Filho
+Rio de Janeiro - RJ,2016/07/15,14:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Dendê| Rio de Janeiro - RJ| Brasil,2016/07/15,14:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Cocotá| Rio de Janeiro - RJ| Brasil,2016/07/15,14:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Centenário| Duque de Caxias - RJ| Brasil,2016/07/14,03:00:00,Sim,1,0,Não,0,0,Não Sabe
+Alameda São Boaventura - Fonseca| Niterói - State of Rio de Janeiro| Brazil,2016/07/15,15:28:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro da Formiga - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/15,15:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Vila SÃ£o Severino do Ramo| 367 - Guadalupe,2016/07/15,10:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua do Livramento - Gambôa| Rio de Janeiro - RJ| Brasil,2016/07/15,16:50:00,Não,0,0,Não,0,0,Não
+Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/07/15,17:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Leocádio Figueiredo - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/15,17:33:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/15,18:18:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Apollo III| São Gonçalo - RJ| Brasil,2016/07/15,18:49:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Barão do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/15,16:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+SÃ£o Francisco de Itabapoana,2016/07/15,20:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida do Contôrno - Jóquei Clube| São Gonçalo - RJ| Brasil,2016/07/15,20:43:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+quitanda| pavuna| rio de janeiro,2016/07/15,20:19:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Santa Clara - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/15,21:26:22,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Cândido Benício - Campinho| Rio de Janeiro - RJ| Brasil,2016/07/15,21:46:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Alameda São Boaventura - Fonseca| Niterói - RJ| Brasil,2016/07/15,22:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Boa Vista| 796-1930 - Anchieta,2016/07/15,22:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada do Camboatá - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/15,22:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. LuÃ­s de Matos| 22 - Luz
+Nova IguaÃ§u,2016/07/15,05:35:00,Não Sabe,3,6,Não Sabe,0,0,Sim
+Rua Aurino de Sa Leitao próximo ao 56 - Jóquei Clube| São Gonçalo - RJ| Brasil,2016/07/15,22:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Eulina Ribeiro| 501-509 - Engenho de Dentro,2016/07/15,22:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Camboata prÃ³ximo ao 2909
+Guadalupe,2016/07/15,23:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua São José - Fonseca| Niterói - State of Rio de Janeiro| Brazil,2016/07/15,23:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rosangela da Costa Barbedo
+Estr. da Agua Grande - Vista Alegre,2016/07/05,18:15:00,Não Sabe,0,0,Não Sabe,0,0,Não
+São Cristóvão| Rio de Janeiro - RJ| Brasil,2016/07/15,23:44:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/16,00:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Borges Carneiro - Parque Moderno| Duque de Caxias - RJ| Brasil,2016/07/16,01:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Borges Carneiro - Parque Moderno| Duque de Caxias - RJ| Brasil,2016/07/16,01:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/16,01:27:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Niterói - Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/16,02:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Amadeu João Penzin| 43 - Pavuna| Rio de Janeiro - RJ| 21520-620| Brasil,2016/07/16,04:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Paul Müller - Penha| Rio de Janeiro - RJ| Brasil,2016/07/16,06:51:00,Não,0,0,Não,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/16,07:08:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Paranhos - Olaria| Rio de Janeiro - RJ| Brasil,2016/07/16,07:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Benjamim Chambarelli| 300 - Caonze
+Nova IguaÃ§u,2016/07/16,07:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Barão do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/15,22:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro São João,2016/07/15,22:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Proença Rosa - Barros Filho| Rio de Janeiro - RJ| Brasil,2016/07/14,09:32:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+R. Cinco - Brisa Mar| Itaguaí - RJ| Brasil,2016/07/16,16:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Cinco - Brisa Mar| Itaguaí - RJ| Brasil,2016/07/16,16:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Engenheiro Pedreira - Japeri,2016/07/16,17:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Linha Vermelha| São João de Meriti - RJ| Brasil,2016/07/16,17:18:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Cesário de Melo - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,07:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Nilo Peçanha - Centro| Duque de Caxias - RJ| Brasil,2016/07/16,18:50:00,Não,0,0,Não,0,0,Não
+Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/16,21:13:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Conselheiro Agostinho - Todos os Santos| Rio de Janeiro - RJ| Brasil,2016/07/16,22:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. República do Paraguai - Vila Sarapui| Duque de Caxias - RJ| Brasil,2016/07/15,21:10:00,Sim,0,0,Não Sabe,0,0,Não Sabe
+Rua Capitão Machado - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/16,23:45:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Davi - Nova Belem| Japeri - RJ| Brasil,2016/07/16,23:30:00,Não Sabe,0,0,Não Sabe,0,0,Não
+R. Conselheiro Jobim| 378 - Engenho Novo,2016/07/16,21:30:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rocinha| Rio de Janeiro - RJ| Brasil,2016/07/17,06:26:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/17,07:20:00,Não,0,0,Não Sabe,0,0,Não Sabe
+R. TÃ´rres Sobrinho| 48 - Meier,2016/07/17,08:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Grajau| Rio de Janeiro - RJ| Brasil,2016/07/17,09:38:15,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Pilar| Duque de Caxias - RJ| Brasil,2016/07/15,23:00:00,Sim,0,0,Não Sabe,0,0,Não Sabe
+R. Hadock Lobo| 7 - EstÃ¡cio,2016/07/14,20:30:25,Sim,1,0,Não Sabe,0,0,Não
+Rua Selma Tinoco - Jardim Canaa| Nova Iguaçu - RJ| Brasil,2016/07/16,22:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Ramos| Rio de Janeiro - RJ| Brasil,2016/07/17,13:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Linha Vermelha| 10010 - Centro
+Duque de Caxias,2016/07/16,13:11:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Armando SodrÃ©| 86-212 - Complexo do AlemÃ£o,2016/07/17,14:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Santa Cruz - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/17,14:32:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Francisco Bernardino| 179 - Riachuelo,2016/07/16,14:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Agariba - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/17,14:42:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Marechal Bitencourt - Riachuelo| Rio de Janeiro - RJ| Brasil,2016/07/17,14:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Jacarezinho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/17,15:32:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Itália D\'incau - Tomás Coelho| Rio de Janeiro - RJ| Brasil,2016/07/17,18:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Praia de Inhaúma - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/17,18:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Lopes Cunha| 149 - Fonseca - NiterÃ³i,2016/07/17,16:00:40,Sim,2,0,Sim,3,1,Sim
+Rua José de Alvarenga - Centro| Duque de Caxias - RJ| Brasil,2016/07/17,19:45:30,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Uruguai próximo ao 288 - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/17,19:54:04,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. de JacarepaguÃ¡| 6290-6298 - Anil,2016/07/17,21:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Edgard Werneck| 707 - Freguesia - JacarepaguÃ¡,2016/07/17,21:33:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Maria Lopes| 239 - Madureira| Rio de Janeiro - RJ| Brasil,2016/07/15,14:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Figueiredo de MagalhÃ£es| 780 - Copacabana,2016/07/17,21:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Sávio Cota de Almeida Gama - Niterói| Volta Redonda - RJ| Brasil,2016/07/17,22:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Alcobaça - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/17,22:42:56,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Doutor Nilo Peçanha - Centro| São Gonçalo - RJ| Brasil,2016/07/17,23:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Dr. Nilo PeÃ§anha| 1160-1170 - Mutondo - SÃ£o GonÃ§alo,2016/07/18,00:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Araruama - Jardim Noya| São João de Meriti - RJ| Brasil,2016/07/18,02:23:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Av. Chrisóstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,03:47:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Taquaral| 1-107 - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/18,04:51:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Pinto Teles - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/18,05:40:43,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Torres de Oliveira - Piedade| Rio de Janeiro - RJ| Brasil,2016/07/18,07:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Pátria - Água Santa| Rio de Janeiro - RJ| Brasil,2016/07/18,07:15:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Barão da Torre - Ipanema| Rio de Janeiro - RJ| Brasil,2016/07/18,10:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Riodades - Fonseca| Niterói - State of Rio de Janeiro| Brazil,2016/07/18,11:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. Santa Maria - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/18,15:06:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Nossa Senhora da Penha - Penha| Rio de Janeiro - RJ| Brasil,2016/07/18,15:34:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/18,16:43:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Marechal Rondon - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/18,16:47:56,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. do RosÃ¡rio - Leme,2016/07/18,16:58:16,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Beco do Mosqueteiro - Leme,2016/07/18,17:09:04,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. de Santa Cruz| 7958-8080 - Senador CamarÃ¡,2016/07/18,17:00:00,Não Sabe,0,0,Sim,1,0,Sim
+Maré| Rio de Janeiro - RJ| Brasil,2016/07/18,19:48:42,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Ac. Público| 39 - Fonseca| Niterói - RJ| Brasil,2016/07/18,21:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Quiririm - Vila Valqueire| Rio de Janeiro - RJ| Brasil,2016/07/18,21:27:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Quito| 98| Mesquita - RJ| Brasil,2016/07/18,22:14:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Caniú - Pechincha| Rio de Janeiro - RJ| Brasil,2016/07/18,23:42:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Edgard Werneck| 1520 - Pechincha
+Rio de Janeiro - RJ,2016/07/18,23:36:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Chrisóstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,00:41:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Esperança - Jacaré| Rio de Janeiro - RJ| Brasil,2016/07/19,00:55:47,Não,0,2,Não Sabe,0,0,Sim
+Rua Áureliano Portugal - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/07/19,07:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. AntÃ´nio Pinto da Mota| 35 - Tijuca
+Rio de Janeiro - RJ,2016/07/19,07:05:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Professor Gabizo - Tijuca
+Rio de Janeiro - RJ,2016/07/19,07:07:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Neves| São Gonçalo - RJ| Brasil,2016/07/19,11:42:59,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. LuÃ­s Carlos Prestes| 290 - Barra da Tijuca,2016/07/19,13:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,10:30:00,Não Sabe,0,0,Sim,0,1,Não Sabe
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,15:58:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/17,13:59:00,Sim,1,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:06:00,Não Sabe,0,0,Sim,1,0,Não Sabe
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,14:09:00,Não Sabe,0,0,Sim,1,0,Não Sabe
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,14:10:00,Não Sabe,0,0,Sim,0,0,Não Sabe
+Morro da Providencia - Gamboa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/14,14:11:00,Sim,1,0,Não Sabe,0,0,Sim
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,14:11:00,Não Sabe,0,0,Sim,1,0,Sim
+Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:12:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:13:00,Não Sabe,0,0,Sim,1,0,Sim
+Passarela Shopping Nova América - Del Castilho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:14:00,Sim,1,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Niterói - Mangueira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/14,14:16:00,Não Sabe,0,0,Sim,0,1,Não Sabe
+Rua Comandante Coelho - Cordovil| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/14,14:16:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Caju| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/15,14:17:00,Sim,1,0,Sim,1,0,Não
+Irajá| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/15,14:18:00,Não,0,0,Sim,1,0,Não
+Bento Ribeiro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:18:00,Sim,1,0,Não,0,0,Não
+Linha Vermelha| 245| São João de Meriti - State of Rio de Janeiro| Brazil,2016/07/16,14:22:00,Não,0,0,Não,0,0,Sim
+Rua Argos - Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:23:00,Sim,1,0,Sim,1,0,Não
+Rodovia Presidente Dutra| 318| Nova Iguaçu - State of Rio de Janeiro| Brazil,2016/07/16,14:32:00,Não,0,0,Sim,0,1,Não Sabe
+Rua Mém de Sá - Centro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:33:00,Não Sabe,0,0,Sim,1,0,Sim
+São João de Meriti - State of Rio de Janeiro| Brazil,2016/07/18,03:33:00,Sim,0,1,Não Sabe,0,0,Não Sabe
+Avenida Brasil| 200 - Manguinhos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:36:00,Não,0,0,Sim,1,0,Não Sabe
+Avenida Brasil| 200 - Manguinhos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:36:00,Não,0,0,Sim,1,0,Não Sabe
+Rua Áureliano Portugal - Rio Comprido| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,14:39:00,Não,0,0,Sim,0,1,Sim
+Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:40:00,Não Sabe,0,0,Sim,0,1,Não Sabe
+Rua Argos - Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:43:00,Não,0,0,Sim,0,1,Não
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:44:00,Não Sabe,0,0,Sim,0,1,Não Sabe
+Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/19,14:53:00,Sim,2,0,Não Sabe,0,0,Não Sabe,Imprensa
+Anchieta| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,15:01:00,Não Sabe,0,0,Sim,1,0,Não Sabe,Polícia
+Rua do Engenho Novo - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/17,02:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Nossa Senhora da Penha - Penha| Rio de Janeiro - RJ| Brasil,2016/07/19,16:02:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Tv. Jacupema| 87-433 - Olaria
+Rio de Janeiro - RJ,2016/07/19,15:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Santa Isabel - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/19,16:53:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Doutor Mario Vianna 754 - Santa Rosa| Niterói - RJ| Brasil,2016/07/19,18:31:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Paul Muller| 394-672 - Penha
+Rio de Janeiro - RJ,2016/07/19,15:51:00,Não,0,0,Não,0,0,Sim
+Rua Doutor Mario Vianna 754 - Santa Rosa| Niterói - RJ| Brasil,2016/07/19,21:46:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Clóvis Paulo da Rocha - Senador Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/19,22:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Carmela Dutra - Santa Luzia| São Gonçalo - RJ| Brasil,2016/07/19,22:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada José Rucas - Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,13:26:00,Não Sabe,0,0,Sim,0,1,Sim
+Jockey| São Gonçalo - RJ| Brasil,2016/07/18,22:43:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Álvaro Ramos - Jardim Olavo Bilac| Duque de Caxias - RJ| Brasil,2016/07/19,23:13:52,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Manuel Nogueira de Sá - Realengo| Rio de Janeiro - RJ| Brasil,2016/07/20,00:07:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. AutomÃ³vel Clube| 2092 - Fragoso
+MagÃ© - RJ,2016/07/19,15:20:00,Não Sabe,1,0,Não Sabe,0,0,Não Sabe
+Rua Noronha Torrezão - Santa Rosa| Niterói - RJ| Brasil,2016/07/18,23:26:00,Não,0,0,Não Sabe,0,0,Não
+Av. Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/20,07:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Madureira| Rio de Janeiro - RJ| Brasil,2016/07/20,07:27:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/20,08:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Teixeira Ribeiro - Maré| Rio de Janeiro - RJ| Brasil,2016/07/20,08:50:04,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Principal - Maré| Rio de Janeiro - RJ| Brasil,2016/07/20,09:34:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua da Proclamação - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/20,09:36:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Srg. Névio dos Santos - Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/20,09:40:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Estrada José Rucas - Penha| Rio de Janeiro - RJ| Brasil,2016/07/20,11:01:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+R. Píres| 10 - Barreto| Niterói - RJ| Brasil,2016/07/20,18:48:10,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Nelson Cardoso| 1325 - Taquara| Rio de Janeiro - RJ| Brasil,2016/07/20,19:05:54,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Padre Leandro| 1-65 - Fonseca - Niterói,2016/07/18,22:21:00,Não,0,0,Sim,1,0,Não
+R. Pres. Craveiro Lopes| 462 - Engenhoca| Niterói - RJ| 24110-340| Brasil,2016/07/20,20:47:04,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Niterói - Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/20,20:51:00,Não Sabe,0,0,Sim,0,0,Sim
+Rua Vereador Maurício de Souza - Engenhoca| Niterói - RJ| Brasil,2016/07/20,20:51:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Ender - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/07/20,22:35:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Av. Pref. Sá Lessa| 46 - Acari,2016/07/20,22:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Chrisóstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,00:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Min. Moreira de Abreu| 492-500 - Olaria,2016/07/20,22:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro da Coroa - Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,07:33:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Ocidental - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/07/21,07:41:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Escragnole Dória| 258-386 - Santa Teresa,2016/07/21,07:48:20,Não Sabe,0,0,Não Sabe,0,0,Sim
+Morro do Amor - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/21,08:31:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Cidade de Deus - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/21,09:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua dos Araújos - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/21,10:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Lima Drumond - Váz Lobo| Rio de Janeiro - RJ| Brasil,2016/07/20,09:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/21,11:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Modestino Kanto - Jardim Sulacap| Rio de Janeiro - RJ| Brasil,2016/07/21,10:36:00,Não,0,0,Não Sabe,0,0,Não
+R. dos Teceloes| 246 - Bangu,2016/07/21,14:22:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Siqueira Campos próximo ao 253 - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/21,16:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/21,16:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Vitória Régia - Lagoa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,16:26:16,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Vila Miséria - Copacabana,2016/07/21,16:22:18,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Camboatá| 3212 - Costa Barros,2016/07/21,17:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Valparaíso - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/21,18:59:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua São Carlos - Estácio| Rio de Janeiro - RJ| Brasil,2016/07/21,20:55:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. do Camboatá| 3016 - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/21,22:40:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Av. Chrisóstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,00:15:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Beco Felipao| 255-309 - Copacabana,2016/07/22,15:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/22,06:04:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Jacarepagua,2016/07/22,06:59:16,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Dezoito| Itaguaí - RJ| Brasil,2016/07/22,02:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/22,06:09:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Engenheiro Gama Lôbo - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/22,08:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Gen. Roca| 30-38 - Tijuca,2016/07/20,21:30:10,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Capela - Estácio| Rio de Janeiro - RJ| Brasil,2016/07/22,03:11:00,Sim,1,0,Não Sabe,0,0,Sim
+Rua Barão - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/22,17:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+R. Píres| 10 - Barreto| Niterói - RJ| Brasil,2016/07/22,21:16:50,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Oliveira Botelho| 785| São Gonçalo - RJ| Brasil,2016/07/22,21:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Francisco da Cruz Nunes - Largo da Batalha| Niterói - RJ| Brasil,2016/07/22,22:01:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Francisco da Cruz Nunes| 79A - Itaipu - Niterói,2016/07/22,22:30:47,Não Sabe,0,0,Não Sabe,0,0,Sim
+Av. Domício da Gama| 834-884 - Jardim Catarina - São Gonçalo,2016/07/22,23:36:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Camões| 793 - Penha Circular,2016/07/23,00:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Santa Isabel - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/23,01:42:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Sousa Franco - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/23,01:44:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Coronel Phidias Távora - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/23,08:28:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+R. Domicília César| 274 - Eng. Belford - São João de Meriti,2016/07/22,14:00:00,Não,0,0,Não,0,0,Sim
+Morro da mangueira,2016/07/23,12:22:50,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Paula e Silva - São Cristóvão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,13:53:15,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Cel. Sebastião Dantas| 43 - Santa Rosa - Niterói,2016/07/23,14:33:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Dr. Mario Vianna| 754 - Santa Rosa| Niterói - RJ| Brasil,2016/07/23,14:39:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Comunidade Souza Soares Santa Rosa Niterói,2016/07/23,15:16:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Caiçara - Irajá| Rio de Janeiro - RJ| Brasil,2016/07/23,16:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Lima Drumond - Váz Lobo| Rio de Janeiro - RJ| Brasil,2016/07/23,16:27:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Tv. Gérson Machado| 1-137 - Váz Lobo,2016/07/23,16:29:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Pio XII| 42 - Jardim Nova Marilia
+Magé,2016/07/22,17:00:00,Não Sabe,0,0,Sim,0,0,Não
+Rua Doná Francisca - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/23,19:03:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Cabuçu - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/23,19:48:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Expedicionário José Amaro - Vila São Luiz| Duque de Caxias - RJ| Brasil,2016/07/23,07:00:12,Sim,0,0,Não,0,0,Não
+R. Lima Drumond| 257-299 - Váz Lobo,2016/07/23,20:18:33,Não Sabe,0,0,Não Sabe,0,0,Sim
+Morro da Baiana - Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/23,21:35:37,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Sr. do Bonfim| 594-658 - Cidade Sr. do Bonfim| Japeri - RJ| Brasil,2016/07/23,23:38:44,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/23,23:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Cinco| Japeri - RJ| Brasil,2016/07/24,00:45:13,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Joaquim Távora - Icaraí| Niterói - RJ| Brasil,2016/07/24,00:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Monte Córdova| 498-568 - Jardim Transmontano - Japeri,2016/07/24,00:50:19,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/24,00:51:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Jangadeiros| 39 - Ipanema,2016/07/24,03:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Khartum| 41-95 - Bangu| Rio de Janeiro - RJ| 21852-570| Brasil,2016/07/24,07:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Santo Amaro - Glória| Rio de Janeiro - RJ| Brasil,2016/07/24,08:00:33,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Dom Hélder Câmara| 1285 - Benfica| Rio de Janeiro - RJ| Brasil,2016/07/24,09:08:29,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Visconde de Itauna|1330 - Gradim - São Gonçalo,2016/07/23,15:20:00,Sim,1,0,Sim,1,0,Não
+Av. Hermínio Aurélio Sampaio| 431-499 - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/24,12:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Quatorze| 1-29 - Praia Brava (Mambucaba)
+Angra dos Reis,2016/07/24,12:50:54,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Nelson de Oliveira e Silva - Vila Progresso| Niterói - State of Rio de Janeiro| Brazil,2016/07/24,11:31:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua dos Araújos - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/24,20:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Hadock Lobo - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/24,20:23:45,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada José Rucas| 1040 - Penha,2016/07/24,22:39:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Senador Camará| Rio de Janeiro - RJ 21833-180| Brasil,2016/07/24,03:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Márcio Vieira de Oliveira| 1881 - Inconfidencia
+Nova Iguaçu,2016/07/20,16:30:00,Não,0,0,Sim,1,2,Não
+Rua das Laranjeiras - Laranjeiras| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/24,22:46:00,Não Sabe,0,0,Não Sabe,2,0,Não Sabe
+Rua Aratangi - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/07/24,22:50:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Bartira - Colégio| Rio de Janeiro - RJ| Brasil,2016/07/24,23:04:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Francisco Antônio Russo - Engenheiro Pedreira| Japeri - RJ| Brasil,2016/07/23,23:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Praça - Parque Analandia| São João de Meriti - RJ| Brasil,2016/07/20,05:15:00,Não,0,0,Não,0,0,Sim
+Rua Taquarichim - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/24,22:31:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Conrado Barbosa de Souza| 22 - Fonseca| Niterói - RJ| Brasil,2016/07/24,23:33:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Ver. Maurício de Souza| 1-341 - Engenhoca
+Niterói,2016/07/24,23:36:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Doutor Mario Vianna - Santa Rosa| Niterói - State of Rio de Janeiro| Brazil,2016/07/23,14:40:00,Sim,1,0,Não Sabe,0,0,Sim
+R. Prof. Clemente Ferreira| 1520 - Bangu| Rio de Janeiro - RJ 21715-417| Brasil,2016/07/25,00:10:50,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Artur Neiva| 174-186 - Jardim Sulacap,2016/07/25,01:06:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Atalaia| Niterói - RJ| Brasil,2016/07/25,10:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Manuel Luiz - Valverde| Nova Iguaçu - RJ| Brasil,2016/07/25,02:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/25,12:56:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/25,13:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua da Grota - Jardim São João| Japeri - RJ| Brasil,2016/07/23,01:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Domício da Gama| 834-884 - Jardim Catarina - São Gonçalo,2016/07/25,20:54:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Solimões - Piedade| Rio de Janeiro - RJ| Brasil,2016/07/25,21:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Caminho do Onófrio| 175-211 - Mutondo
+São Gonçalo,2016/07/24,18:16:00,Não Sabe,0,0,Sim,2,0,Não Sabe
+Rua Grajaú - Grajau| Rio de Janeiro - RJ| Brasil,2016/07/25,22:19:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Barão do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/25,22:42:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada dos Três Rios - Freguesia (Jacarepaguá)| Rio de Janeiro - RJ| Brasil,2016/07/25,22:50:46,Não Sabe,0,0,Não Sabe,0,0,Não
+Barreto| Niterói - RJ| Brasil,2016/07/25,23:56:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Pres. Craveiro Lopes| 452 - Barreto| Niterói - RJ| 24110-340| Brasil,2016/07/26,00:05:16,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. do Rumo| 628-966 - Barreto
+Niterói,2016/07/26,00:05:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Laercio Xavier de Mendonca 758 - Jardim Nova República - São Gonçalo,2016/07/26,00:31:04,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Venda Velha| São João de Meriti - RJ| Brasil,2016/07/25,21:10:03,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Morro Azul - Jardim Olavo Bilac - São João de Meriti,2016/07/26,03:09:07,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Vista Alegre| Barra Mansa - RJ| Brasil,2016/06/25,21:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Teixeira Ribeiro - Maré| Rio de Janeiro - RJ| Brasil,2016/07/26,07:00:34,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Teixeira Ribeiro - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/26,12:01:00,Não Sabe,0,0,Sim,0,0,Sim
+R. da Proclamação| 132 - Bonsucesso,2016/07/26,11:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Alabama| 58-282 - Bonsucesso,2016/07/26,13:54:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Sapiatuba| angra dos reis,2016/07/26,17:45:03,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Dr. Mario Vianna| 845 - Santa Rosa,2016/07/26,19:51:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/19,14:57:00,Sim,2,0,Não Sabe,0,0,Não
+R. União| 2125-2175 - Guadalupe,2016/07/19,20:17:00,Não,0,0,Sim,1,0,Sim
+Morro da Coroa - Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,20:19:00,Não,0,0,Sim,1,1,Sim
+R. União| 2066 - Guadalupe,2016/07/21,20:26:00,Não,0,0,Sim,2,0,Sim
+Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/20,20:28:00,Não,0,0,Sim,2,0,Sim
+Rua São Carlos - Estácio| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,20:34:00,Sim,1,0,Não,0,0,Sim
+Rua Bangu| 77 - Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,20:39:00,Não,0,0,Sim,1,0,Sim
+Avenida Monsenhor Félix - Irajá| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:41:00,Não,0,0,Não,0,0,Não Sabe
+Rua Renato Vasconcelos - Cosmos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:43:00,Sim,1,1,Sim,1,0,Não
+Rosa dos Ventos| Nova Iguaçu - State of Rio de Janeiro| Brazil,2016/07/23,20:44:00,Sim,0,1,Não,0,0,Não
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:44:00,Não,0,0,Não,0,0,Não
+São João de Meriti - State of Rio de Janeiro| Brazil,2016/07/23,20:45:00,Não,0,0,Sim,1,0,Sim
+São Gonçalo - State of Rio de Janeiro| Brazil,2016/07/23,20:46:00,Não,0,0,Sim,3,0,Sim
+Ladeira Ary Barroso - Leme| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:51:00,Não,0,0,Não,0,0,Sim,Polícia
+Parada de Lucas,2016/07/26,16:00:00,Não,0,0,Não,0,0,Não
+Via Binário do Porto - Santo Cristo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,20:52:00,Sim,1,0,Não,0,0,Não
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,20:53:00,Não,0,0,Sim,0,1,Sim
+Rua Marechal Marciano próximo ao 381 - Realengo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/24,20:55:00,Sim,0,1,Sim,0,1,Não
+Santa Cruz| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/25,20:55:00,Não,0,0,Sim,1,0,Sim
+Avenida dos Democráticos - Manguinhos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/25,20:57:00,Não,0,0,Sim,0,1,Sim
+R. do Rodeio| 2-136 - Costa Barros,2016/07/19,08:00:00,Não,0,0,Sim,1,0,Sim,Polícia
+Vaz Lobo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,21:00:00,Não,0,0,Não,0,0,Sim,Polícia
+Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,21:00:00,Não,0,0,Sim,1,0,Sim,Polícia
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/20,21:01:00,Não,0,0,Não,0,0,Não Sabe,Imprensa
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,17:07:00,Não,0,0,Não,0,0,Não Sabe,Imprensa
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,20:08:00,Não,0,0,Não,0,0,Não Sabe,Imprensa
+Complexo do Alemão| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,21:08:00,Não,0,0,Não,0,0,Não Sabe,Imprensa
+Rua dos Artistas - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/26,19:08:00,Não,0,0,Não,0,0,Não
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/26,21:57:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Maré| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/20,22:47:00,Não,0,0,Não,0,0,Sim,Imprensa
+Maré| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,22:48:00,Não,0,0,Não,0,0,Não Sabe,Imprensa
+Maré| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,22:49:00,Não,0,0,Não,0,0,Não Sabe
+Maré| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/26,22:50:00,Não,0,0,Não,0,0,Sim,Imprensa
+R. Dr. Siqueira - Vila Esperanca| Magé - RJ| Brasil,2016/07/27,01:38:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Travessa Pracinha Sebastião Garcia| 2-106 - Pitangueiras,2016/07/27,06:17:25,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Nove| 1288-1478 - Jardim da Prata| Magé - RJ| 25900-000| Brasil,2016/07/25,22:30:00,Não,0,0,Não Sabe,0,0,Não Sabe
+Estrada Do Galeao próximo ao 420
+Cacuia,2016/07/27,06:00:17,Não,0,0,Não,0,0,Sim
+Av. Automóvel Clube| 462-608 - Jardim Barro Branco - Duque de Caxias,2016/07/27,04:35:07,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/27,11:00:00,Não,0,0,Sim,0,1,Sim,Imprensa
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/27,09:00:00,Não,0,0,Sim,1,0,Sim,Imprensa
+Colubandê| São Gonçalo - RJ| Brasil,2016/07/26,23:30:00,Não,0,0,Não,0,0,Não,Polícia
+Estrada da Covanca - Tanque| Rio de Janeiro - RJ| Brasil,2016/07/27,15:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Deputado José da Costa Franca - Vilar dos Teles| São João de Meriti - RJ| Brasil,2016/07/25,19:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. Itacolomi - Meier,2016/07/27,17:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Petrocochino - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/27,19:37:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Santa Catarina - Jardim Catarina - São Gonçalo,2016/07/27,14:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua das Laranjeiras| 2 - Vila Margarida Itaguaí,2016/07/27,21:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. da Luz| 2 - Cidade de Deus,2016/07/27,21:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/27,22:15:13,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Brás de Pina| Rio de Janeiro - RJ| Brasil,2016/07/27,22:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Edgard Werneck| 1268 - Pechincha,2016/07/27,22:20:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Sousa Franco| 790 - Vila Isabel| Rio de Janeiro - RJ| 20551-120| Brasil,2016/07/27,23:42:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/28,10:16:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/28,09:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe,Imprensa
+Rua Pereira Nunes - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/26,18:03:00,Não,0,0,Sim,1,0,Não,Imprensa
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/27,22:16:00,Não,0,0,Sim,0,1,Não,Imprensa
+Rua Edgard Werneck| 1288 - Pechincha,2016/07/28,13:18:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/28,09:25:00,Não,0,0,Não Sabe,0,0,Não,Imprensa
+R. Min. Otávio Kelly| 293 - Icaraí| Niterói - RJ| 24220-300| Brasil,2016/07/28,19:10:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Miriambi| São Gonçalo - RJ| Brasil,2016/07/28,21:27:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Pedro Lima - São Roque| Queimados - RJ| Brasil,2016/07/28,23:25:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/29,08:13:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/29,08:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/29,09:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/29,07:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe,Imprensa
+Maré| Rio de Janeiro - RJ| Brasil,2016/07/29,06:00:00,Não Sabe,0,0,Não Sabe,0,0,Sim,Imprensa
+Rua São Miguel - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/29,08:38:28,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/28,11:51:00,Sim,1,0,Não,0,0,Sim,Imprensa
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/29,12:06:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Londres| 616 - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/29,13:08:30,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Santa Luíza - Maracanã| Rio de Janeiro - RJ| Brasil,2016/07/28,21:00:33,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Joaquim Rodrigues - Parada de Lucas| Rio de Janeiro - RJ| Brasil,2016/07/26,23:23:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Meier| Rio de Janeiro - RJ| Brasil,2016/07/29,13:35:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. C| 592-608 - Vila Ibirapitanga Itaguaí,2016/07/29,14:09:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Brasil - Irajá| Rio de Janeiro - RJ| Brasil,2016/07/28,21:23:00,Não,0,0,Sim,1,0,Não,Imprensa
+Gradim| São Gonçalo - RJ| Brasil,2016/07/29,08:01:00,Não,0,0,Sim,1,0,Não,Imprensa
+Rua Saint Roman - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/28,22:30:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Arroio Pavuna - Jacarepagua| Rio de Janeiro - RJ| Brasil,2016/07/29,09:10:00,Não,0,0,Não Sabe,0,0,Sim,Imprensa
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/28,19:17:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe,Imprensa
+R. Conselheiro Otaviano| 71-85 - Vila Isabel,2016/07/29,16:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Túnel Noel Rosa - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/29,16:12:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/29,16:11:00,Não Sabe,0,2,Não Sabe,0,0,Não Sabe
+Rua Jessé| 45 - Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/29,21:12:35,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Frei Caneca| 8 - Santa Teresa,2016/07/30,23:50:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua São Miguel - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/29,07:40:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Monsenhor Félix - Vaz Lobo  Rio de Janeiro - RJ| Brasil,2016/07/30,00:52:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estr. Francisco da Cruz Nunes| 25-709 - Largo da Batalha - Niterói,2016/07/30,05:13:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Av. Marechal Fontenele| 4544-4580 - Magalhaes Bastos| Rio de Janeiro - RJ| 21750-001| Brasil,2016/07/30,13:27:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Parque Florestal da Tijuca,2016/07/30,13:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rocinha| Rio de Janeiro - RJ| Brasil,2016/07/30,13:49:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Nova - Rocinha,2016/07/30,13:49:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada Do Taquaral próximo ao 180 - Senador Camará| Rio de Janeiro - RJ| Brasil,2016/07/31,03:48:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Frei Henrique| 180 - Piedade,2016/07/31,04:57:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/31,11:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Tv. Dr. Beltrão| 673 - Santa Rosa
+Niterói,2016/07/31,05:58:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Castelnuovo - Tijuca| Rio de Janeiro - RJ| Brasil,2016/06/28,09:35:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+R. Castelnuovo| 407 - Tijuca,2016/06/24,13:32:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Rua Sete de Setembro - Complexo do Alemão| Rio de Janeiro - RJ| Brasil,2016/07/31,17:02:00,Não Sabe,0,1,Não Sabe,0,2,Sim
+R. Eurico Sales| 501 - Porto Novo - São Gonçalo,2016/07/31,18:37:34,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Cândido Benício - Praça Seca| Rio de Janeiro - RJ| Brasil,2016/07/31,15:45:00,Não,0,0,Não Sabe,0,0,Não
+R. Parobi| 331-339 - Colégio,2016/07/31,22:10:17,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+R. Lucio Bitencourt| 2 - Jardim Catarina - São Gonçalo,2016/07/31,23:03:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Dois - Conjunto Otacilio Camara| Rio de Janeiro - RJ| Brasil,2016/07/31,23:11:00,Não Sabe,0,0,Não Sabe,0,0,Não
+Rua Visconde de Abaeté - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/31,23:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/31,23:30:00,Não Sabe,0,0,Não Sabe,0,0,Sim
+Estrada Marechal Miguel Salazar Mendes de Moraes - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/31,23:58:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Rua Itapeva - Guaxindiba| São Gonçalo - RJ| Brasil,2016/07/29,19:40:00,Não,0,0,Não,0,0,Não,Imprensa
+Avenida Brás de Pina - Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/30,09:42:00,Não,0,0,Sim,1,1,Não,Imprensa
+Rua Moraes Pinheiro - Anchieta| Rio de Janeiro - RJ| Brasil,2016/07/29,09:45:00,Não,0,0,Sim,1,0,Não,Imprensa
+Maricá - RJ| Brasil,2016/07/30,09:49:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe,Imprensa
+Túnel Antônio Rebouças - Maracanã| Rio de Janeiro - RJ| Brasil,2016/07/30,22:30:00,Não,0,0,Não,0,0,Não,Imprensa
+Avenida Brás de Pina - Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/30,12:00:00,Não,0,0,Sim,1,1,Não,Imprensa
+-22.764468583100737| -43.401145935058594,2016/08/01,12:27:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe
+Estrada da Alvorada - Complexo do Alemao| Rio de Janeiro - RJ| Brasil,2016/08/01,12:00:00,Não Sabe,0,0,Não Sabe,0,0,Não Sabe,Imprensa
