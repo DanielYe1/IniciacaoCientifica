@@ -1,798 +1,773 @@
-LOCAL DO TIROTEIO,DATA DO TIROTEIO,HOR¡RIO DO TIROTEIO,MORTES?,CIVIS MORTOS,POLICIAIS MORTOS,FERIDOS?,CIVIS FERIDOS,POLICIAIS FERIDOS,OPERA«√O POLICIAL?
-favela do rola - santa cruz,2016/07/05,06:02:00,N„o Sabe,0,1,N„o Sabe,0,1,N„o Sabe
-Rua Bar„o - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/05,13:44:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Estrada da Covanca - Tanque| Rio de Janeiro - RJ| Brasil,2016/07/05,13:48:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Arquias Cordeiro - Todos os Santos| Rio de Janeiro - RJ| Brasil,2016/07/03,22:34:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Santa Cruz| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/05,07:49:00,N„o Sabe,0,1,N„o Sabe,0,0,Sim
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/05,16:32:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/05,16:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Coreia| Mesquita - RJ| Brasil,2016/07/05,18:19:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Br·s de Pina - Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/05,18:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida S„o Paulo| Mesquita - RJ| Brasil,2016/07/05,18:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida S„o Paulo| Mesquita - RJ| Brasil,2016/07/05,18:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Sao Jose - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/05,18:51:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Guai˙ba - Acari| Rio de Janeiro - RJ| Brasil,2016/07/05,18:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Uni„o - Santa Terezinha| Mesquita - RJ| Brasil,2016/07/05,19:16:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/05,19:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Travessa Antonio Pereira Martins| NilÛpolis - RJ| Brasil,2016/07/05,19:21:00,N„o,0,0,N„o,0,0,N„o Sabe
-Rua Ana Neri prÛximo ao 1255 - Rocha| Rio de Janeiro - RJ| Brasil,2016/07/05,19:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Brg. Lima e Silva - Jardim Vinte e Cinco de Agosto| Duque de Caxias - RJ| Brasil,2016/07/04,18:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro Sao Joao - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/05,19:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Piracamb˙ - Acari| Rio de Janeiro - RJ| Brasil,2016/07/05,20:34:00,Sim,1,0,N„o Sabe,0,0,Sim
-Rua ArlÌndo Cardoso - SantÌssimo| Rio de Janeiro - RJ| Brasil,2016/07/05,19:00:00,Sim,1,0,N„o Sabe,0,0,N„o Sabe
-Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/05,20:58:00,Sim,0,0,N„o Sabe,0,0,N„o Sabe
-Rua AlcobaÁa - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/05,20:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Ara˙jo Leit„o - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/05,20:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Penha| Rio de Janeiro - RJ| Brasil,2016/07/05,21:56:00,N„o,0,0,N„o,0,0,N„o
-Morro da fe,2016/07/05,22:16:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Professor Jo„o Brasil - Venda da Cruz| S„o GonÁalo - RJ| Brasil,2016/07/05,22:24:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Pastor Martin Luther King Junior - Inhauma| Rio de Janeiro - RJ| Brasil,2016/07/05,22:24:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Nilo PeÁanha - Olinda| NilÛpolis - RJ| Brasil,2016/07/05,22:34:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua do Desenhista - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/05,22:38:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. AbÌlio Augusto T·vora - Jardim Alvorada| Nova IguaÁu - RJ| Brasil,2016/07/05,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/05,22:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Engenheiro Pedreira| Japeri - RJ| Brasil,2016/07/02,22:52:00,N„o Sabe,3,0,N„o Sabe,6,1,Sim
-Engenheiro Pedreira| Japeri - RJ| Brasil,2016/07/02,22:52:00,N„o Sabe,3,0,N„o Sabe,6,1,Sim
-Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Presidente General Craveiro Lopes - Olinda| NilÛpolis - RJ| Brasil,2016/07/05,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/05,22:39:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Baiana - Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/05,23:05:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Travessa Ces·rio de Melo - PaciÍncia| Rio de Janeiro - RJ| Brasil,2016/07/05,06:56:00,Sim,0,1,N„o,0,0,Sim
-Rua Nair - Tomazinho| S„o Jo„o de Meriti - RJ| Brasil,2016/07/05,23:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Costa J˙nior - Bangu| Rio de Janeiro - RJ| Brasil,2016/06/28,19:45:00,N„o,0,0,N„o,0,0,Sim
-Rua Conselheiro Galv„o - Madureira| Rio de Janeiro - RJ| Brasil,2016/07/06,00:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Figueiredo Camargo prÛximo ao 1332 - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/05,22:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-GardÍnia Azul| Rio de Janeiro - RJ| Brasil,2016/07/06,23:53:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/06,00:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Camboat· - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/06,00:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/07/06,00:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Padre M·rio VersÈ - Anchieta| NilÛpolis - RJ| Brasil,2016/07/06,00:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Itajace - Anchieta| NilÛpolis - RJ| Brasil,2016/07/06,00:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/06,00:29:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Doutor Garnier - Rocha| Rio de Janeiro - RJ| Brasil,2016/07/06,00:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-JacarÈ| RJ| Brasil,2016/07/06,00:06:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua do Engenho Novo - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/05,00:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bispo Lacerda - Del Castilho| Rio de Janeiro - RJ| Brasil,2016/07/06,00:46:00,N„o Sabe,1,0,N„o Sabe,1,0,N„o Sabe
-Amendoeira| S„o GonÁalo - RJ| Brasil,2016/07/06,21:56:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Raul PompÈia - Engenho do Porto| Duque de Caxias - RJ| Brasil,2016/07/06,01:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Av. S„o Bento - S„o Bento| Duque de Caxias - RJ| Brasil,2016/07/05,20:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada de Belford Roxo| Nova IguaÁu - RJ| Brasil,2016/07/06,01:14:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Ibi· - TuriaÁu| Rio de Janeiro - RJ| Brasil,2016/07/06,01:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Av. Uni„o - Santa Terezinha| Mesquita - RJ| Brasil,2016/06/05,22:00:00,Sim,1,0,Sim,2,0,N„o
-Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/05,20:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Pedro Guedes - Maracan„| Rio de Janeiro - RJ| Brasil,2016/07/06,06:51:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Linha Amarela - Jacarepagua| Rio de Janeiro - RJ| Brasil,2016/07/06,07:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Cezar Muzio prÛximo ao 281 - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/06,08:19:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Cavalcante| Rio de Janeiro - RJ| Brasil,2016/07/06,09:12:00,N„o Sabe,0,12,N„o Sabe,0,0,N„o Sabe
-Rua do Magistrado - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/04,11:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Enes Filho - Penha Circular| Rio de Janeiro - RJ| Brasil,2016/07/06,12:03:00,N„o,0,0,N„o,0,0,N„o
-Av. Vicente de Carvalho - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/06,12:24:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Dezoito - Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/07/06,13:36:00,N„o Sabe,0,9,N„o Sabe,0,0,Sim
-Rua Lisboa - Jardim Santa Rosa| S„o Jo„o de Meriti - RJ| Brasil,2016/07/06,16:03:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Lisboa - Jardim Santa Rosa| S„o Jo„o de Meriti - RJ| Brasil,2016/07/06,16:03:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Capineira - Vila Ideal| Duque de Caxias - RJ| Brasil,2016/07/06,17:55:00,N„o Sabe,0,0,Sim,1,0,Sim
-Rua S„o JosÈ - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da Ajuda - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:16:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada de Praia Seca| Araruama - RJ| Brasil,2016/07/06,18:46:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/06,18:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua S„o JosÈ - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:15:00,N„o Sabe,1,0,N„o Sabe,1,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/06,19:32:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada do ItararÈ - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/06,19:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Governador Portela - Trezentos| S„o Jo„o de Meriti - RJ| Brasil,2016/07/06,19:53:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Uranos prÛximo ao 1326 - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/06,19:28:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Baronesa de Uruguaiana - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/06,18:05:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Maria Lucinda - Vila Tiradentes| S„o Jo„o de Meriti - RJ| Brasil,2016/07/06,20:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Valinhos - Engenho da Rainha| Rio de Janeiro - RJ| Brasil,2016/07/06,20:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada do ItararÈ - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/06,20:24:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada do P·u-Ferro - Pechincha| RJ| Brasil,2016/07/06,20:47:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada do P·u-Ferro - Pechincha| Rio de Janeiro - RJ| Brasil,2016/07/06,21:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Piratini prÛximo ao 728 - Centro| Duque de Caxias - RJ| Brasil,2016/07/06,21:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Arcampo| Duque de Caxias - RJ| Brasil,2016/07/06,20:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Av. Ces·rio de Melo - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,21:33:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,21:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Marcolino - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,20:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Dr. Jurumenha - Barro Vermelho| S„o GonÁalo - RJ| Brasil,2016/07/06,22:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua MÈxico - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:00:00,N„o Sabe,0,0,N„o Sabe,1,0,N„o Sabe
-Avenida Professor Jo„o Brasil - Venda da Cruz| NiterÛi - RJ| Brasil,2016/07/06,22:21:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa M·rio Lago - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:10:00,Sim,1,0,N„o,0,0,Sim
-Rua Vicentina Goularte - Miriambi| S„o GonÁalo - RJ| Brasil,2016/07/06,18:15:00,N„o Sabe,2,0,N„o Sabe,3,0,N„o
-Rua General Belegarde - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/06,22:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Ces·rio de Melo - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/06,23:01:00,N„o,0,0,N„o Sabe,0,0,N„o Sabe
-MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/06,23:28:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/07/06,23:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/06,23:43:00,N„o,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/06,23:45:00,N„o,0,0,Sim,1,0,Sim
-Morro Sao Joao - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/06,23:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Santa Amelia| Belford Roxo - RJ| Brasil,2016/07/07,23:50:00,N„o Sabe,0,0,N„o Sabe,1,0,N„o Sabe
-Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/07/07,00:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Morro Sao Joao - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/07,00:25:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Muito tito em frente a churrascaria Toca do Boi,2016/07/07,00:35:00,N„o,0,0,N„o,0,0,N„o
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,00:43:00,Sim,0,0,N„o Sabe,0,0,Sim
-Rua Japoara - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/06,23:30:00,N„o Sabe,1,0,N„o Sabe,0,0,Sim
-Rua H Isaac Zaidman - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,00:20:00,N„o,0,0,Sim,0,0,Sim
-Largo da Carioca - Centro| Rio de Janeiro - RJ| Brasil,2016/07/06,18:10:00,N„o Sabe,1,0,N„o Sabe,0,0,N„o Sabe
-Estrada de Madureira - Jardim Paraoso| Nova IguaÁu - RJ| Brasil,2016/07/07,02:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Via Light - Centro| Nova IguaÁu - RJ| Brasil,2016/07/07,02:53:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Magalh„es Castro - Riachuelo| Rio de Janeiro - RJ| Brasil,2016/07/05,23:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Magalh„es Castro - Riachuelo| Rio de Janeiro - RJ| Brasil,2016/07/05,23:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Duque de Caxias - RJ| Brasil,2016/07/06,22:00:00,Sim,1,0,Sim,1,0,N„o
-Rua Iguaba Grande - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,09:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/07,09:54:00,N„o,0,0,Sim,0,0,Sim
-Rua do Caj· - Penha| Rio de Janeiro - RJ| Brasil,2016/07/07,10:31:00,N„o,0,0,N„o,0,0,Sim
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,10:36:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. Granja - Palhada| Nova IguaÁu - RJ| Brasil,2016/07/04,15:18:00,N„o,3,5,N„o Sabe,0,0,Sim
-Rua Joaquim de Queiroz - Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/07,10:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Guai˙ba - Acari| Rio de Janeiro - RJ| Brasil,2016/07/07,10:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada do Camboat· - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/07,10:43:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Duque de Caxias - RJ| Brasil,2016/07/07,11:12:00,N„o Sabe,0,0,Sim,0,0,N„o Sabe
-Av. Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/07,11:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua FidÈlis de Carvalho - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,11:17:00,N„o Sabe,0,0,Sim,0,0,Sim
-Rua dos Coqueiros - Santa Cruz da Serra| Duque de Caxias - RJ| Brasil,2016/07/06,22:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Lins de Vasconcelos - Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,11:22:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Baronesa do Engenho Novo - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/05,20:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Lins De Vasconcelos prÛximo ao 640 - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/07,12:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Lins De Vasconcelos prÛximo ao 640 - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/07,12:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Parque Paulista| Duque de Caxias - RJ| Brasil,2016/07/06,13:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Goi·s - Centro| S„o Jo„o de Meriti - RJ| Brasil,2016/07/07,13:03:00,Sim,1,0,N„o,0,0,N„o
-Rua Eden - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/07,14:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Hannibal Porto prÛximo ao 601 - Iraj·| Rio de Janeiro - RJ| Brasil,2016/07/07,14:30:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Av. Uni„o - Santa Terezinha| Mesquita - RJ| Brasil,2016/07/07,15:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua ¡lvares de Azevedo - Cachambi| Rio de Janeiro - RJ| Brasil,2016/07/07,03:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/07/07,15:57:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,16:57:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua ¡lvares de Azevedo - Cachambi| Rio de Janeiro - RJ| Brasil,2016/07/07,04:24:00,Sim,1,0,Sim,1,0,Sim
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,17:14:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Baronesa,2016/07/07,17:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-S„o JosÈ Oper·rio| PraÁa Seca,2016/07/07,17:24:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bar„o - PraÁa Seca| RJ| Brasil,2016/07/07,17:30:00,N„o Sabe,0,190,N„o Sabe,0,0,N„o Sabe
-Rua Bar„o - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/07,17:34:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Cangulo| Duque de Caxias - RJ| Brasil,2016/07/07,18:08:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Leme| Rio de Janeiro - RJ| Brasil,2016/07/07,18:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Rio D\'ouro - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/07,18:59:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Mogiqui - Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/07,19:21:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua S„o Francisco Xavier - Maracan„| Rio de Janeiro - RJ| Brasil,2016/07/07,20:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/07,20:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/07,20:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/07,20:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua N·dia Maria de Menezes - Jardim Santo Antonio| S„o Jo„o de Meriti - RJ| Brasil,2016/07/07,21:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Comandante Ari Parreiras - Porto Velho| S„o GonÁalo - RJ| Brasil,2016/07/07,22:14:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua afonso guimaraes 47,2016/07/07,22:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Duque de Caxias - RJ| Brasil,2016/07/07,22:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua AntÙnio BasÌlio - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/07,23:09:00,Sim,1,0,N„o Sabe,0,0,N„o Sabe
-Rua ivanildo alves,2016/07/07,23:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Bento Ribeiro Dantas - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/07,23:16:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua EmÌlio Gomes| Duque de Caxias - RJ| Brasil,2016/07/07,22:07:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Do Magarca prÛximo ao 1284 - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/07,23:35:00,Sim,3,2,Sim,12,0,N„o
-Rua da Jangada - Penha Circular| Rio de Janeiro - RJ| Brasil,2016/07/08,00:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua SarapuÌ - Chatuba| Mesquita - RJ| Brasil,2016/07/08,01:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Pinheiros| TeresÛpolis - RJ| Brasil,2016/07/08,04:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bem-Te-VI - Gale„o| Rio de Janeiro - RJ| Brasil,2016/07/08,07:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/08,07:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Iguaba Grande - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/08,07:48:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Lima Drumond - V·z Lobo| Rio de Janeiro - RJ| Brasil,2016/07/08,08:02:00,N„o Sabe,0,10,N„o Sabe,0,0,Sim
-Estrada JosÈ Rucas - Penha| Rio de Janeiro - RJ| Brasil,2016/07/08,09:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Dez - Morro de S„o Bento| Santos - SP| Brasil,2015/12/01,10:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Pirpirituba - Realengo| Rio de Janeiro - RJ| Brasil,2016/07/08,11:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Tiroteio pesado,2016/07/07,11:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Camboat· 3427 - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/08,12:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Codaj·s| Duque de Caxias - RJ| Brasil,2016/07/08,15:14:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Senador Nabuco - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/08,16:18:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Santa Rosa| NiterÛi - RJ| Brasil,2016/07/08,17:24:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Centen·rio| Duque de Caxias - RJ| Brasil,2016/07/08,18:08:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Jose Do Patrocinio prÛximo ao 290 - Grajau| Rio de Janeiro - RJ| Brasil,2016/07/08,22:37:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Travessa do Holofote - Largo do Barradas| NiterÛi - RJ| Brasil,2016/07/08,22:57:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Manhama - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/09,00:32:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/09,00:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa da Prainha| Duque de Caxias - RJ| Brasil,2016/07/09,00:51:00,N„o,0,0,N„o,0,0,N„o Sabe
-Linha Amarela - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/09,03:08:00,N„o Sabe,0,2,N„o Sabe,0,1,N„o Sabe
-Rua Oleg·rio Mariano - Vila S„o Luiz| Duque de Caxias - RJ| Brasil,2016/07/08,21:30:00,Sim,1,0,N„o Sabe,0,0,N„o Sabe
-Gale„o| Rio de Janeiro - RJ| Brasil,2016/07/08,16:40:00,N„o,0,0,N„o,0,0,N„o Sabe
-Rua Judite Guerra - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/09,08:07:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua do Bispo| 117 - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/07/09,08:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Coronel ViÍira - Iraj·| Rio de Janeiro - RJ| Brasil,2016/07/09,11:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Morro da adita Sao Goncalo rj,2016/07/08,12:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Luigi de AmÍndola - Parque das Palmeiras| Angra dos Reis - RJ| Brasil,2016/07/09,13:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da G·vea - Vila Leopoldina| Duque de Caxias - RJ| Brasil,2016/07/09,13:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Dom HÈlder C‚mara - Engenho de Dentro| Rio de Janeiro - RJ| Brasil,2016/07/09,18:43:21,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Avenida Pelotas - Jardim Gramacho| Duque de Caxias - RJ| Brasil,2016/07/09,20:17:00,N„o Sabe,0,0,N„o,0,0,N„o Sabe
-Rua Capit„o Machado - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/09,20:39:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Camboat· - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/09,21:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Maestro Francisco Braga - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/09,19:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Dr. Carvalh„es - Belford Roxo - RJ| Brasil,2016/07/09,21:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua DomicÌlia CÈsar - Engenheiro Belford| S„o Jo„o de Meriti - RJ| Brasil,2016/07/09,13:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bar„o da Torre| 54 - Ipanema| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/06/30,22:30:00,N„o Sabe,0,0,Sim,1,0,Sim
-Rua GonÁalves Ferreira - Tomazinho| S„o Jo„o de Meriti - RJ| Brasil,2016/07/10,18:56:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. do Parque - Santa Cruz da Serra| Duque de Caxias - RJ| Brasil,2016/07/10,18:51:00,Sim,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Professora Õria Goulart - Barros Filho| Rio de Janeiro - RJ| Brasil,2016/07/10,20:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/10,20:37:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Nilo PeÁanha - Vilar dos Teles| S„o Jo„o de Meriti - RJ| Brasil,2016/07/10,20:30:00,Sim,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Camboat· 3293 - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/10,21:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/10,23:47:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua do Ceu - Vila Caranga| B˙zios - RJ| Brasil,2016/07/11,00:52:00,N„o,0,0,N„o,0,0,N„o
-Morro do Dende - Jardim Carioca| Rio de Janeiro - RJ| Brasil,2016/07/11,06:33:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada AnÌbal da Mota - Santa Teresa| Duque de Caxias - RJ| Brasil,2016/07/10,18:15:00,N„o Sabe,1,0,N„o,0,0,Sim
-quitanda|pavuna| rio de janeiro,2016/07/11,08:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Japeri - Parque Senhor do Bonfim| Duque de Caxias - RJ| Brasil,2016/07/11,08:51:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Centen·rio| Duque de Caxias - RJ| Brasil,2016/07/11,03:00:00,N„o,0,0,N„o,0,0,Sim
-Rua Tales de Carvalho - Jardim America| Rio de Janeiro - RJ| Brasil,2016/07/11,10:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Tales de Carvalho - Jardim America| Rio de Janeiro - RJ| Brasil,2016/07/11,10:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Darvin Brand„o - Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/11,07:00:00,N„o,0,0,N„o,0,0,Sim
-Acari| Rio de Janeiro - RJ| Brasil,2016/07/11,13:10:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Acari| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/05,11:50:00,N„o,0,0,N„o,0,0,Sim
-Rodovia Washington Luiz| 2895 - Parque Duque| Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/06,22:16:00,Sim,2,0,N„o Sabe,0,0,N„o
-Morro Pau da Bandeira - Vila Isabel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/08,16:18:00,N„o,0,0,N„o,0,0,Sim
-Rua Jord„o - Taquara| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/09,10:19:00,N„o,0,0,N„o,0,0,N„o
-PraÁa Nilo PeÁanha - Centro| NilÛpolis - State of Rio de Janeiro| Brazil,2016/07/08,22:20:00,Sim,1,0,N„o,0,0,N„o
-Rua ¡lvares de Azevedo| 270 - Cachambi| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,14:26:00,N„o,0,0,Sim,0,0,Sim
-Serrinha - State of Rio de Janeiro| Brazil,2016/07/08,07:00:00,N„o,0,0,N„o,0,0,Sim
-Rodovia Presidente Dutra| Belford Roxo - State of Rio de Janeiro| Brazil,2016/07/07,05:30:00,N„o,0,0,Sim,1,0,Sim
-Rua Nove| 508 - MarÈ| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/09,10:30:00,N„o,0,0,Sim,0,1,N„o
-Rua Cruzeiro do Sul| Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/10,06:00:00,Sim,1,0,N„o,0,0,N„o
-Jardim AmÈrica| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/10,07:00:00,Sim,1,0,N„o,0,0,N„o Sabe
-Rua Bar„o do Bom Retiro - Engenho Novo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/10,22:54:00,Sim,0,1,Sim,0,1,N„o Sabe
-Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,09:57:00,N„o,0,0,Sim,2,0,Sim
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/05,22:00:00,N„o,0,0,N„o,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/06,17:20:00,N„o,0,0,N„o,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,11:44:00,N„o,0,0,N„o,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/07,17:27:00,N„o,0,0,N„o,0,0,Sim
-Rua Manhama - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/11,17:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/11,17:45:00,N„o,0,0,N„o Sabe,0,0,N„o Sabe
-Acari| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/08,13:02:00,N„o,0,0,N„o,0,0,N„o Sabe
-Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,05:47:00,Sim,1,0,N„o,0,0,N„o Sabe
-Via Light - Centro| Nova IguaÁu - State of Rio de Janeiro| Brazil,2016/07/07,18:51:00,Sim,1,0,Sim,0,1,Sim
-Jardim Sumare| S„o Jo„o de Meriti - State of Rio de Janeiro| Brazil,2016/07/07,12:55:00,N„o,0,0,Sim,0,1,N„o Sabe
-ItaguaÌ - State of Rio de Janeiro| Brazil,2016/07/08,19:01:00,Sim,0,1,N„o,0,0,N„o
-Marechal Hermes| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,16:00:00,N„o,0,0,N„o,0,0,Sim
-Rua Capit„o Machado - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/11,21:49:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Comendador Pinto - Campinho| Rio de Janeiro - RJ| Brasil,2016/07/11,22:14:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Engenheiro Gama Lobo| 548 - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/11,22:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Maestro Ernesto NazarÈ - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/11,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Maestro Ernesto NazarÈ - Vila Isabel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,22:21:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/11,23:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua A A - Tom·s Coelho| Rio de Janeiro - RJ| Brasil,2016/07/11,23:08:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Fernando Lobo - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/12,03:08:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Dois - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/12,08:45:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Avenida Brigadeiro Trompowski prÛximo ao 222 - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/12,08:47:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Avenida Brigadeiro Trompowski| 214 - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/12,08:49:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Parque Uni„o - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/12,07:52:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Principal - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/12,09:08:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua DarcÌ Vargas - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/12,09:24:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Cavalcanti| Rio de Janeiro - RJ| Brasil,2016/07/12,09:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de SabÛia| 54 - Cavalcanti| Rio de Janeiro - RJ| Brasil,2016/07/12,10:12:00,N„o Sabe,0,0,Sim,0,0,Sim
-Rua Limeira - Tom·s Coelho| Rio de Janeiro - RJ| Brasil,2016/07/12,09:41:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Silvio Terra - Barros Filho| Rio de Janeiro - RJ| Brasil,2016/07/12,12:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Jord„o| 650 - Tanque| Rio de Janeiro - RJ| Brasil,2016/07/09,09:42:00,N„o,0,0,N„o,0,0,N„o
-Avenida Brasil| 4600 - Ramos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/10,14:01:00,N„o,0,0,Sim,0,0,N„o
-Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,10:07:00,Sim,1,0,N„o Sabe,0,0,Sim
-Coelho Neto| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/11,14:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Afonso Pena - Imperador| Nova IguaÁu - RJ| Brasil,2016/07/12,15:42:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Pinto de Azevedo - Cidade Nova| Rio de Janeiro - RJ| Brasil,2016/07/12,17:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bar„o do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/12,06:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida do Corretor - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/12,19:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Jardim AmÈrica| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,18:36:00,N„o,0,0,Sim,0,1,N„o
-Rua Santa Margarida - Km 32 - RJ| Brasil,2016/07/12,21:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Avenida Doutor Manoel Teles - Centro| Duque de Caxias - RJ| Brasil,2016/07/12,21:09:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Joaquim TÙrres - Miriambi| S„o GonÁalo - RJ| Brasil,2016/07/12,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Felipe Cardoso - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/12,21:08:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Felipe Cardoso - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/12,21:08:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Jurubeba - Parque Anchieta| Rio de Janeiro - RJ| Brasil,2016/07/13,01:28:00,N„o,0,0,N„o,0,0,N„o
-Rua Presidente Pedreira - Ing·| NiterÛi - RJ| Brasil,2016/07/13,01:57:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Eliseu Visconti - Catumbi| Rio de Janeiro - RJ| Brasil,2016/07/13,07:49:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Travessa Jacupema - Olaria| Rio de Janeiro - RJ| Brasil,2016/07/13,06:19:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,10:32:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Jacarezinho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,11:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua P„o de AÁ˙car - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/13,13:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua IguaÁu - Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,15:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/13,16:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua JosÈ do PatrocÌnio - Grajau| Rio de Janeiro - RJ| Brasil,2016/07/13,16:49:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Macacos - Sampaio| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,17:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/13,17:08:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Realengo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,17:33:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Laurindo Filho - Cavalcanti| Rio de Janeiro - RJ| Brasil,2016/07/13,19:06:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Central do Brasil - Centro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,19:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Barbuda| MagÈ - State of Rio de Janeiro| Brazil,2016/07/12,20:58:00,N„o Sabe,1,0,N„o Sabe,0,0,N„o Sabe
-Jardim AmÈrica| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,21:01:00,N„o Sabe,0,0,Sim,0,1,N„o Sabe
-Av. Rio de Janeiro - Caju| Rio de Janeiro - RJ| Brasil,2016/07/13,12:46:00,N„o,0,0,N„o,0,0,N„o Sabe,PolÌcia
-Rua Jorge Rudge - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/13,21:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/09,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/13,22:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Km 32| Nova IguaÁu - RJ| Brasil,2016/07/13,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Camboat· - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/13,23:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua S„o Carlos - Est·cio| Rio de Janeiro - RJ| Brasil,2016/07/13,23:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Marang· - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/13,22:57:00,N„o Sabe,2,0,N„o Sabe,0,0,Sim
-Rua S„o Miguel - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/13,22:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Vila Isabel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,21:53:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada de Botafogo - Costa Barros| Rio de Janeiro - RJ| Brasil,2016/07/14,07:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-SeropÈdica - RJ| Brasil,2016/07/13,21:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/14,09:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Bento Ribeiro Dantas - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/14,09:51:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Riachuelo - Rocha Sobrinho| Mesquita - RJ| Brasil,2016/07/14,09:57:00,N„o,0,0,N„o,0,0,N„o
-Av. Cidade de Deus - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/14,11:41:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Sinimb˙ - S„o CristÛv„o| Rio de Janeiro - RJ| Brasil,2016/07/14,12:29:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Nova Aurora| Belford Roxo - RJ| Brasil,2016/07/07,01:30:00,Sim,0,0,N„o,0,0,N„o
-Morro dos Cabritos,2016/07/14,08:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Macacos - vila isabel| Rio de Janeiro - RJ| Brasil,2016/07/13,21:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Augusto Magno - Vila Margarida| ItaguaÌ - RJ| Brasil,2016/07/14,06:07:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada ViÁoso Jardim - Cubango| NiterÛi - RJ| Brasil,2016/07/14,05:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/13,23:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. ItaÛca| 2547 - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/14,15:34:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Paulino Barbosa - …den| S„o Jo„o de Meriti - RJ| Brasil,2016/07/13,23:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/14,16:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Ara˙jo Leit„o - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/13,09:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Dr. Mario Vianna - Santa Rosa| NiterÛi - RJ| Brasil,2016/07/14,18:07:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Cacilda Becker| PetrÛpolis - RJ| Brasil,2016/07/14,18:34:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Alto idependencia. Petropolis rj,2016/07/14,18:46:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Santa cruz rio de janeiro  favela do rollas,2016/07/14,18:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro Jorge Turco - ColÈgio| Rio de Janeiro - RJ| Brasil,2016/07/13,17:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Maracan„ - Maracan„| Rio de Janeiro - RJ| Brasil,2016/07/10,23:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua 18 - Engenho| ItaguaÌ - RJ| Brasil,2016/07/14,20:31:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Freguesia (Jacarepagu·)| Rio de Janeiro - RJ| Brasil,2016/07/14,20:39:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Duque de Caxias - RJ| Brasil,2016/07/14,13:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Linha Amarela; Avenida Governador Carlos Lacerda - Manguinhos| Rio de Janeiro - RJ| Brasil,2016/07/14,21:19:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Ilha do Governador| Rio de Janeiro - RJ| Brasil,2016/07/14,21:18:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Joaquim Silva - Centro| Rio de Janeiro - RJ| Brasil,2016/07/07,23:00:00,N„o,0,0,N„o Sabe,0,0,N„o
-Rua Maria Luiza - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/14,22:03:00,N„o Sabe,0,4,N„o Sabe,0,0,N„o Sabe
-PARQUE DAS Palmeiras Palhada Nova IguaÁu RJ,2016/07/14,04:00:00,Sim,1,0,Sim,0,0,N„o
-Rua Maria Luiza - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/14,22:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Rio do Pau - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/14,22:37:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Adhemar Bebiano - Del Castilho| Rio de Janeiro - RJ| Brasil,2016/07/14,22:37:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Araruama - RJ| Brasil,2016/06/13,22:39:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Br·s de Pina| Rio de Janeiro - RJ| Brasil,2016/07/14,22:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua ¡lvaro Neves - Fonseca| NiterÛi - RJ| Brasil,2016/07/14,22:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Himalaia - Anchieta| Rio de Janeiro - RJ| Brasil,2016/07/14,22:54:00,N„o,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Campo Grande| 2104 - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/14,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-R. Gentil de Almeida - Hon√≥rio Gurgel
-Rio de Janeiro - RJ,2016/07/14,23:28:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Comendador LuÌs de Matos - Engenheiro Belford| S„o Jo„o de Meriti - RJ| Brasil,2016/07/14,21:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-R. Souto - Cascadura| Rio de Janeiro - RJ| Brasil,2016/07/15,00:26:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Marieta| 173 - S√£o Mateus
-S√£o Jo√£o de Meriti - RJ,2016/07/15,00:31:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Albano - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/15,00:32:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. Manuel Nogueira de S√°| 752 - Realengo
-Rio de Janeiro - RJ,2016/07/15,00:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. dos Italianos - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/15,00:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Marcodesia| 74 - Realengo
-Rio de Janeiro - RJ,2016/07/15,01:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Medeiros P·ssaro - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/15,04:00:30,N„o Sabe,1,0,N„o Sabe,0,0,N„o Sabe
-Bangu| Rio de Janeiro - RJ| Brasil,2016/07/15,00:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,06:22:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,06:22:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Felipe Cardoso - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,06:24:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Tv. Adalberto Batista| 2 - Bangu
-Rio de Janeiro - RJ,2016/07/15,06:49:00,N„o,0,0,N„o Sabe,0,0,Sim
-R. Natividade Saldanha| 182 - Santo Antonio
-Duque de Caxias - RJ,2016/07/01,09:00:00,Sim,1,0,N„o,0,0,N„o
-R. Boa Vista| 795-1929 - Anchieta
-Rio de Janeiro - RJ,2016/07/15,08:15:00,N„o Sabe,0,0,Sim,1,0,Sim
-PraÁa S„o Joaquim - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/13,20:00:47,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/15,09:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da P·tria - ¡gua Santa| Rio de Janeiro - RJ| Brasil,2016/07/15,09:28:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-¡gua Santa| Rio de Janeiro - RJ| Brasil,2016/07/15,09:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Travessa JosÈ Rucas| 1273 - Penha| Rio de Janeiro - RJ 21070-370| Brasil,2016/07/15,09:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Salvador Rizzo - Inhauma| Rio de Janeiro - RJ| Brasil,2016/07/14,22:19:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Guilhermina Bastos - Badu| NiterÛi - RJ| Brasil,2016/07/15,09:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Violeta prÛximo ao 397 - ¡gua Santa| Rio de Janeiro - RJ| Brasil,2016/07/15,08:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Boa Vista| 795 - Anchieta
-Rio de Janeiro - RJ
-21645-500,2016/07/15,11:42:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/07/15,11:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bispo Lacerda - Del Castilho| Rio de Janeiro - RJ| Brasil,2016/07/15,12:07:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. dos Democr·ticos - Manguinhos| Rio de Janeiro - RJ| Brasil,2016/07/15,12:10:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Avenida Senador VitÛrino Freire - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/07/15,12:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada do DendÍ - Praia da Bandeira| Rio de Janeiro - RJ| Brasil,2016/07/15,14:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Caetano da Silva - Cascadura| Rio de Janeiro - RJ| Brasil,2016/07/15,14:03:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Paranapu√£| 1818-1982 - Barros Filho
-Rio de Janeiro - RJ,2016/07/15,14:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-DendÍ| Rio de Janeiro - RJ| Brasil,2016/07/15,14:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Cocot·| Rio de Janeiro - RJ| Brasil,2016/07/15,14:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Centen·rio| Duque de Caxias - RJ| Brasil,2016/07/14,03:00:00,Sim,1,0,N„o,0,0,N„o Sabe
-Alameda S„o Boaventura - Fonseca| NiterÛi - State of Rio de Janeiro| Brazil,2016/07/15,15:28:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro da Formiga - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/15,15:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Vila S√£o Severino do Ramo| 367 - Guadalupe,2016/07/15,10:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua do Livramento - GambÙa| Rio de Janeiro - RJ| Brasil,2016/07/15,16:50:00,N„o,0,0,N„o,0,0,N„o
-Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/07/15,17:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Leoc·dio Figueiredo - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/15,17:33:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/15,18:18:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Apollo III| S„o GonÁalo - RJ| Brasil,2016/07/15,18:49:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Bar„o do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/15,16:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-S√£o Francisco de Itabapoana,2016/07/15,20:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida do ContÙrno - JÛquei Clube| S„o GonÁalo - RJ| Brasil,2016/07/15,20:43:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-quitanda| pavuna| rio de janeiro,2016/07/15,20:19:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Santa Clara - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/15,21:26:22,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua C‚ndido BenÌcio - Campinho| Rio de Janeiro - RJ| Brasil,2016/07/15,21:46:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Alameda S„o Boaventura - Fonseca| NiterÛi - RJ| Brasil,2016/07/15,22:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Boa Vista| 796-1930 - Anchieta,2016/07/15,22:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada do Camboat· - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/15,22:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Lu√≠s de Matos| 22 - Luz
-Nova Igua√ßu,2016/07/15,05:35:00,N„o Sabe,3,6,N„o Sabe,0,0,Sim
-Rua Aurino de Sa Leitao prÛximo ao 56 - JÛquei Clube| S„o GonÁalo - RJ| Brasil,2016/07/15,22:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Eulina Ribeiro| 501-509 - Engenho de Dentro,2016/07/15,22:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Camboata pr√≥ximo ao 2909
-Guadalupe,2016/07/15,23:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua S„o JosÈ - Fonseca| NiterÛi - State of Rio de Janeiro| Brazil,2016/07/15,23:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rosangela da Costa Barbedo
-Estr. da Agua Grande - Vista Alegre,2016/07/05,18:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-S„o CristÛv„o| Rio de Janeiro - RJ| Brasil,2016/07/15,23:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/16,00:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Borges Carneiro - Parque Moderno| Duque de Caxias - RJ| Brasil,2016/07/16,01:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Borges Carneiro - Parque Moderno| Duque de Caxias - RJ| Brasil,2016/07/16,01:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/16,01:27:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de NiterÛi - Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/16,02:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Amadeu Jo„o Penzin| 43 - Pavuna| Rio de Janeiro - RJ| 21520-620| Brasil,2016/07/16,04:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Paul M¸ller - Penha| Rio de Janeiro - RJ| Brasil,2016/07/16,06:51:00,N„o,0,0,N„o,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/16,07:08:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Paranhos - Olaria| Rio de Janeiro - RJ| Brasil,2016/07/16,07:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Benjamim Chambarelli| 300 - Caonze
-Nova Igua√ßu,2016/07/16,07:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bar„o do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/15,22:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro S„o Jo„o,2016/07/15,22:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua ProenÁa Rosa - Barros Filho| Rio de Janeiro - RJ| Brasil,2016/07/14,09:32:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-R. Cinco - Brisa Mar| ItaguaÌ - RJ| Brasil,2016/07/16,16:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Cinco - Brisa Mar| ItaguaÌ - RJ| Brasil,2016/07/16,16:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Engenheiro Pedreira - Japeri,2016/07/16,17:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Linha Vermelha| S„o Jo„o de Meriti - RJ| Brasil,2016/07/16,17:18:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Ces·rio de Melo - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/15,07:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Nilo PeÁanha - Centro| Duque de Caxias - RJ| Brasil,2016/07/16,18:50:00,N„o,0,0,N„o,0,0,N„o
-Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/16,21:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Conselheiro Agostinho - Todos os Santos| Rio de Janeiro - RJ| Brasil,2016/07/16,22:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Rep˙blica do Paraguai - Vila Sarapui| Duque de Caxias - RJ| Brasil,2016/07/15,21:10:00,Sim,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Capit„o Machado - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/16,23:45:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Davi - Nova Belem| Japeri - RJ| Brasil,2016/07/16,23:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-R. Conselheiro Jobim| 378 - Engenho Novo,2016/07/16,21:30:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rocinha| Rio de Janeiro - RJ| Brasil,2016/07/17,06:26:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/17,07:20:00,N„o,0,0,N„o Sabe,0,0,N„o Sabe
-R. T√¥rres Sobrinho| 48 - Meier,2016/07/17,08:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Grajau| Rio de Janeiro - RJ| Brasil,2016/07/17,09:38:15,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Pilar| Duque de Caxias - RJ| Brasil,2016/07/15,23:00:00,Sim,0,0,N„o Sabe,0,0,N„o Sabe
-R. Hadock Lobo| 7 - Est√°cio,2016/07/14,20:30:25,Sim,1,0,N„o Sabe,0,0,N„o
-Rua Selma Tinoco - Jardim Canaa| Nova IguaÁu - RJ| Brasil,2016/07/16,22:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Ramos| Rio de Janeiro - RJ| Brasil,2016/07/17,13:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Linha Vermelha| 10010 - Centro
-Duque de Caxias,2016/07/16,13:11:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Armando Sodr√©| 86-212 - Complexo do Alem√£o,2016/07/17,14:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de Santa Cruz - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/17,14:32:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Francisco Bernardino| 179 - Riachuelo,2016/07/16,14:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Agariba - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/17,14:42:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Marechal Bitencourt - Riachuelo| Rio de Janeiro - RJ| Brasil,2016/07/17,14:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Jacarezinho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/17,15:32:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua It·lia D\'incau - Tom·s Coelho| Rio de Janeiro - RJ| Brasil,2016/07/17,18:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Praia de Inha˙ma - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/17,18:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Lopes Cunha| 149 - Fonseca - Niter√≥i,2016/07/17,16:00:40,Sim,2,0,Sim,3,1,Sim
-Rua JosÈ de Alvarenga - Centro| Duque de Caxias - RJ| Brasil,2016/07/17,19:45:30,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Uruguai prÛximo ao 288 - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/17,19:54:04,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. de Jacarepagu√°| 6290-6298 - Anil,2016/07/17,21:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Edgard Werneck| 707 - Freguesia - Jacarepagu√°,2016/07/17,21:33:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Maria Lopes| 239 - Madureira| Rio de Janeiro - RJ| Brasil,2016/07/15,14:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Figueiredo de Magalh√£es| 780 - Copacabana,2016/07/17,21:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida S·vio Cota de Almeida Gama - NiterÛi| Volta Redonda - RJ| Brasil,2016/07/17,22:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua AlcobaÁa - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/07/17,22:42:56,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Doutor Nilo PeÁanha - Centro| S„o GonÁalo - RJ| Brasil,2016/07/17,23:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Dr. Nilo Pe√ßanha| 1160-1170 - Mutondo - S√£o Gon√ßalo,2016/07/18,00:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Araruama - Jardim Noya| S„o Jo„o de Meriti - RJ| Brasil,2016/07/18,02:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Av. ChrisÛstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,03:47:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Taquaral| 1-107 - Bangu| Rio de Janeiro - RJ| Brasil,2016/07/18,04:51:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Pinto Teles - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/18,05:40:43,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Torres de Oliveira - Piedade| Rio de Janeiro - RJ| Brasil,2016/07/18,07:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da P·tria - ¡gua Santa| Rio de Janeiro - RJ| Brasil,2016/07/18,07:15:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Bar„o da Torre - Ipanema| Rio de Janeiro - RJ| Brasil,2016/07/18,10:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Riodades - Fonseca| NiterÛi - State of Rio de Janeiro| Brazil,2016/07/18,11:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. Santa Maria - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/07/18,15:06:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Nossa Senhora da Penha - Penha| Rio de Janeiro - RJ| Brasil,2016/07/18,15:34:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/18,16:43:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Marechal Rondon - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/18,16:47:56,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. do Ros√°rio - Leme,2016/07/18,16:58:16,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Beco do Mosqueteiro - Leme,2016/07/18,17:09:04,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. de Santa Cruz| 7958-8080 - Senador Camar√°,2016/07/18,17:00:00,N„o Sabe,0,0,Sim,1,0,Sim
-MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/18,19:48:42,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Ac. P˙blico| 39 - Fonseca| NiterÛi - RJ| Brasil,2016/07/18,21:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Quiririm - Vila Valqueire| Rio de Janeiro - RJ| Brasil,2016/07/18,21:27:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Quito| 98| Mesquita - RJ| Brasil,2016/07/18,22:14:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Cani˙ - Pechincha| Rio de Janeiro - RJ| Brasil,2016/07/18,23:42:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Edgard Werneck| 1520 - Pechincha
-Rio de Janeiro - RJ,2016/07/18,23:36:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. ChrisÛstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,00:41:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua EsperanÁa - JacarÈ| Rio de Janeiro - RJ| Brasil,2016/07/19,00:55:47,N„o,0,2,N„o Sabe,0,0,Sim
-Rua ¡ureliano Portugal - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/07/19,07:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Ant√¥nio Pinto da Mota| 35 - Tijuca
-Rio de Janeiro - RJ,2016/07/19,07:05:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Professor Gabizo - Tijuca
-Rio de Janeiro - RJ,2016/07/19,07:07:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Neves| S„o GonÁalo - RJ| Brasil,2016/07/19,11:42:59,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Lu√≠s Carlos Prestes| 290 - Barra da Tijuca,2016/07/19,13:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,10:30:00,N„o Sabe,0,0,Sim,0,1,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,15:58:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/17,13:59:00,Sim,1,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:06:00,N„o Sabe,0,0,Sim,1,0,N„o Sabe
-Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,14:09:00,N„o Sabe,0,0,Sim,1,0,N„o Sabe
-Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,14:10:00,N„o Sabe,0,0,Sim,0,0,N„o Sabe
-Morro da Providencia - Gamboa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/14,14:11:00,Sim,1,0,N„o Sabe,0,0,Sim
-Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/12,14:11:00,N„o Sabe,0,0,Sim,1,0,Sim
-Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:12:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:13:00,N„o Sabe,0,0,Sim,1,0,Sim
-Passarela Shopping Nova AmÈrica - Del Castilho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/13,14:14:00,Sim,1,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de NiterÛi - Mangueira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/14,14:16:00,N„o Sabe,0,0,Sim,0,1,N„o Sabe
-Rua Comandante Coelho - Cordovil| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/14,14:16:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Caju| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/15,14:17:00,Sim,1,0,Sim,1,0,N„o
-Iraj·| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/15,14:18:00,N„o,0,0,Sim,1,0,N„o
-Bento Ribeiro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:18:00,Sim,1,0,N„o,0,0,N„o
-Linha Vermelha| 245| S„o Jo„o de Meriti - State of Rio de Janeiro| Brazil,2016/07/16,14:22:00,N„o,0,0,N„o,0,0,Sim
-Rua Argos - Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:23:00,Sim,1,0,Sim,1,0,N„o
-Rodovia Presidente Dutra| 318| Nova IguaÁu - State of Rio de Janeiro| Brazil,2016/07/16,14:32:00,N„o,0,0,Sim,0,1,N„o Sabe
-Rua MÈm de S· - Centro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:33:00,N„o Sabe,0,0,Sim,1,0,Sim
-S„o Jo„o de Meriti - State of Rio de Janeiro| Brazil,2016/07/18,03:33:00,Sim,0,1,N„o Sabe,0,0,N„o Sabe
-Avenida Brasil| 200 - Manguinhos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:36:00,N„o,0,0,Sim,1,0,N„o Sabe
-Avenida Brasil| 200 - Manguinhos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:36:00,N„o,0,0,Sim,1,0,N„o Sabe
-Rua ¡ureliano Portugal - Rio Comprido| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,14:39:00,N„o,0,0,Sim,0,1,Sim
-Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/18,14:40:00,N„o Sabe,0,0,Sim,0,1,N„o Sabe
-Rua Argos - Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:43:00,N„o,0,0,Sim,0,1,N„o
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/16,14:44:00,N„o Sabe,0,0,Sim,0,1,N„o Sabe
-Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/19,14:53:00,Sim,2,0,N„o Sabe,0,0,N„o Sabe,Imprensa
-Anchieta| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,15:01:00,N„o Sabe,0,0,Sim,1,0,N„o Sabe,PolÌcia
-Rua do Engenho Novo - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/17,02:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Nossa Senhora da Penha - Penha| Rio de Janeiro - RJ| Brasil,2016/07/19,16:02:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Tv. Jacupema| 87-433 - Olaria
-Rio de Janeiro - RJ,2016/07/19,15:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de Santa Isabel - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/19,16:53:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Doutor Mario Vianna 754 - Santa Rosa| NiterÛi - RJ| Brasil,2016/07/19,18:31:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Paul Muller| 394-672 - Penha
-Rio de Janeiro - RJ,2016/07/19,15:51:00,N„o,0,0,N„o,0,0,Sim
-Rua Doutor Mario Vianna 754 - Santa Rosa| NiterÛi - RJ| Brasil,2016/07/19,21:46:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua ClÛvis Paulo da Rocha - Senador Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/19,22:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Carmela Dutra - Santa Luzia| S„o GonÁalo - RJ| Brasil,2016/07/19,22:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada JosÈ Rucas - Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/19,13:26:00,N„o Sabe,0,0,Sim,0,1,Sim
-Jockey| S„o GonÁalo - RJ| Brasil,2016/07/18,22:43:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua ¡lvaro Ramos - Jardim Olavo Bilac| Duque de Caxias - RJ| Brasil,2016/07/19,23:13:52,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Manuel Nogueira de S· - Realengo| Rio de Janeiro - RJ| Brasil,2016/07/20,00:07:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Autom√≥vel Clube| 2092 - Fragoso
-Mag√© - RJ,2016/07/19,15:20:00,N„o Sabe,1,0,N„o Sabe,0,0,N„o Sabe
-Rua Noronha Torrez„o - Santa Rosa| NiterÛi - RJ| Brasil,2016/07/18,23:26:00,N„o,0,0,N„o Sabe,0,0,N„o
-Av. Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/20,07:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Madureira| Rio de Janeiro - RJ| Brasil,2016/07/20,07:27:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/20,08:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Teixeira Ribeiro - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/20,08:50:04,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Principal - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/20,09:34:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua da ProclamaÁ„o - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/20,09:36:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Srg. NÈvio dos Santos - Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/20,09:40:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Estrada JosÈ Rucas - Penha| Rio de Janeiro - RJ| Brasil,2016/07/20,11:01:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-R. PÌres| 10 - Barreto| NiterÛi - RJ| Brasil,2016/07/20,18:48:10,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Nelson Cardoso| 1325 - Taquara| Rio de Janeiro - RJ| Brasil,2016/07/20,19:05:54,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Padre Leandro| 1-65 - Fonseca - NiterÛi,2016/07/18,22:21:00,N„o,0,0,Sim,1,0,N„o
-R. Pres. Craveiro Lopes| 462 - Engenhoca| NiterÛi - RJ| 24110-340| Brasil,2016/07/20,20:47:04,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de NiterÛi - Mangueira| Rio de Janeiro - RJ| Brasil,2016/07/20,20:51:00,N„o Sabe,0,0,Sim,0,0,Sim
-Rua Vereador MaurÌcio de Souza - Engenhoca| NiterÛi - RJ| Brasil,2016/07/20,20:51:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Ender - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/07/20,22:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Av. Pref. S· Lessa| 46 - Acari,2016/07/20,22:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. ChrisÛstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,00:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Min. Moreira de Abreu| 492-500 - Olaria,2016/07/20,22:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro da Coroa - Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,07:33:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Ocidental - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/07/21,07:41:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Escragnole DÛria| 258-386 - Santa Teresa,2016/07/21,07:48:20,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Morro do Amor - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/21,08:31:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da Cidade de Deus - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/21,09:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua dos Ara˙jos - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/21,10:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Lima Drumond - V·z Lobo| Rio de Janeiro - RJ| Brasil,2016/07/20,09:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/21,11:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Modestino Kanto - Jardim Sulacap| Rio de Janeiro - RJ| Brasil,2016/07/21,10:36:00,N„o,0,0,N„o Sabe,0,0,N„o
-R. dos Teceloes| 246 - Bangu,2016/07/21,14:22:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Siqueira Campos prÛximo ao 253 - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/21,16:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/21,16:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua VitÛria RÈgia - Lagoa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,16:26:16,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Vila MisÈria - Copacabana,2016/07/21,16:22:18,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Camboat·| 3212 - Costa Barros,2016/07/21,17:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua ValparaÌso - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/21,18:59:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua S„o Carlos - Est·cio| Rio de Janeiro - RJ| Brasil,2016/07/21,20:55:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. do Camboat·| 3016 - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/07/21,22:40:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Av. ChrisÛstomo Pimentel de Oliveira| 2431 - Pavuna| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,00:15:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Beco Felipao| 255-309 - Copacabana,2016/07/22,15:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/22,06:04:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Jacarepagua,2016/07/22,06:59:16,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Dezoito| ItaguaÌ - RJ| Brasil,2016/07/22,02:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/22,06:09:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Engenheiro Gama LÙbo - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/22,08:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Gen. Roca| 30-38 - Tijuca,2016/07/20,21:30:10,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da Capela - Est·cio| Rio de Janeiro - RJ| Brasil,2016/07/22,03:11:00,Sim,1,0,N„o Sabe,0,0,Sim
-Rua Bar„o - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/22,17:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-R. PÌres| 10 - Barreto| NiterÛi - RJ| Brasil,2016/07/22,21:16:50,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Oliveira Botelho| 785| S„o GonÁalo - RJ| Brasil,2016/07/22,21:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Francisco da Cruz Nunes - Largo da Batalha| NiterÛi - RJ| Brasil,2016/07/22,22:01:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Francisco da Cruz Nunes| 79A - Itaipu - NiterÛi,2016/07/22,22:30:47,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Av. DomÌcio da Gama| 834-884 - Jardim Catarina - S„o GonÁalo,2016/07/22,23:36:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Camıes| 793 - Penha Circular,2016/07/23,00:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de Santa Isabel - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/23,01:42:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Sousa Franco - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/23,01:44:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Coronel Phidias T·vora - Pavuna| Rio de Janeiro - RJ| Brasil,2016/07/23,08:28:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-R. DomicÌlia CÈsar| 274 - Eng. Belford - S„o Jo„o de Meriti,2016/07/22,14:00:00,N„o,0,0,N„o,0,0,Sim
-Morro da mangueira,2016/07/23,12:22:50,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Paula e Silva - S„o CristÛv„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,13:53:15,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Cel. Sebasti„o Dantas| 43 - Santa Rosa - NiterÛi,2016/07/23,14:33:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Dr. Mario Vianna| 754 - Santa Rosa| NiterÛi - RJ| Brasil,2016/07/23,14:39:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Comunidade Souza Soares Santa Rosa NiterÛi,2016/07/23,15:16:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua CaiÁara - Iraj·| Rio de Janeiro - RJ| Brasil,2016/07/23,16:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Lima Drumond - V·z Lobo| Rio de Janeiro - RJ| Brasil,2016/07/23,16:27:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Tv. GÈrson Machado| 1-137 - V·z Lobo,2016/07/23,16:29:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Pio XII| 42 - Jardim Nova Marilia
-MagÈ,2016/07/22,17:00:00,N„o Sabe,0,0,Sim,0,0,N„o
-Rua Don· Francisca - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/23,19:03:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua CabuÁu - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/23,19:48:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Expedicion·rio JosÈ Amaro - Vila S„o Luiz| Duque de Caxias - RJ| Brasil,2016/07/23,07:00:12,Sim,0,0,N„o,0,0,N„o
-R. Lima Drumond| 257-299 - V·z Lobo,2016/07/23,20:18:33,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Morro da Baiana - Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/23,21:35:37,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Sr. do Bonfim| 594-658 - Cidade Sr. do Bonfim| Japeri - RJ| Brasil,2016/07/23,23:38:44,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/23,23:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Cinco| Japeri - RJ| Brasil,2016/07/24,00:45:13,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Joaquim T·vora - IcaraÌ| NiterÛi - RJ| Brasil,2016/07/24,00:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Monte CÛrdova| 498-568 - Jardim Transmontano - Japeri,2016/07/24,00:50:19,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/24,00:51:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Jangadeiros| 39 - Ipanema,2016/07/24,03:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Khartum| 41-95 - Bangu| Rio de Janeiro - RJ| 21852-570| Brasil,2016/07/24,07:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Santo Amaro - GlÛria| Rio de Janeiro - RJ| Brasil,2016/07/24,08:00:33,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Dom HÈlder C‚mara| 1285 - Benfica| Rio de Janeiro - RJ| Brasil,2016/07/24,09:08:29,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Visconde de Itauna|1330 - Gradim - S„o GonÁalo,2016/07/23,15:20:00,Sim,1,0,Sim,1,0,N„o
-Av. HermÌnio AurÈlio Sampaio| 431-499 - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/24,12:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Quatorze| 1-29 - Praia Brava (Mambucaba)
-Angra dos Reis,2016/07/24,12:50:54,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Nelson de Oliveira e Silva - Vila Progresso| NiterÛi - State of Rio de Janeiro| Brazil,2016/07/24,11:31:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua dos Ara˙jos - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/24,20:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Hadock Lobo - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/24,20:23:45,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada JosÈ Rucas| 1040 - Penha,2016/07/24,22:39:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Senador Camar·| Rio de Janeiro - RJ 21833-180| Brasil,2016/07/24,03:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. M·rcio Vieira de Oliveira| 1881 - Inconfidencia
-Nova IguaÁu,2016/07/20,16:30:00,N„o,0,0,Sim,1,2,N„o
-Rua das Laranjeiras - Laranjeiras| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/24,22:46:00,N„o Sabe,0,0,N„o Sabe,2,0,N„o Sabe
-Rua Aratangi - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/07/24,22:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bartira - ColÈgio| Rio de Janeiro - RJ| Brasil,2016/07/24,23:04:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Francisco AntÙnio Russo - Engenheiro Pedreira| Japeri - RJ| Brasil,2016/07/23,23:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da PraÁa - Parque Analandia| S„o Jo„o de Meriti - RJ| Brasil,2016/07/20,05:15:00,N„o,0,0,N„o,0,0,Sim
-Rua Taquarichim - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/07/24,22:31:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Conrado Barbosa de Souza| 22 - Fonseca| NiterÛi - RJ| Brasil,2016/07/24,23:33:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Ver. MaurÌcio de Souza| 1-341 - Engenhoca
-NiterÛi,2016/07/24,23:36:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Doutor Mario Vianna - Santa Rosa| NiterÛi - State of Rio de Janeiro| Brazil,2016/07/23,14:40:00,Sim,1,0,N„o Sabe,0,0,Sim
-R. Prof. Clemente Ferreira| 1520 - Bangu| Rio de Janeiro - RJ 21715-417| Brasil,2016/07/25,00:10:50,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Artur Neiva| 174-186 - Jardim Sulacap,2016/07/25,01:06:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Atalaia| NiterÛi - RJ| Brasil,2016/07/25,10:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Manuel Luiz - Valverde| Nova IguaÁu - RJ| Brasil,2016/07/25,02:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/25,12:56:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/25,13:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua da Grota - Jardim S„o Jo„o| Japeri - RJ| Brasil,2016/07/23,01:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. DomÌcio da Gama| 834-884 - Jardim Catarina - S„o GonÁalo,2016/07/25,20:54:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Solimıes - Piedade| Rio de Janeiro - RJ| Brasil,2016/07/25,21:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Caminho do OnÛfrio| 175-211 - Mutondo
-S„o GonÁalo,2016/07/24,18:16:00,N„o Sabe,0,0,Sim,2,0,N„o Sabe
-Rua Graja˙ - Grajau| Rio de Janeiro - RJ| Brasil,2016/07/25,22:19:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Bar„o do Bom Retiro - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/25,22:42:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada dos TrÍs Rios - Freguesia (Jacarepagu·)| Rio de Janeiro - RJ| Brasil,2016/07/25,22:50:46,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Barreto| NiterÛi - RJ| Brasil,2016/07/25,23:56:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Pres. Craveiro Lopes| 452 - Barreto| NiterÛi - RJ| 24110-340| Brasil,2016/07/26,00:05:16,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. do Rumo| 628-966 - Barreto
-NiterÛi,2016/07/26,00:05:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Laercio Xavier de Mendonca 758 - Jardim Nova Rep˙blica - S„o GonÁalo,2016/07/26,00:31:04,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Venda Velha| S„o Jo„o de Meriti - RJ| Brasil,2016/07/25,21:10:03,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Morro Azul - Jardim Olavo Bilac - S„o Jo„o de Meriti,2016/07/26,03:09:07,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Vista Alegre| Barra Mansa - RJ| Brasil,2016/06/25,21:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Teixeira Ribeiro - MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/26,07:00:34,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Teixeira Ribeiro - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/26,12:01:00,N„o Sabe,0,0,Sim,0,0,Sim
-R. da ProclamaÁ„o| 132 - Bonsucesso,2016/07/26,11:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Alabama| 58-282 - Bonsucesso,2016/07/26,13:54:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Sapiatuba| angra dos reis,2016/07/26,17:45:03,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Dr. Mario Vianna| 845 - Santa Rosa,2016/07/26,19:51:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/19,14:57:00,Sim,2,0,N„o Sabe,0,0,N„o
-R. Uni„o| 2125-2175 - Guadalupe,2016/07/19,20:17:00,N„o,0,0,Sim,1,0,Sim
-Morro da Coroa - Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,20:19:00,N„o,0,0,Sim,1,1,Sim
-R. Uni„o| 2066 - Guadalupe,2016/07/21,20:26:00,N„o,0,0,Sim,2,0,Sim
-Duque de Caxias - State of Rio de Janeiro| Brazil,2016/07/20,20:28:00,N„o,0,0,Sim,2,0,Sim
-Rua S„o Carlos - Est·cio| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,20:34:00,Sim,1,0,N„o,0,0,Sim
-Rua Bangu| 77 - Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,20:39:00,N„o,0,0,Sim,1,0,Sim
-Avenida Monsenhor FÈlix - Iraj·| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:41:00,N„o,0,0,N„o,0,0,N„o Sabe
-Rua Renato Vasconcelos - Cosmos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:43:00,Sim,1,1,Sim,1,0,N„o
-Rosa dos Ventos| Nova IguaÁu - State of Rio de Janeiro| Brazil,2016/07/23,20:44:00,Sim,0,1,N„o,0,0,N„o
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:44:00,N„o,0,0,N„o,0,0,N„o
-S„o Jo„o de Meriti - State of Rio de Janeiro| Brazil,2016/07/23,20:45:00,N„o,0,0,Sim,1,0,Sim
-S„o GonÁalo - State of Rio de Janeiro| Brazil,2016/07/23,20:46:00,N„o,0,0,Sim,3,0,Sim
-Ladeira Ary Barroso - Leme| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,20:51:00,N„o,0,0,N„o,0,0,Sim,PolÌcia
-Parada de Lucas,2016/07/26,16:00:00,N„o,0,0,N„o,0,0,N„o
-Via Bin·rio do Porto - Santo Cristo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,20:52:00,Sim,1,0,N„o,0,0,N„o
-Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,20:53:00,N„o,0,0,Sim,0,1,Sim
-Rua Marechal Marciano prÛximo ao 381 - Realengo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/24,20:55:00,Sim,0,1,Sim,0,1,N„o
-Santa Cruz| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/25,20:55:00,N„o,0,0,Sim,1,0,Sim
-Avenida dos Democr·ticos - Manguinhos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/25,20:57:00,N„o,0,0,Sim,0,1,Sim
-R. do Rodeio| 2-136 - Costa Barros,2016/07/19,08:00:00,N„o,0,0,Sim,1,0,Sim,PolÌcia
-Vaz Lobo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,21:00:00,N„o,0,0,N„o,0,0,Sim,PolÌcia
-Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,21:00:00,N„o,0,0,Sim,1,0,Sim,PolÌcia
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/20,21:01:00,N„o,0,0,N„o,0,0,N„o Sabe,Imprensa
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,17:07:00,N„o,0,0,N„o,0,0,N„o Sabe,Imprensa
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,20:08:00,N„o,0,0,N„o,0,0,N„o Sabe,Imprensa
-Complexo do Alem„o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/22,21:08:00,N„o,0,0,N„o,0,0,N„o Sabe,Imprensa
-Rua dos Artistas - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/26,19:08:00,N„o,0,0,N„o,0,0,N„o
-Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/26,21:57:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-MarÈ| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/20,22:47:00,N„o,0,0,N„o,0,0,Sim,Imprensa
-MarÈ| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/21,22:48:00,N„o,0,0,N„o,0,0,N„o Sabe,Imprensa
-MarÈ| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/23,22:49:00,N„o,0,0,N„o,0,0,N„o Sabe
-MarÈ| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/26,22:50:00,N„o,0,0,N„o,0,0,Sim,Imprensa
-R. Dr. Siqueira - Vila Esperanca| MagÈ - RJ| Brasil,2016/07/27,01:38:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Travessa Pracinha Sebasti„o Garcia| 2-106 - Pitangueiras,2016/07/27,06:17:25,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Nove| 1288-1478 - Jardim da Prata| MagÈ - RJ| 25900-000| Brasil,2016/07/25,22:30:00,N„o,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Do Galeao prÛximo ao 420
-Cacuia,2016/07/27,06:00:17,N„o,0,0,N„o,0,0,Sim
-Av. AutomÛvel Clube| 462-608 - Jardim Barro Branco - Duque de Caxias,2016/07/27,04:35:07,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Joaquim de Queiroz - Ramos| Rio de Janeiro - RJ| Brasil,2016/07/27,11:00:00,N„o,0,0,Sim,0,1,Sim,Imprensa
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/27,09:00:00,N„o,0,0,Sim,1,0,Sim,Imprensa
-ColubandÍ| S„o GonÁalo - RJ| Brasil,2016/07/26,23:30:00,N„o,0,0,N„o,0,0,N„o,PolÌcia
-Estrada da Covanca - Tanque| Rio de Janeiro - RJ| Brasil,2016/07/27,15:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Deputado JosÈ da Costa Franca - Vilar dos Teles| S„o Jo„o de Meriti - RJ| Brasil,2016/07/25,19:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. Itacolomi - Meier,2016/07/27,17:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Petrocochino - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/27,19:37:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Santa Catarina - Jardim Catarina - S„o GonÁalo,2016/07/27,14:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua das Laranjeiras| 2 - Vila Margarida ItaguaÌ,2016/07/27,21:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. da Luz| 2 - Cidade de Deus,2016/07/27,21:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/27,22:15:13,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Br·s de Pina| Rio de Janeiro - RJ| Brasil,2016/07/27,22:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Edgard Werneck| 1268 - Pechincha,2016/07/27,22:20:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Sousa Franco| 790 - Vila Isabel| Rio de Janeiro - RJ| 20551-120| Brasil,2016/07/27,23:42:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/28,10:16:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/28,09:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe,Imprensa
-Rua Pereira Nunes - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/26,18:03:00,N„o,0,0,Sim,1,0,N„o,Imprensa
-Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/27,22:16:00,N„o,0,0,Sim,0,1,N„o,Imprensa
-Rua Edgard Werneck| 1288 - Pechincha,2016/07/28,13:18:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/28,09:25:00,N„o,0,0,N„o Sabe,0,0,N„o,Imprensa
-R. Min. Ot·vio Kelly| 293 - IcaraÌ| NiterÛi - RJ| 24220-300| Brasil,2016/07/28,19:10:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Miriambi| S„o GonÁalo - RJ| Brasil,2016/07/28,21:27:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Pedro Lima - S„o Roque| Queimados - RJ| Brasil,2016/07/28,23:25:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/29,08:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/07/29,08:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/07/29,09:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/29,07:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe,Imprensa
-MarÈ| Rio de Janeiro - RJ| Brasil,2016/07/29,06:00:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim,Imprensa
-Rua S„o Miguel - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/29,08:38:28,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/07/28,11:51:00,Sim,1,0,N„o,0,0,Sim,Imprensa
-Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/07/29,12:06:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Londres| 616 - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/07/29,13:08:30,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Santa LuÌza - Maracan„| Rio de Janeiro - RJ| Brasil,2016/07/28,21:00:33,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Joaquim Rodrigues - Parada de Lucas| Rio de Janeiro - RJ| Brasil,2016/07/26,23:23:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Meier| Rio de Janeiro - RJ| Brasil,2016/07/29,13:35:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. C| 592-608 - Vila Ibirapitanga ItaguaÌ,2016/07/29,14:09:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Brasil - Iraj·| Rio de Janeiro - RJ| Brasil,2016/07/28,21:23:00,N„o,0,0,Sim,1,0,N„o,Imprensa
-Gradim| S„o GonÁalo - RJ| Brasil,2016/07/29,08:01:00,N„o,0,0,Sim,1,0,N„o,Imprensa
-Rua Saint Roman - Copacabana| Rio de Janeiro - RJ| Brasil,2016/07/28,22:30:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Arroio Pavuna - Jacarepagua| Rio de Janeiro - RJ| Brasil,2016/07/29,09:10:00,N„o,0,0,N„o Sabe,0,0,Sim,Imprensa
-Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/28,19:17:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe,Imprensa
-R. Conselheiro Otaviano| 71-85 - Vila Isabel,2016/07/29,16:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-T˙nel Noel Rosa - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/29,16:12:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/07/29,16:11:00,N„o Sabe,0,2,N„o Sabe,0,0,N„o Sabe
-Rua JessÈ| 45 - Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/07/29,21:12:35,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Frei Caneca| 8 - Santa Teresa,2016/07/30,23:50:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua S„o Miguel - Tijuca| Rio de Janeiro - RJ| Brasil,2016/07/29,07:40:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Monsenhor FÈlix - Vaz Lobo  Rio de Janeiro - RJ| Brasil,2016/07/30,00:52:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estr. Francisco da Cruz Nunes| 25-709 - Largo da Batalha - NiterÛi,2016/07/30,05:13:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Av. Marechal Fontenele| 4544-4580 - Magalhaes Bastos| Rio de Janeiro - RJ| 21750-001| Brasil,2016/07/30,13:27:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Parque Florestal da Tijuca,2016/07/30,13:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rocinha| Rio de Janeiro - RJ| Brasil,2016/07/30,13:49:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Nova - Rocinha,2016/07/30,13:49:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada Do Taquaral prÛximo ao 180 - Senador Camar·| Rio de Janeiro - RJ| Brasil,2016/07/31,03:48:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Frei Henrique| 180 - Piedade,2016/07/31,04:57:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/31,11:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Tv. Dr. Beltr„o| 673 - Santa Rosa
-NiterÛi,2016/07/31,05:58:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Castelnuovo - Tijuca| Rio de Janeiro - RJ| Brasil,2016/06/28,09:35:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-R. Castelnuovo| 407 - Tijuca,2016/06/24,13:32:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Rua Sete de Setembro - Complexo do Alem„o| Rio de Janeiro - RJ| Brasil,2016/07/31,17:02:00,N„o Sabe,0,1,N„o Sabe,0,2,Sim
-R. Eurico Sales| 501 - Porto Novo - S„o GonÁalo,2016/07/31,18:37:34,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua C‚ndido BenÌcio - PraÁa Seca| Rio de Janeiro - RJ| Brasil,2016/07/31,15:45:00,N„o,0,0,N„o Sabe,0,0,N„o
-R. Parobi| 331-339 - ColÈgio,2016/07/31,22:10:17,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-R. Lucio Bitencourt| 2 - Jardim Catarina - S„o GonÁalo,2016/07/31,23:03:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Dois - Conjunto Otacilio Camara| Rio de Janeiro - RJ| Brasil,2016/07/31,23:11:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o
-Rua Visconde de AbaetÈ - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/07/31,23:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/07/31,23:30:00,N„o Sabe,0,0,N„o Sabe,0,0,Sim
-Estrada Marechal Miguel Salazar Mendes de Moraes - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/07/31,23:58:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Rua Itapeva - Guaxindiba| S„o GonÁalo - RJ| Brasil,2016/07/29,19:40:00,N„o,0,0,N„o,0,0,N„o,Imprensa
-Avenida Br·s de Pina - Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/30,09:42:00,N„o,0,0,Sim,1,1,N„o,Imprensa
-Rua Moraes Pinheiro - Anchieta| Rio de Janeiro - RJ| Brasil,2016/07/29,09:45:00,N„o,0,0,Sim,1,0,N„o,Imprensa
-Maric· - RJ| Brasil,2016/07/30,09:49:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe,Imprensa
-T˙nel AntÙnio RebouÁas - Maracan„| Rio de Janeiro - RJ| Brasil,2016/07/30,22:30:00,N„o,0,0,N„o,0,0,N„o,Imprensa
-Avenida Br·s de Pina - Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/07/30,12:00:00,N„o,0,0,Sim,1,1,N„o,Imprensa
--22.764468583100737| -43.401145935058594,2016/08/01,12:27:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe
-Estrada da Alvorada - Complexo do Alemao| Rio de Janeiro - RJ| Brasil,2016/08/01,12:00:00,N„o Sabe,0,0,N„o Sabe,0,0,N„o Sabe,Imprensa
+Rua Marcos de Macedo - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/08/16,15:30:00,Sim,0,1,N√£o Sabe,0,0,N√£o Sabe,-22.8398513794,-43.3782882690,1206
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/08/07,16:16:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1207
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/08/08,16:20:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1208
+Lapa| Rio de Janeiro - RJ| Brasil,2016/08/12,22:30:00,N√£o,0,0,Sim,1,0,N√£o,-22.9144058228,-43.1825904846,1209
+Rua Ant√¥nio Sara√≠va - Cavalcanti| Rio de Janeiro - RJ| Brasil,2016/08/16,17:21:00,Sim,2,0,N√£o,0,0,N√£o Sabe,-22.8710956573,-43.3164367676,1210
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/17,08:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1211
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/16,09:00:00,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1212
+Estr. da Covanca| 1377-1441 - Tanque| Rio de Janeiro - RJ| 22735-020| Brasil,2016/08/18,06:59:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9150886536,-43.3472328186,1213
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/08/17,22:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1214
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/08/18,09:15:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1215
+Rua Panama - Penha| Rio de Janeiro - RJ| Brasil,2016/08/17,09:00:00,N√£o,0,0,N√£o,0,0,N√£o,Pol√≠cia,-22.8370227814,-43.2742652893,1216
+Vila Rica| Belford Roxo - RJ| Brasil,2016/08/17,22:00:00,N√£o,0,0,Sim,5,0,N√£o,-22.7192382812,-43.3633918762,1217
+Rua Pedro √Ålvares Cabral - Centro| Nil√≥polis - RJ| Brasil,2016/08/18,07:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.8104648590,-43.4259452820,1218
+Rua Bar√£o - Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/08/18,09:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8986415863,-43.3523597717,1219
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/18,07:00:00,N√£o,0,0,Sim,0,1,Sim,-22.8308544159,-43.2698173523,1220
+Estrada da Covanca - Tanque| Rio de Janeiro - RJ| Brasil,2016/08/18,08:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9148578644,-43.3481979370,1221
+R. Curuira - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/08/18,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8576259613,-43.3166427612,1223
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/08/18,09:00:00,N√£o,0,0,N√£o,0,0,Sim,Pol√≠cia,-22.8246498108,-43.3727264404,1224
+Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/08/18,16:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8875579834,-43.2581939697,1225
+Rua Agariba - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/08/19,03:48:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9120235443,-43.2653846741,1226
+Rua Senador Nabuco - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/08/19,03:45:25,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9138412476,-43.2526512146,1227
+Rua Senador Nabuco - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/08/18,10:50:47,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9138412476,-43.2526512146,1228
+R. Prof. Lara Vil√©la| 117 - S√£o Domingos| Niter√≥i - RJ| Brasile,2016/08/19,05:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9005851746,-43.1280632019,1229
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/18,18:32:00,Sim,1,0,Sim,1,0,N√£o Sabe,-22.8593330383,-43.2754745483,1230
+Jardim da Viga| Nova Igua√ßu - RJ| Brasil,2016/08/18,14:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.7414798737,-43.4440116882,1231
+Padre Miguel| Rio de Janeiro - RJ| Brasil,2016/08/18,09:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8780975342,-43.4483184814,1232
+Rodovia Niter√≥i-Manilha| S√£o Gon√ßalo - RJ| Brasil,2016/08/18,14:47:00,N√£o,0,0,N√£o,0,0,N√£o,-22.7937355042,-43.0278778076,1233
+Engenheiro Pedreira| Japeri - RJ| Brasil,2016/08/17,14:47:00,N√£o,0,0,N√£o,0,0,N√£o,-22.6782531738,-43.6063308716,1234
+Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/08/19,11:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8875579834,-43.2581939697,1235
+Bangu| Rio de Janeiro - RJ| Brasil,2016/08/18,22:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8742256165,-43.4685440063,1236
+Miriambi| S√£o Gon√ßalo - RJ| Brasil,2016/08/18,15:00:00,N√£o,0,0,Sim,1,0,N√£o,Pol√≠cia,-22.8233375549,-42.9866409302,1237
+Manilha| Itabora√≠ - RJ| Brasil,2016/08/17,14:56:00,N√£o,0,0,Sim,0,1,N√£o,-22.7749824524,-42.9161453247,1238
+Rua Alcoba√ßa - Ricardo de Albuquerque| Rio de Janeiro - RJ| Brasil,2016/08/19,17:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8269805908,-43.3921813965,1239
+Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/08/19,16:31:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9099998474,-43.2574996948,1240
+Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/08/19,15:30:00,Sim,2,0,N√£o,0,0,Sim,-22.8520107269,-43.3468055725,1241
+Bangu| Rio de Janeiro - RJ| Brasil,2016/08/19,17:41:00,N√£o,0,0,Sim,2,0,Sim,Pol√≠cia,-22.8742256165,-43.4685440063,1242
+Copacabana| Rio de Janeiro| Brasilien,2016/08/19,18:55:02,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9697780609,-43.1868591309,1243
+Rua Petrocochino - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/08/19,16:26:16,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9155445099,-43.2545661926,1244
+R. Ac√°cias| 286-526 - Prados Verdes| Nova Igua√ßu - RJ| 26299-051| Brasil,2016/08/20,00:52:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8442878723,-43.6139793396,1245
+R. do Ing√°| 231 - Jardim Guandu| Nova Igua√ßu - RJ| Brasil,2016/08/20,00:55:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8280048370,-43.6091957092,1246
+R. Igramirim - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/08/20,06:14:03,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8579521179,-43.3143196106,1247
+Rua Eucl√≠des da Rocha - Copacabana| Rio de Janeiro - RJ| Brasil,2016/08/20,08:31:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9652366638,-43.1942481995,1249
+Pra√ßa Nossa Senhora de Nazar√© - Anchieta| Rio de Janeiro - RJ| Brasil,2016/08/19,18:42:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8218650818,-43.3986320496,1250
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/19,18:00:00,N√£o,0,0,Sim,0,1,N√£o,-22.8593330383,-43.2754745483,1251
+Engenheiro Pedreira| Japeri - RJ| Brasil,2016/08/20,17:02:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6782531738,-43.6063308716,1252
+Rua Ferreira De Andrade pr√≥ximo ao 616 - Cachambi| Rio de Janeiro - RJ| Brasil,2016/08/20,17:47:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8899879456,-43.2736244202,1253
+Rua Eucl√≠des da Rocha - Copacabana| Rio de Janeiro - RJ| Brasil,2016/08/20,08:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9652366638,-43.1942481995,1254
+Boa Esperan√ßa| Serop√©dica - RJ| Brasil,2016/08/20,02:02:00,Sim,1,1,Sim,1,0,N√£o,-22.7280845642,-43.6902885437,1255
+Manguinhos| Rio de Janeiro - RJ| Brasil,2016/08/20,10:00:00,N√£o,0,0,Sim,0,1,N√£o Sabe,-22.8830375671,-43.2457504272,1256
+Manguinhos| Rio de Janeiro - RJ| Brasil,2016/08/21,13:15:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8830375671,-43.2457504272,1257
+Rua do Para√≠so - Caju| Rio de Janeiro - RJ| Brasil,2016/08/20,10:30:00,N√£o,0,0,Sim,0,1,N√£o,-22.9144783020,-43.1930541992,1258
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/19,17:20:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1259
+Rua do Caj√° - Penha| Rio de Janeiro - RJ| Brasil,2016/08/21,06:30:00,N√£o,0,0,Sim,0,1,N√£o,-22.8442554474,-43.2876205444,1260
+S√£o Jorge| Japeri - RJ| Brasil,2016/08/21,18:15:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6468925476,-43.6603202820,1262
+Chatuba| Mesquita - State of Rio de Janeiro| Brazil,2016/08/07,19:16:15,N√£o Sabe,0,0,N√£o Sabe,0,1,Sim,-22.8065814972,-43.4379882812,1263
+Morro da Babilonia - Botafogo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/12,20:21:10,N√£o Sabe,0,0,N√£o Sabe,0,1,N√£o Sabe,-22.9569435120,-43.1699981689,1264
+Ricardo de Albuquerque| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/18,20:22:10,N√£o Sabe,0,0,N√£o Sabe,0,1,N√£o Sabe,-22.8393287659,-43.3980293274,1265
+Cubango| Niter√≥i - State of Rio de Janeiro| Brazil,2016/08/19,20:22:41,N√£o Sabe,0,0,N√£o Sabe,0,1,Sim,-22.8893604279,-43.0956764221,1266
+Ladeira dos Tabajaras - Botafogo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/20,20:30:26,N√£o,0,0,N√£o,0,0,Sim,-22.9620361328,-43.1904754639,1268
+Avenida Visconde do Rio Branco| Niter√≥i - State of Rio de Janeiro| Brazil,2016/08/21,20:25:24,Sim,1,0,N√£o,0,0,N√£o,-22.8915023804,-43.1239433289,1269
+S√£o Simao| Queimados - RJ| Brasil,2016/08/22,00:14:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7104415894,-43.5498809814,1270
+R. Felipe| 1-115| Queimados - RJ| Brasil,2016/08/20,03:18:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6940135956,-43.5983428955,1271
+Rua Ant√¥nio Austreg√©silo - Inhauma| Rio de Janeiro - RJ| Brasil,2016/08/22,08:30:07,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8665447235,-43.2757682800,1272
+Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/08/22,14:20:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9686107635,-43.1977767944,1276
+R. Dr. Piragibe - Santo Cristo| Rio de Janeiro - RJ| Brasil,2016/08/22,16:17:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9053993225,-43.2054824829,1278
+Engenho Novo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/22,16:32:20,N√£o,0,0,N√£o,0,0,N√£o Sabe,-22.9027462006,-43.2684059143,1279
+Rua C√¢ndido Ben√≠cio - Campinho| Rio de Janeiro - RJ| Brasil,2016/08/21,03:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.8899612427,-43.3468170166,1280
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/08/22,09:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9481697083,-43.3626708984,1281
+Madureira| Rio de Janeiro - RJ| Brasil,2016/08/22,09:00:00,N√£o,0,0,N√£o,0,0,Sim,Pol√≠cia,-22.8725337982,-43.3363647461,1282
+Engenheiro Pedreira| Japeri - RJ| Brasil,2016/08/22,03:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6782531738,-43.6063308716,1283
+Pav√£o  pavaozinho,2016/08/22,22:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9808177948,-43.1957893372,1284
+Morro do Sereno - Penha Circular| Rio de Janeiro - RJ| Brasil,2016/08/23,10:45:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8436107635,-43.2936096191,1285
+Boa√ßu| S√£o Gon√ßalo - RJ| Brasil,2016/08/22,21:01:00,Sim,0,1,N√£o,0,0,N√£o,-22.8092422485,-43.0526962280,1286
+R. Guara√∫na| 306 - Vicente de Carvalho| Rio de Janeiro - RJ| 21371-010| Brasil,2016/08/23,13:44:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8562965393,-43.3160018921,1287
+Rua Monsenhor In√°cio da Silva - Turia√ßu| Rio de Janeiro - RJ| Brasil,2016/08/23,02:10:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8601455688,-43.3376579285,1288
+Avenida Ministro Edgard Romero - Madureira| Rio de Janeiro - RJ| Brasil,2016/08/23,14:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8664989471,-43.3344993591,1290
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/23,16:00:00,N√£o,0,0,Sim,0,1,N√£o Sabe,-22.8593330383,-43.2754745483,1291
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/23,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1292
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/23,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1293
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/23,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8308544159,-43.2698173523,1294
+Pavao pavaozinho,2016/08/23,23:15:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9808177948,-43.1957893372,1295
+Rua Prefeito Ismael Cavalcante - Vila Margarida| Itagua√≠ - RJ| Brasil,2016/08/24,05:23:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8742065430,-43.7860221863,1296
+Avenida Ministro Edgard Romero - Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,05:35:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8664989471,-43.3344993591,1298
+Avenida Autom√≥vel Clube - Inha√∫ma| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,10:58:52,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8431758881,-43.3312721252,1300
+Avenida Kelson - Penha Circular| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,10:00:19,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8231849670,-43.2748336792,1301
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,10:01:12,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8627777100,-43.3152770996,1302
+Vaz Lobo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,11:02:29,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8574905396,-43.3293571472,1303
+Jacarezinho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,13:39:47,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8875579834,-43.2581939697,1305
+Morro da Serrinha - Vaz Lobo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,13:40:24,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8641662598,-43.3238906860,1306
+Penha Circular| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,15:51:20,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8341712952,-43.2853431702,1307
+Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,15:52:05,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8520107269,-43.3468055725,1308
+Mar√©| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,17:49:24,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8574962616,-43.2430152893,1310
+Caju| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,17:49:54,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8792076111,-43.2155532837,1311
+R. Pref. Ismael Cavalcante| 1173-1261 - Vila Margarida| Itagua√≠ - RJ| Brasil,2016/08/24,20:48:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8749980927,-43.7945594788,1313
+R. Cabu√ßu| 154 - Lins de Vasconcelos| Rio de Janeiro - RJ| 20710-300| Brasil,2016/08/24,21:40:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9107608795,-43.2757530212,1314
+Morro da Babilonia - Botafogo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/24,22:03:43,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9569435120,-43.1699981689,1315
+Morro da Serrinha - V√°z Lobo| Rio de Janeiro - RJ| Brasil,2016/08/24,06:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.8641662598,-43.3238906860,1316
+Rua C√¢ndido Ben√≠cio - Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/08/24,02:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9021511078,-43.3552398682,1317
+Morro da Providencia - Gamb√¥a| Rio de Janeiro - RJ| Brasil,2016/08/24,08:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9002780914,-43.1952781677,1318
+Av. Dom H√©lder C√¢mara - Engenho de Dentro| Rio de Janeiro - RJ| Brasil,2016/08/24,14:00:00,N√£o,0,0,Sim,0,2,N√£o,-22.8860912323,-43.2888679504,1319
+Pavuna| Rio de Janeiro - RJ| Brasil,2016/08/23,09:51:00,N√£o,0,0,Sim,2,0,Sim,Pol√≠cia,-22.8112316132,-43.3625259399,1320
+Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/08/23,09:53:00,N√£o,0,0,N√£o,0,0,Sim,Pol√≠cia,-22.8520107269,-43.3468055725,1321
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/24,07:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.8593330383,-43.2754745483,1322
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/24,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1323
+Nil√≥polis - RJ| Brasil,2016/08/12,10:05:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8098487854,-43.4193916321,1324
+Santa Cruz| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/25,11:43:37,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9196510315,-43.6843872070,1325
+Santa Cruz| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/25,11:47:23,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9196510315,-43.6843872070,1326
+Santa Cruz| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/25,12:05:01,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9196510315,-43.6843872070,1327
+Parque Mucaja| Japeri - RJ| Brasil,2016/08/25,12:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.6844654083,-43.6195335388,1328
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/08/25,15:52:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1329
+Rua Boa Viagem - Parque Centenario| Duque de Caxias - RJ| Brasil,2016/08/24,09:00:00,N√£o,0,0,Sim,0,1,N√£o,-22.7743911743,-43.3198127747,1330
+Manguinhos| Rio de Janeiro - RJ| Brasil,2016/08/24,15:00:00,N√£o,0,0,Sim,0,2,N√£o Sabe,-22.8830375671,-43.2457504272,1331
+Salgueiro| S√£o Gon√ßalo - RJ| Brasil,2016/08/24,19:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,Pol√≠cia,-22.7815208435,-43.0242271423,1332
+Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/08/25,09:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.8875579834,-43.2581939697,1333
+Rua Visconde de Niter√≥i - Mangueira| Rio de Janeiro - RJ| Brasil,2016/08/25,15:00:00,N√£o,0,0,N√£o,0,0,N√£o Sabe,-22.9061183929,-43.2391586304,1334
+Jardim Sulacap| Rio de Janeiro - RJ| Brasil,2016/08/25,03:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8905639648,-43.3907966614,1335
+Rua C√¢ndido Ben√≠cio - Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/08/25,14:00:00,N√£o Sabe,0,0,Sim,1,1,N√£o,-22.9021511078,-43.3552398682,1336
+Mar√©| Rio de Janeiro - RJ| Brasil,2016/08/24,19:13:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8574962616,-43.2430152893,1337
+R. Bas√≠lio de Brito| 148 - Cachambi| Rio de Janeiro - RJ| Brasil,2016/08/26,01:50:02,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8892650604,-43.2701072693,1338
+R. Barcelona| 97 - Cachambi| Rio de Janeiro - RJ| 20785-130| Brasil,2016/08/20,17:25:23,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8897686005,-43.2695846558,1339
+Rua Carolina Amado - Iraj√°| Rio de Janeiro - RJ| Brasil,2016/08/26,11:49:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8499507904,-43.3315238953,1340
+R. Cust√≥dio de Mesquita - Copacabana| Rio de Janeiro - RJ| 22071-060| Brasil,2016/08/26,13:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9825019836,-43.1973266602,1342
+Avenida Menezes Cortes - Freguesia (Jacarepagu√°)| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/26,13:11:11,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9210948944,-43.2850265503,1343
+Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/26,13:32:15,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9128704071,-43.2845535278,1344
+Avenida Marechal Rondon - Engenho Novo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/26,13:33:10,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9040889740,-43.2633361816,1345
+Rua Bar√£o do Bom Retiro - Engenho Novo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/26,13:33:33,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9113540649,-43.2684707642,1346
+Rua C√¢ndido Ben√≠cio - Campinho| Rio de Janeiro - RJ| Brasil,2016/08/25,14:05:00,Sim,0,1,Sim,1,0,N√£o,-22.8899612427,-43.3468170166,1347
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/08/26,08:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1348
+Linha Vermelha - S√£o Crist√≥v√£o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/26,14:07:33,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8913898468,-43.2224731445,1349
+Tijuca| Rio de Janeiro - RJ| Brasil,2016/08/26,01:08:00,Sim,1,0,Sim,2,0,N√£o,-22.9325733185,-43.2410240173,1350
+Jardim Canaa| Nova Igua√ßu - RJ| Brasil,2016/08/25,09:09:00,Sim,1,0,N√£o Sabe,0,0,N√£o,-22.7498092651,-43.4810600281,1351
+Caonze| Nova Igua√ßu - RJ| Brasil,2016/08/24,18:40:00,Sim,1,0,N√£o Sabe,0,0,N√£o,-22.7684707642,-43.4416007996,1352
+Centro| Rio de Janeiro - RJ| Brasil,2016/08/25,09:10:00,N√£o,0,0,Sim,1,0,N√£o,-22.9068470001,-43.1728973389,1353
+Anchieta| Rio de Janeiro - RJ| Brasil,2016/08/25,09:15:00,N√£o,0,0,Sim,3,0,N√£o,Pol√≠cia,-22.8238792419,-43.3981246948,1354
+Acari| Rio de Janeiro - RJ| Brasil,2016/08/26,14:17:00,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.8255310059,-43.3444595337,1355
+Rua Merc√∫rio - Pavuna| Rio de Janeiro - RJ| Brasil,2016/08/26,15:20:00,N√£o,0,0,Sim,0,1,N√£o,-22.8054161072,-43.3564643860,1356
+Parque Analandia| S√£o Jo√£o de Meriti - RJ| Brasil,2016/08/26,15:25:00,Sim,1,0,N√£o,0,0,Sim,-22.7995166779,-43.3355026245,1357
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/26,16:16:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1358
+R. Cust√≥dio de Mesquita - Copacabana| Rio de Janeiro - RJ| 22071-060| Brasil,2016/08/27,07:45:20,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9825019836,-43.1973266602,1359
+Avenida Ministro Edgard Romero| 530| Madureira| Rio de Janeiro,2016/08/28,05:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8650474548,-43.3339347839,1361
+R. Eng. Alberto Haas| 24-118 - Jacar√©| Rio de Janeiro - RJ| Brasil,2016/08/28,14:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8903350830,-43.2547760010,1362
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/28,13:24:02,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8725337982,-43.3363647461,1363
+Inha√∫ma| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/28,13:24:38,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8733787537,-43.2817611694,1364
+Rua Nuporanga - Tanque| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/28,13:36:36,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.9140663147,-43.3596649170,1366
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/28,14:37:52,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1367
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/28,14:38:26,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8627777100,-43.3152770996,1368
+Av. das Am√©ricas| 4485 - Barra da Tijuca| Rio de Janeiro - RJ| 22631-004| Brasil,2016/08/28,20:23:50,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-23.0006961823,-43.3595962524,1369
+Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/08/26,00:00:00,N√£o Sabe,0,0,Sim,0,1,Sim,-22.9027462006,-43.2684059143,1380
+Inhauma| Rio de Janeiro - RJ| Brasil,2016/08/26,00:00:00,Sim,1,0,N√£o,0,0,Sim,-22.8733787537,-43.2817611694,1381
+Via Light| S√£o Jo√£o de Meriti - RJ| Brasil,2016/08/27,00:00:00,Sim,0,1,N√£o,0,0,N√£o,-22.8039436340,-43.3989372253,1382
+Jacarezinho| Rio de Janeiro - RJ| Brasil,2016/08/28,00:00:00,Sim,1,0,Sim,1,0,N√£o,-22.8875579834,-43.2581939697,1383
+Morro da Serrinha - V√°z Lobo| Rio de Janeiro - RJ| Brasil,2016/08/28,00:00:00,N√£o,0,0,N√£o,0,0,Sim,Pol√≠cia,-22.8641662598,-43.3238906860,1384
+Centro| S√£o Jo√£o de Meriti - RJ| Brasil,2016/08/20,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.7907657623,-43.3699378967,1385
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/29,00:00:00,Sim,1,0,N√£o,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1386
+Penha| Rio de Janeiro - RJ| Brasil,2016/08/26,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8308544159,-43.2698173523,1387
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/08/27,00:00:00,N√£o,0,0,Sim,2,0,N√£o Sabe,-22.8593330383,-43.2754745483,1388
+Cantagalo - Rua Pompeu Loureiro - Copacabana| Rio de Janeiro - RJ| Brasil,2016/08/29,21:05:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9766731262,-43.1938476562,1391
+Rua Saint Roman - Copacabana| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/29,22:24:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9810428619,-43.1940803528,1394
+Avenida Ministro Edgard Romero - Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/29,22:28:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8664989471,-43.3344993591,1396
+Coelho da Rocha| S√£o Jo√£o de Meriti - RJ| Brasil,2016/08/29,22:30:00,Sim,0,1,Sim,1,0,N√£o,-22.7768840790,-43.3849639893,1397
+Morro do Cantagalo - Copacabana| Rio de Janeiro - RJ| Brasil,2016/08/29,20:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9783325195,-43.1952781677,1398
+Avenida Ministro Edgard Romero - Madureira| Rio de Janeiro - RJ| Brasil,2016/08/29,22:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.8664989471,-43.3344993591,1399
+Iraj√°| Rio de Janeiro - RJ| Brasil,2016/08/29,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,Pol√≠cia,-22.8387565613,-43.3241806030,1400
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/08/30,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8627777100,-43.3152770996,1401
+Morro do Pavao - Copacabana| Rio de Janeiro - RJ| Brasil,2016/08/29,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9811115265,-43.1974983215,1402
+Rua S√° Ferreira - Copacabana| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/30,21:21:18,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9811515808,-43.1925811768,1403
+Rua Maestro Jos√© Botelho - Vital Brasil| Niter√≥i - RJ| Brasil,2016/08/30,23:35:39,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9059753418,-43.0948905945,1404
+Malvinas vila Kennedy,2016/08/31,09:18:55,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-12.1698207855,-76.9428405762,1405
+Senador Camar√°| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/31,09:56:49,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8968334198,-43.4877929688,1406
+Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/31,10:12:28,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8742256165,-43.4685440063,1407
+Morro dos Macacos - Sampaio| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/31,10:14:58,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9099998474,-43.2574996948,1408
+Avenida Ces√°rio de Melo - Campo Grande| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/31,10:17:05,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9108753204,-43.5885467529,1409
+Pilares| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/31,10:22:46,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8814029694,-43.2934761047,1410
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/31,10:55:32,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1411
+Beco Felipao| 136 - Copacabana| Rio de Janeiro - RJ| Brasil,2016/08/31,11:48:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9641265869,-43.1940536499,1412
+Vila de Cava| Nova Igua√ßu - State of Rio de Janeiro| Brazil,2016/08/31,10:37:01,Sim,1,0,Sim,1,0,N√£o,-22.6827182770,-43.4524383545,1413
+Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/08/31,12:48:06,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9686107635,-43.1977767944,1414
+Ladeira dos Tabajaras - Botafogo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/08/31,14:19:03,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9620361328,-43.1904754639,1417
+Belford Roxo - RJ| Brasil,2016/08/29,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.7645397186,-43.3996276855,1420
+Rua Fallet - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/08/31,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.9264984131,-43.1964492798,1421
+Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/08/31,05:00:00,Sim,4,0,N√£o,0,0,Sim,-22.9196510315,-43.6843872070,1422
+Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/08/31,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9099998474,-43.2574996948,1423
+Vila de Cava| Nova Igua√ßu - RJ| Brasil,2016/08/31,10:00:00,Sim,1,0,Sim,1,0,N√£o,-22.6827182770,-43.4524383545,1424
+Maric√° - RJ| Brasil,2016/08/31,00:00:00,Sim,0,1,Sim,0,1,N√£o,-22.9160995483,-42.8191909790,1425
+Barra de Guaratiba| Rio de Janeiro - RJ| Brasil,2016/08/30,00:00:00,N√£o,0,0,Sim,2,0,N√£o,-23.0634098053,-43.5658340454,1426
+Pra√ßa Ipupiara - Iraj√°| Rio de Janeiro - RJ| Brasil,2016/08/31,00:00:00,N√£o Sabe,0,0,Sim,1,0,N√£o,Pol√≠cia,-22.8527679443,-43.3245010376,1427
+Ilha do Governador| Rio de Janeiro - RJ| Brasil,2016/08/31,00:00:00,N√£o Sabe,0,0,Sim,1,0,N√£o Sabe,Pol√≠cia,-22.8052387238,-43.2086067200,1428
+Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/01,06:57:26,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8558216095,-43.3157844543,1430
+Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/01,10:34:48,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8742256165,-43.4685440063,1432
+Rua do Bispo - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/01,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.9232769012,-43.2133407593,1433
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - RJ| Brasil,2016/09/01,06:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8627777100,-43.3152770996,1434
+Rua Saint Roman - Copacabana| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/01,16:28:47,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9810428619,-43.1940803528,1436
+Estrada Carlos Sampaio pr√≥ximo ao 173 - Carlos Sampaio| Nova Igua√ßu - RJ| Brasil,2016/08/31,00:00:00,Sim,2,0,N√£o,0,0,N√£o,-22.6979675293,-43.5242309570,1437
+Penha| Rio de Janeiro - RJ| Brasil,2016/09/01,17:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1438
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/01,16:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1439
+Av. Eldorado| 179 - Parque Eldorado| Duque de Caxias - RJ| Brasil,2016/09/02,00:06:12,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6423320770,-43.2967338562,1441
+Morro dos Cabritos - Lagoa| Rio de Janeiro - RJ| Brasil,2016/09/02,10:35:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9686107635,-43.1977767944,1442
+Ladeira dos Tabajaras - Botafogo| Rio de Janeiro - RJ| Brasil,2016/09/02,11:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9620361328,-43.1904754639,1443
+Vinte e Cinco de Agosto| Duque de Caxias - RJ| Brasil,2016/09/01,23:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7942218781,-43.3016929626,1444
+Belford Roxo - RJ| Brasil,2016/09/02,05:30:00,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.7645397186,-43.3996276855,1445
+Duque de Caxias - RJ| Brasil,2016/09/01,12:29:00,Sim,2,0,N√£o Sabe,0,0,N√£o Sabe,-22.7862987518,-43.3053092957,1446
+Rodovia Niter√≥i-Manilha| Itabora√≠ - RJ| Brasil,2016/09/01,00:00:00,Sim,1,0,Sim,1,0,N√£o,-22.7724552155,-42.9334602356,1447
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/02,14:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1448
+Ladeira dos Tabajaras - Botafogo| Rio de Janeiro - RJ| Brasil,2016/09/02,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9620361328,-43.1904754639,1449
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/02,00:01:50,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1451
+Chapadao - Campo Grande| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/01,23:02:46,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9322223663,-43.4766654968,1452
+Turia√ßu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/02,14:05:39,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8613815308,-43.3437690735,1454
+Vaz Lobo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/02,16:07:26,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8574905396,-43.3293571472,1455
+Bangu| Rio de Janeiro - RJ| Brasil,2016/09/01,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8742256165,-43.4685440063,1456
+M√©ier - Meier| Rio de Janeiro - RJ| Brasil,2016/09/03,00:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9017410278,-43.2780494690,1457
+Rua Uruguaiana - Centro| Rio de Janeiro - RJ| Brasil,2016/09/03,00:00:00,N√£o Sabe,1,0,N√£o Sabe,0,0,N√£o,-22.9036655426,-43.1804389954,1458
+R. Morro da Candel√°ria| 155-179 - Mangueira| Rio de Janeiro - RJ| 20941-430| Brasil,2016/09/03,07:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9062614441,-43.2369117737,1460
+Rua Agariba - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/09/03,11:26:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9120235443,-43.2653846741,1461
+Rua La√≠s Areda - Piedade| Rio de Janeiro - RJ| Brasil,2016/09/02,17:14:00,Sim,5,0,N√£o Sabe,0,0,Sim,-22.8989830017,-43.3176574707,1462
+R. Morro da Candel√°ria| 23-47 - Mangueira| Rio de Janeiro - RJ| 20941-430| Brasil,2016/09/04,08:00:13,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052810669,-43.2362289429,1463
+Morro dona marta botafogo,2016/09/03,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9444446564,-43.1963882446,1464
+Morro do barbante,2016/09/04,06:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-26.3187580109,-48.9136085510,1466
+Estrada dos Bandeirantes| 8500 - Jacarepagua| Rio de Janeiro - RJ| Brasil,2016/09/04,19:00:07,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9763088226,-43.4162101746,1469
+R. Dr. Mario Vianna| 845 - Santa Rosa| Niter√≥i - RJ| Brasil,2016/09/04,21:46:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9058361053,-43.0843505859,1471
+Duque de Caxias - RJ| Brasil,2016/09/02,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.7862987518,-43.3053092957,1473
+Morro do Dezoito - Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/09/02,20:00:00,Sim,5,0,N√£o,0,0,N√£o,-22.8988895416,-43.3219451904,1474
+Calif√≥rnia| Nova Igua√ßu - RJ| Brasil,2016/09/02,00:00:00,Sim,0,1,N√£o,0,0,N√£o,-22.7590141296,-43.4343757629,1475
+S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/03,00:00:00,Sim,1,0,Sim,1,0,Sim,-22.7907657623,-43.3699378967,1476
+Saracuruna| Duque de Caxias - RJ| Brasil,2016/09/03,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.6745281219,-43.2569847107,1477
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/03,08:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9052505493,-43.2340126038,1478
+Cordovil| Rio de Janeiro - RJ| Brasil,2016/09/02,00:00:00,Sim,1,0,Sim,2,0,N√£o,-22.8234405518,-43.2959365845,1479
+Cantagalo - Rua Pompeu Loureiro - Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/01,17:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9766731262,-43.1938476562,1480
+S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/04,00:00:00,Sim,0,1,N√£o,0,0,N√£o,-22.7907657623,-43.3699378967,1481
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/04,00:00:00,N√£o,0,0,Sim,2,0,Sim,Pol√≠cia,-22.8246498108,-43.3727264404,1482
+Ilha do Governador| Rio de Janeiro - RJ| Brasil,2016/09/04,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8052387238,-43.2086067200,1483
+Caramujo| Niter√≥i - RJ| Brasil,2016/09/03,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8882102966,-43.0644073486,1484
+Belford Roxo - RJ| Brasil,2016/09/02,00:00:00,N√£o,0,0,Sim,3,0,N√£o,Pol√≠cia,-22.7645397186,-43.3996276855,1485
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/05,09:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1486
+Rua S√° Ferreira - Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/05,09:26:08,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9811515808,-43.1925811768,1487
+Avenida Gr√£o Par√° - Jardim Para√≠so| Nova Igua√ßu - RJ| Brasil,2016/09/04,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8137798309,-43.5864830017,1488
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/05,16:00:00,N√£o Sabe,0,0,Sim,1,0,N√£o Sabe,-22.8593330383,-43.2754745483,1489
+Rua Riodades - Fonseca| Niter√≥i - State of Rio de Janeiro| Brazil,2016/09/06,02:33:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8768863678,-43.0819816589,1490
+Av. Brasil - Deodoro| Rio de Janeiro - RJ| Brasil,2016/09/06,07:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8507709503,-43.3855705261,1491
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/09/06,07:00:00,Sim,2,0,N√£o Sabe,0,0,Sim,-22.9481697083,-43.3626708984,1492
+S√£o Gon√ßalo - RJ| Brasil,2016/09/05,00:00:00,N√£o,0,0,Sim,3,0,N√£o,-22.8272876740,-43.0637664795,1493
+Chatuba| Mesquita - RJ| Brasil,2016/09/06,10:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8065814972,-43.4379882812,1494
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/09/06,12:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9128704071,-43.2845535278,1495
+Auto-Estrada Graja√∫-Jacarepagu√° - Jacarepagua| Rio de Janeiro - RJ| Brasil,2016/09/06,12:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9255180359,-43.3154907227,1496
+Avenida Menezes Cortes - Freguesia (Jacarepagu√°)| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/06,13:13:02,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9210948944,-43.2850265503,1497
+Chapadao - Campo Grande| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/06,14:06:24,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9322223663,-43.4766654968,1498
+Parada de Lucas| Rio de Janeiro - RJ| Brasil,2016/09/06,17:05:36,Sim,4,0,N√£o Sabe,0,0,Sim,-22.8184509277,-43.3030128479,1499
+Cantagalo - Rua Pompeu Loureiro - Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/05,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,Pol√≠cia,-22.9766731262,-43.1938476562,1500
+Guadalupe| Rio de Janeiro - RJ| Brasil,2016/09/06,08:00:00,N√£o,0,0,N√£o,0,0,N√£o,Pol√≠cia,-22.8401088715,-43.3780746460,1501
+Av. Brasil - Parada de Lucas| Rio de Janeiro - RJ| Brasil,2016/09/05,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,Pol√≠cia,-22.8156375885,-43.3002738953,1502
+Av. Brasil - Parada de Lucas| Rio de Janeiro - RJ| Brasil,2016/09/06,00:00:00,Sim,1,0,Sim,4,0,N√£o,-22.8156375885,-43.3002738953,1503
+Auto-Estrada Graja√∫-Jacarepagu√° - Jacarepagua| Rio de Janeiro - RJ| Brasil,2016/09/06,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.9255180359,-43.3154907227,1504
+Vila Juliani| 17 - Madureira| Rio de Janeiro - RJ| Brasil,2016/09/06,22:49:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8798656464,-43.3338470459,1506
+Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/06,22:50:29,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9697780609,-43.1868591309,1507
+Rua Coronel Tamarindo - Bangu| Rio de Janeiro - RJ| Brasil,2016/09/06,22:57:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8753299713,-43.4710083008,1510
+Estrada do Mendanha - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/09/06,19:00:00,N√£o Sabe,0,1,N√£o Sabe,0,1,N√£o Sabe,-22.8644809723,-43.5488891602,1511
+Estrada Curipos - Anil| Rio de Janeiro - RJ| Brasil,2016/09/06,23:06:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9659824371,-43.3404541016,1515
+Avenida Almirante Amorim do Val√™ - Vista Alegre| S√£o Gon√ßalo - RJ| Brasil,2016/09/06,23:23:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8044776917,-42.9465293884,1518
+Rua Mariana da Costa - Heli√≥polis| Belford Roxo - RJ| Brasil,2016/09/06,20:30:00,N√£o,0,0,N√£o,0,0,N√£o,-22.7414093018,-43.4254875183,1521
+Rua Lu√≠s Vagas - Pilares,2016/09/06,07:33:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8796825409,-43.3048629761,1523
+Angra dos Reis - RJ| Brasil,2016/09/07,08:53:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-23.0057353973,-44.3157577515,1524
+Avenida Antares - Santa Cruz| Rio de Janeiro - RJ| Brasil,2016/09/07,09:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9217586517,-43.6634178162,1525
+Rua Leopoldina Borges| 197 - Anchieta| Rio de Janeiro - RJ| Brasil,2016/09/07,09:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8262100220,-43.4094657898,1527
+Rua Mearim - Kennedy| Nova Igua√ßu - RJ| Brasil,2016/09/06,00:10:00,Sim,0,0,N√£o,0,0,N√£o,-22.7388992310,-43.4455184937,1528
+Ituverava393,2016/09/07,10:42:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9456424713,-43.3364295959,1530
+Rua bahia lagoinha nova Igua√ßu ej,2016/09/07,10:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8169002533,-43.6169738770,1531
+Rua Jo√£o da Silva| Queimados - RJ| Brasil,2016/09/07,10:43:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6971626282,-43.5548515320,1533
+Engenheiro Pedreira| Japeri - RJ| Brasil,2016/09/06,10:41:00,N√£o,0,0,N√£o,0,0,N√£o,-22.6782531738,-43.6063308716,1534
+Rua Leopoldo Bulh√µes - Benfica| Rio de Janeiro - RJ| Brasil,2016/09/07,11:07:00,N√£o,0,0,N√£o Sabe,0,0,Sim,-22.8810920715,-43.2500343323,1536
+Rua Guarabu - Inhauma| Rio de Janeiro - RJ| Brasil,2016/09/07,11:37:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8754367828,-43.2918167114,1537
+Vila Santa Teresa| Belford Roxo - RJ| Brasil,2016/09/07,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7414417267,-43.3449440002,1538
+Bangu| Rio de Janeiro - RJ| Brasil,2016/09/07,12:34:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8742256165,-43.4685440063,1546
+Taquara| Rio de Janeiro - RJ| Brasil,2016/09/07,13:26:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9230499268,-43.3739776611,1550
+Morro da Coroa - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/09/07,13:57:00,Sim,0,0,Sim,0,0,Sim,-22.9225006104,-43.1925010681,1552
+Rua Jaqueira - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/09/07,15:15:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8381156921,-43.3474159241,1555
+M√°rio de Alencar Santiago,2016/09/07,15:18:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7921943665,-43.3863220215,1556
+Rua Visconde de Santa Isabel - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/07,15:30:09,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9170207977,-43.2600440979,1557
+Av.Cidade de Deus,2016/09/07,17:37:00,N√£o,0,0,N√£o,0,0,N√£o Sabe,-22.9487724304,-43.3662223816,1559
+Falet,2016/09/07,18:49:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,43.5243873596,-0.5640779734,1560
+Rua Artur Napole√£o - Guaxindiba| S√£o Gon√ßalo - RJ| Brasil,2016/09/07,18:50:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7862129211,-42.9653282166,1561
+Rua Conde de Azambuja - Maria da Gra√ßa| Rio de Janeiro - RJ| Brasil,2016/09/07,18:52:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8841781616,-43.2634162903,1562
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/09/07,19:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1564
+rua chad,2016/09/07,19:06:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8602428436,-43.4926757812,1565
+Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/07,19:20:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9167327881,-43.2508354187,1569
+Jardim Ideal| Belford Roxo - RJ| Brasil,2016/09/07,19:53:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7485408783,-43.3521614075,1571
+Rua Merc√∫rio - Pavuna| Rio de Janeiro - RJ| Brasil,2016/09/07,17:00:00,N√£o,1,0,N√£o Sabe,0,0,N√£o,-22.8054161072,-43.3564643860,1574
+Jardim Canaa| Nova Igua√ßu - RJ| Brasil,2016/09/06,11:14:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7498092651,-43.4810600281,1575
+Pra√ßa Cotigi| 102-184 - Vicente de Carvalho| Rio de Janeiro - RJ| 21371-430| Brasil,2016/09/07,20:34:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8576412201,-43.3168830872,1576
+Rua Sab√≥ia Lima - Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/07,20:37:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9341449738,-43.2344818115,1577
+Av. Embaixador Abelardo Bueno| 27 - Barra da Tijuca| Rio de Janeiro - RJ| 22775-040| Brasil,2016/09/07,09:18:00,N√£o Sabe,0,0,N√£o,0,0,Sim,-22.9731578827,-43.4018325806,1581
+Pra√ßa Parabola - Vila Esperanca| Belford Roxo - RJ| Brasil,2016/09/07,21:23:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7362632751,-43.3342247009,1582
+Doutor Laureano| Duque de Caxias - RJ| Brasil,2016/09/07,21:26:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7680301666,-43.2980728149,1583
+R. Trevo| 901-971 - Jardim Guandu| Nova Igua√ßu - RJ| 26298-281| Brasil,2016/09/05,13:30:00,N√£o,0,0,Sim,0,0,N√£o Sabe,-22.8267307281,-43.6109962463,1584
+Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/09/07,21:38:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8440799713,-43.3094635010,1586
+Rodovia Washington Luiz| 18770- Vila Maria Helena| Duque de Caxias - RJ| Brasil,2016/09/07,21:55:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6495037079,-43.2836990356,1587
+R. S√£o Jos√©| 2964 - Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/07,22:22:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8615856171,-43.2706108093,1588
+Mag√© - RJ| Brasil,2016/09/06,07:04:00,N√£o Sabe,5,0,N√£o Sabe,0,0,N√£o Sabe,-22.6566028595,-43.0398330688,1590
+Avenida Ab√≠lio Augusto T√°vora - Jardim Para√≠so| Nova Igua√ßu - RJ| Brasil,2016/09/07,22:41:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8169288635,-43.5946388245,1591
+Campo Grande| Rio de Janeiro - RJ| Brasil,2016/09/07,23:02:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9035835266,-43.5662422180,1592
+Rua Biquiba - Xavantes| Belford Roxo - RJ| Brasil,2016/09/07,23:23:14,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7358760834,-43.3972778320,1594
+Condom√≠nio do Edif√≠cio a Rua Odilon Ara√∫jo 189 - R. Odilon Ara√∫jo| 189 - Cachambi| Rio de Janeiro - RJ| 20775-160| Brasil,2016/09/08,00:14:57,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8934001923,-43.2743225098,1595
+R. Santa Catarina| 24-76 - Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/08,06:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8643531799,-43.2730751038,1596
+R. Dr. Mario Vianna| 845 - Santa Rosa| Niter√≥i - RJ| Brasil,2016/09/08,07:10:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9058361053,-43.0843505859,1597
+Favela da Rocinha rj,2016/09/08,08:55:00,Sim,0,0,Sim,0,0,Sim,-22.9879837036,-43.2479820251,1598
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/08,11:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1600
+Penha| Rio de Janeiro - RJ| Brasil,2016/09/08,12:23:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1601
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/08,12:59:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,1602
+Rua Santos Mello| 73 - S√£o Francisco Xavier| Rio de Janeiro - RJ| Brasil,2016/09/08,08:09:52,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9036197662,-43.2426071167,1603
+Rua Gilda de Abreu - Catumbi| Rio de Janeiro - RJ| Brasil,2016/09/08,15:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9194297791,-43.1951293945,1605
+Rua Itapiru - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/08,15:28:54,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9225673676,-43.1974411011,1606
+Rua Ouro Fino - Jardim Catarina| S√£o Gon√ßalo - RJ| Brasil,2016/09/08,15:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7910976410,-42.9975585938,1607
+Estrada do Mendanha - Campo Grande| Rio de Janeiro - RJ| Brasil,2016/09/06,00:00:00,Sim,1,0,Sim,1,0,N√£o,-22.8644809723,-43.5488891602,1610
+Rua General Jer√¥nimo Furtado - Hon√≥rio Gurgel| Rio de Janeiro - RJ| Brasil,2016/09/07,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.8453197479,-43.3546409607,1611
+Nova Aurora| Belford Roxo - RJ| Brasil,2016/09/06,00:00:00,Sim,2,0,N√£o,0,0,N√£o,-22.7209491730,-43.3989067078,1612
+Hon√≥rio Gurgel| Rio de Janeiro - RJ| Brasil,2016/09/07,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8453350067,-43.3558273315,1613
+Rua Gonzaga Bastos - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/07,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.9198379517,-43.2402153015,1614
+Rua Capri - Anchieta| Rio de Janeiro - RJ| Brasil,2016/09/07,00:00:00,Sim,1,0,N√£o Sabe,0,0,Sim,-22.8266334534,-43.3855819702,1615
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/08,13:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.9052505493,-43.2340126038,1616
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/08,06:29:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8593330383,-43.2754745483,1617
+R. Prof. Heleno Fragoso - Jardim Igua√ßu| Nova Igua√ßu - RJ| Brasil,2016/09/08,17:46:00,N√£o,0,0,N√£o,0,0,N√£o,-22.7407855988,-43.4637870789,1618
+Rua Cear√° - Praca da Bandeira| Rio de Janeiro - RJ| Brasil,2016/09/08,17:50:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9094085693,-43.2167091370,1619
+av.flavio monteiro de barros,2016/09/08,18:32:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7899188995,-43.0426826477,1620
+R. Novo Para√≠so| 12-3059 - Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/08,19:39:58,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8636417389,-43.2788009644,1621
+Estrada do Mapu√° - Taquara| Rio de Janeiro - RJ| Brasil,2016/09/08,19:47:49,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9284782410,-43.3854103088,1622
+Pra√ßa do Ter√ßo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/08,21:17:04,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8645839691,-43.2724990845,1623
+Rua Souza Barros pr√≥ximo ao 401 - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/09/08,21:41:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9010219574,-43.2678833008,1624
+Unnamed Road| Mag√© - RJ| 25900-000| Brasil,2016/09/08,21:55:39,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6566028595,-43.0398330688,1626
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/09,00:55:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1628
+Petr√≥polis - RJ| Brasil,2016/09/09,07:28:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.5112495422,-43.1779289246,1631
+Rua Andrade Figueira - Madureira| Rio de Janeiro - RJ| Brasil,2016/09/09,08:16:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8709735870,-43.3343811035,1632
+Avenida Ministro Edgard Romero pr√≥ximo ao 878 - V√°z Lobo| Rio de Janeiro - RJ| Brasil,2016/09/09,08:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8588466644,-43.3295402527,1633
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/09,07:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9252338409,-43.2053413391,1634
+Morro da Providencia - Gamb√¥a| Rio de Janeiro - RJ| Brasil,2016/09/09,07:50:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9002780914,-43.1952781677,1635
+Rua Agariba - Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/09/09,11:57:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9120235443,-43.2653846741,1637
+Avenida Doutor Albino Imparato - Jardim Catarina| S√£o Gon√ßalo - RJ| Brasil,2016/09/09,12:35:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7954673767,-43.0064506531,1639
+Belford Roxo - RJ| Brasil,2016/09/06,21:30:00,Sim,4,0,N√£o Sabe,0,0,N√£o Sabe,-22.7645397186,-43.3996276855,1640
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/09/09,15:51:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9128704071,-43.2845535278,1642
+Rua Virg√≠lio Filho - Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/09,16:42:00,Sim,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8191280365,-43.3681449890,1643
+Santa Izabel| S√£o Gon√ßalo - RJ| Brasil,2016/09/08,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,Pol√≠cia,-22.8577365875,-42.9440612793,1644
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/08,00:00:00,N√£o,0,0,Sim,1,0,N√£o,Pol√≠cia,-22.8246498108,-43.3727264404,1645
+Acari| Rio de Janeiro - RJ| Brasil,2016/09/09,00:00:00,Sim,1,0,N√£o,0,0,N√£o Sabe,-22.8255310059,-43.3444595337,1646
+Madureira| Rio de Janeiro - RJ| Brasil,2016/09/09,07:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.8725337982,-43.3363647461,1647
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/06,06:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9252338409,-43.2053413391,1648
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/08,20:00:00,N√£o,0,0,Sim,0,2,N√£o,-22.8593330383,-43.2754745483,1649
+Rua da Amizade - Bangu| Rio de Janeiro - RJ| Brasil,2016/09/09,19:31:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8649559021,-43.4690208435,1650
+Avenida Dom H√©lder C√¢mara - Engenho de Dentro| Rio de Janeiro - RJ| Brasil,2016/09/09,20:56:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8860912323,-43.2888679504,1651
+R. Milton Nunes| 22 - Santa Luzia| S√£o Gon√ßalo - RJ| Brasil,2016/09/09,21:40:00,N√£o,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8026981354,-42.9797019958,1654
+Rua Moraes Pinheiro - Anchieta| Rio de Janeiro - RJ| Brasil,2016/09/09,12:50:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8322772980,-43.3904457092,1657
+Rua Israel - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/09/10,09:00:00,N√£o Sabe,0,0,Sim,0,0,N√£o Sabe,-22.9482746124,-43.3630828857,1658
+Rua Visconde de Paranagu√° - Santa Teresa| RJ| Brasil,2016/09/09,03:26:00,N√£o,0,0,N√£o,0,0,N√£o Sabe,-22.9177341461,-43.1781921387,1659
+Jacarezinho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/10,00:48:02,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8875579834,-43.2581939697,1661
+Avenida Dom H√©lder C√¢mara - Engenho de Dentro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/10,00:49:26,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8860912323,-43.2888679504,1662
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/10,15:02:04,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1666
+Rua Frei Luiz Alevato - Taquara| Rio de Janeiro - RJ| Brasil,2016/09/10,00:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9354305267,-43.3686561584,1668
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/11,02:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9252338409,-43.2053413391,1670
+R. Anina Faenze - Austin| Nova Igua√ßu - RJ| Brasil,2016/09/11,03:50:00,N√£o Sabe,6,0,N√£o Sabe,3,0,N√£o Sabe,-22.7290420532,-43.5296592712,1671
+Estrada Do Guerengue pr√≥ximo ao 377 - Taquara| Rio de Janeiro - RJ| Brasil,2016/09/11,03:45:39,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9310779572,-43.3764457703,1672
+Rua Fernandes Mendon√ßa - Port√£o do Rosa| S√£o Gon√ßalo - RJ| Brasil,2016/09/11,14:57:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8037433624,-43.0424652100,1673
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/11,17:01:40,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1674
+Estrada do Sumar√© - Rio Comprido| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/11,16:07:32,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9436435699,-43.2266235352,1675
+R. Junquilhos| 197-335 - Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/11,19:28:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9285392761,-43.2261581421,1676
+Rua Arquias Cordeiro pr√≥ximo ao 310 - Meier| Rio de Janeiro - RJ| Brasil,2016/09/11,08:49:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9021930695,-43.2774009705,1677
+Rua Professor Eduardo Vianna - Carolina| Nova Igua√ßu - RJ| Brasil,2016/09/11,23:43:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7497978210,-43.4336471558,1678
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/11,07:08:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9252338409,-43.2053413391,1679
+Belford Roxo - RJ| Brasil,2016/09/11,21:25:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7645397186,-43.3996276855,1680
+Caju| Rio de Janeiro - RJ| Brasil,2016/09/11,08:23:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8792076111,-43.2155532837,1681
+Rua Antero Pinto Pereira - Jardim Meriti| S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/09,00:00:00,N√£o,0,0,Sim,0,1,N√£o,-22.7835445404,-43.3712272644,1682
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/09/10,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.9481697083,-43.3626708984,1683
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/11,16:00:00,Sim,1,0,Sim,6,0,N√£o,-22.9252338409,-43.2053413391,1684
+Rua Tenente Lassance - Anchieta| Rio de Janeiro - RJ| Brasil,2016/09/11,13:43:37,Sim,0,0,Sim,0,0,N√£o Sabe,-22.8297061920,-43.4102401733,1685
+Avenida Eucl√≠des da Cunha - Vilar dos Teles| S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/09,00:00:00,Sim,1,0,Sim,1,0,N√£o,-22.7668514252,-43.3541564941,1686
+Morro da Providencia - Gamb√¥a| Rio de Janeiro - RJ| Brasil,2016/09/09,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9002780914,-43.1952781677,1687
+Parque Eldorado| Duque de Caxias - RJ| Brasil,2016/09/11,00:00:00,Sim,2,0,N√£o Sabe,0,0,N√£o,-22.6440868378,-43.2980728149,1688
+Rua Santo Amaro - Catete| Rio de Janeiro - RJ| Brasil,2016/09/10,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,Pol√≠cia,-22.9241676331,-43.1815147400,1689
+S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/09,00:00:00,N√£o,0,0,Sim,2,0,N√£o,-22.7907657623,-43.3699378967,1690
+Nova Igua√ßu - RJ| Brasil,2016/09/06,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.7561321259,-43.4607429504,1691
+Rua Principal - Mar√©| Rio de Janeiro - RJ| Brasil,2016/09/12,16:37:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8576374054,-43.2416648865,1693
+Rua Caetano de Almeida - Meier| Rio de Janeiro - RJ| Brasil,2016/09/12,17:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9039020538,-43.2915916443,1694
+Rua Principal - Mar√©| Rio de Janeiro - RJ| Brasil,2016/09/12,22:07:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8576374054,-43.2416648865,1697
+Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/12,22:19:27,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9325733185,-43.2410240173,1698
+Rua General √Ålcio Souto - Nova Cidade| S√£o Gon√ßalo - RJ| Brasil,2016/09/12,22:57:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7968578339,-43.0231513977,1699
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/12,00:18:59,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9252338409,-43.2053413391,1701
+R. Principal - Mar√©| Rio de Janeiro - RJ| 21044-690| Brasil,2016/09/13,00:55:43,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8561325073,-43.2420425415,1702
+Centen√°rio| Duque de Caxias - RJ| Brasil,2016/09/02,23:00:00,N√£o Sabe,0,0,N√£o Sabe,1,0,N√£o Sabe,-22.7726898193,-43.3125648499,1703
+Rua Aimore pr√≥ximo ao 193 - Penha| Rio de Janeiro - RJ| Brasil,2016/09/12,15:16:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1704
+Mar√©| Rio de Janeiro - RJ| Brasil,2016/09/12,20:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8574962616,-43.2430152893,1705
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/09/12,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9128704071,-43.2845535278,1706
+Complexo do Alemao| Rio de Janeiro - RJ| Brasil,2016/09/12,20:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1707
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/12,20:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1708
+Penha| Rio de Janeiro - RJ| Brasil,2016/09/12,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8308544159,-43.2698173523,1709
+Rua Camarista M√©ier - Engenho de Dentro| Rio de Janeiro - RJ| Brasil,2016/09/12,17:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9094676971,-43.2967414856,1710
+Avenida Paulo de Frontin - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/11,20:35:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9245891571,-43.2095108032,1711
+R. Magalh√£es Castro| 34 - Riachuelo| Rio de Janeiro - RJ| Brazil,2016/09/13,11:46:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8954753876,-43.2562255859,1714
+Rua Matric√°ria - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/09/13,14:31:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8471336365,-43.3758583069,1715
+R. Dr. Almir Madeira| 1-121 - Santa Rosa| Niter√≥i - RJ| 24241-270| Brazil,2016/09/13,15:45:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9033813477,-43.0869407654,1716
+Complexo do Alemao| Rio de Janeiro - RJ| Brasil,2016/09/13,00:00:00,N√£o,0,0,Sim,1,0,N√£o Sabe,-22.8593330383,-43.2754745483,1717
+Rua Arapa - Ramos| Rio de Janeiro - RJ| Brasil,2016/09/13,17:35:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8630313873,-43.2647285461,1718
+Morro da Providencia - Gamb√¥a| Rio de Janeiro - RJ| Brasil,2016/09/13,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9002780914,-43.1952781677,1719
+Duque de Caxias - RJ| Brasil,2016/09/12,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.7862987518,-43.3053092957,1720
+Rua Arapa - Ramos| Rio de Janeiro - RJ| Brasil,2016/09/13,20:59:00,Sim,1,0,N√£o,0,0,N√£o,-22.8630313873,-43.2647285461,1721
+Tv. Paulo Antunes| 71-105 - Santa Rosa| Niter√≥i - RJ| 24241-200| Brasil,2016/09/13,17:15:19,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9062061310,-43.0880584717,1723
+Vila da Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/14,10:38:47,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8440799713,-43.3094635010,1724
+Rua do Rio - Cachambi| Rio de Janeiro - RJ| Brasil,2016/09/14,17:26:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8885898590,-43.2583694458,1726
+Tv. do Silva| 327 - Barreto| Niter√≥i - RJ| 24110-356| Brasil,2016/09/14,18:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8682403564,-43.1015205383,1727
+Barros Filho| Rio de Janeiro - RJ| Brasil,2016/09/13,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.8356208801,-43.3639945984,1728
+Coelho| S√£o Gon√ßalo - RJ| Brasil,2016/09/14,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8358917236,-42.9910278320,1729
+Rua do Bispo - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/14,21:55:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9232769012,-43.2133407593,1730
+Mar√©,2016/09/14,22:01:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-1.7753537893,34.1531944275,1731
+Rua F√©lix - Vila do Tingu√°| Queimados - RJ| Brasil,2016/09/14,22:48:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7116584778,-43.5614509583,1734
+Av. Cidade de Deus - Jacarepagua| Rio de Janeiro - RJ| 22723-255| Brasil,2016/09/15,00:28:17,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9524192810,-43.3617515564,1736
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/09/14,22:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1737
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/14,00:00:00,Sim,2,0,N√£o,0,0,Sim,-22.8246498108,-43.3727264404,1738
+Santa Rosa| Niter√≥i - RJ| Brasil,2016/09/14,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.8987579346,-43.0985183716,1739
+Manguinhos| Rio de Janeiro - RJ| Brasil,2016/09/15,00:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8830375671,-43.2457504272,1740
+Jardim Campo Alegre| Queimados - RJ| Brasil,2016/09/15,22:38:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7156963348,-43.5817184448,1741
+R. Jo√£o Fernandes Neto| 322 - Belford Roxo| RJ| 26130-050| Brasil,2016/09/15,22:30:50,N√£o,0,0,N√£o Sabe,0,0,N√£o,-22.7706966400,-43.3944168091,1742
+Rua da Alvorada - Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/15,22:38:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8624343872,-43.2748756409,1743
+R. Dona Vitalina| 983 - Vila Olorum| Nova Igua√ßu - RJ| 26011-590| Brasil,2016/09/15,23:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7421131134,-43.4270744324,1744
+Rua Moli√©re| 181 - Iraj√°| Rio de Janeiro - RJ| 21230-045| Brazil,2016/09/16,00:33:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8213481903,-43.3311843872,1746
+Rua Sa√ßu - Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/09/14,13:25:00,Sim,2,0,N√£o Sabe,0,0,Sim,-22.8960323334,-43.3213577271,1747
+Todos os Santos| Rio de Janeiro - RJ| Brasil,2016/09/15,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.8928489685,-43.2846641541,1749
+Nova Igua√ßu - RJ| Brasil,2016/09/15,00:00:00,Sim,1,0,Sim,1,0,Sim,-22.7561321259,-43.4607429504,1750
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/15,00:00:00,Sim,1,0,N√£o,0,0,Sim,-22.8246498108,-43.3727264404,1751
+Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/16,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9697780609,-43.1868591309,1752
+Av. Brasil - Acari| Rio de Janeiro - RJ| Brasil,2016/09/16,00:00:00,Sim,0,1,N√£o,0,0,N√£o,-22.8267574310,-43.3400688171,1753
+Rua An√≠bal Alves - Oliveira| Nova Igua√ßu - RJ| Brasil,2016/09/15,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.7337589264,-43.4679412842,1754
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/15,00:00:00,Sim,2,0,N√£o,0,0,Sim,-22.8593330383,-43.2754745483,1755
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/15,00:00:00,N√£o,0,0,Sim,0,2,N√£o,-22.8593330383,-43.2754745483,1756
+Niter√≥i - RJ| Brasil,2016/09/16,14:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8858966827,-43.1152229309,1757
+Penha| Rio de Janeiro - RJ| Brasil,2016/09/16,16:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1758
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/16,17:01:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1759
+Shopping Center| Duque de Caxias,2016/09/16,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7922611237,-43.3110427856,1760
+Rua Carlos de Queir√≥s - Muqueca| Barra do Pira√≠ - RJ| Brasil,2016/09/16,20:42:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.4765701294,-43.8166313171,1761
+Rua General Os√≥rio - Vila Jose| Nova Igua√ßu - RJ| Brasil,2016/09/16,21:02:00,N√£o,0,0,N√£o,0,0,N√£o,-22.7461471558,-43.4307403564,1762
+Estrada Do Barro Vermelho pr√≥ximo ao 854 - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/09/17,00:13:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8505592346,-43.3451881409,1763
+Cachambi| Rio de Janeiro - RJ| Brasil,2016/09/17,03:19:59,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8899879456,-43.2736244202,1764
+Rua Senador Nabuco - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/16,22:57:52,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9138412476,-43.2526512146,1765
+Rua T√¥rres Homem - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/14,17:00:26,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9147090912,-43.2498931885,1766
+Rua Fernandes Mendon√ßa - Port√£o do Rosa| S√£o Gon√ßalo - RJ| Brasil,2016/09/17,11:32:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8037433624,-43.0424652100,1767
+Rua Pedro T√©les - Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/09/17,06:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8959865570,-43.3477897644,1768
+Caju| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/17,12:40:40,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8792076111,-43.2155532837,1769
+Via Light - Centro| Nova Igua√ßu - RJ| Brasil,2016/09/17,02:40:00,Sim,2,0,Sim,0,0,N√£o,-22.7581329346,-43.4483566284,1770
+Pedra Rasa - Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/17,14:45:37,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8266658783,-43.3741683960,1771
+Tom√°s Coelho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/17,17:47:26,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8683071136,-43.3044357300,1772
+Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/17,18:49:26,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8401088715,-43.3780746460,1773
+Vila Isabel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/17,19:18:26,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9167327881,-43.2508354187,1774
+Rua Beira Rio| 323-538 - Ch√°caras Arcampo| Duque de Caxias - RJ| Brasil,2016/09/17,22:49:00,Sim,1,0,Sim,1,0,N√£o Sabe,-22.6484584808,-43.2725830078,1775
+R Ab√≠lio Augusto Tavora-Nova Iguacu Circular da Quinta do Caj√∫| 226 - Caju| Rio de Janeiro - RJ| 20931-040| Brasil,2016/09/17,22:49:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8763599396,-43.2137107849,1776
+Morro do Pavao - Copacabana| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/17,05:30:09,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9811115265,-43.1974983215,1777
+Rua Saint Roman - Copacabana| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/17,04:25:28,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9810428619,-43.1940803528,1778
+Acari| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/18,10:48:16,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8255310059,-43.3444595337,1779
+Miriambi| S√£o Gon√ßalo - State of Rio de Janeiro| Brazil,2016/09/18,11:05:22,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8233375549,-42.9866409302,1781
+Avenida Governador Roberto Silveira - Centro| Nova Igua√ßu - RJ| Brasil,2016/09/18,18:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7494773865,-43.4567527771,1787
+Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/18,18:55:09,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8401088715,-43.3780746460,1788
+Rua Santo Ant√¥nio - S√£o Crist√≥v√£o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/18,21:08:21,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.8873634338,-43.2279510498,1789
+Avenida Joaquim Nabuco - Parque Senhor do Bonfim| Duque de Caxias - RJ| Brasil,2016/09/18,22:40:00,N√£o Sabe,1,0,Sim,1,0,Sim,-22.7760200500,-43.3173408508,1790
+Rua Doutor Mario Vianna - Santa Rosa| Niter√≥i - RJ| Brasil,2016/09/19,00:08:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9048500061,-43.0916862488,1791
+Vila Ideal| Duque de Caxias - RJ| Brasil,2016/09/17,09:21:00,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.7941246033,-43.3143730164,1792
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/18,04:45:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9252338409,-43.2053413391,1794
+Estrada das Canoas - S√£o Conrado| Rio de Janeiro - RJ| Brasil,2016/09/18,21:44:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9910507202,-43.2741737366,1795
+Pra√ßa Seca| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/19,02:28:52,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1796
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/19,08:30:53,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1797
+R. Dr. Mario Vianna - Santa Rosa| Niter√≥i - RJ| Brasil,2016/09/19,10:42:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9048500061,-43.0916862488,1798
+Chapadao - Campo Grande| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/19,10:55:56,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9322223663,-43.4766654968,1799
+Rua Deputado Ant√¥nio Ribeiro Prado| 300-514 - Ita√∫na| S√£o Gon√ßalo - RJ| 24476-410| Brasil,2016/09/19,11:12:00,N√£o,0,0,N√£o,0,0,N√£o,-22.7699947357,-43.0167427063,1800
+Nova Igua√ßu - RJ| Brasil,2016/09/15,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.7561321259,-43.4607429504,1801
+Anchieta| Rio de Janeiro - RJ| Brasil,2016/09/15,00:00:00,Sim,1,0,N√£o,0,0,Sim,Pol√≠cia,-22.8238792419,-43.3981246948,1802
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/15,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8246498108,-43.3727264404,1803
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/16,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9052505493,-43.2340126038,1804
+Realengo| Rio de Janeiro - RJ| Brasil,2016/09/16,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.8763103485,-43.4302940369,1805
+Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/16,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9325733185,-43.2410240173,1806
+Via Light - Centro| Nova Igua√ßu - RJ| Brasil,2016/09/17,00:00:00,Sim,2,0,Sim,2,0,N√£o,-22.7581329346,-43.4483566284,1807
+Rua Cimbres - Coelho Neto| Rio de Janeiro - RJ| Brasil,2016/09/17,00:00:00,Sim,1,0,Sim,1,0,N√£o,-22.8337383270,-43.3443984985,1808
+Vila da Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/19,15:14:43,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8440799713,-43.3094635010,1809
+Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/17,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9167327881,-43.2508354187,1810
+Acari| Rio de Janeiro - RJ| Brasil,2016/09/17,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.8255310059,-43.3444595337,1811
+Santa Cruz da Serra| Duque de Caxias - RJ| Brasil,2016/09/17,00:00:00,Sim,2,0,N√£o,0,0,N√£o,-22.6394462585,-43.2763252258,1812
+Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/09/17,00:00:00,N√£o,0,0,Sim,2,1,N√£o,-22.9099998474,-43.2574996948,1813
+Nova Igua√ßu - RJ| Brasil,2016/09/19,00:00:00,N√£o,0,0,Sim,0,1,N√£o,-22.7561321259,-43.4607429504,1814
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/16,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1815
+Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/09/19,16:58:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8936595917,-43.3217468262,1816
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/16,00:00:00,N√£o,0,0,Sim,1,0,N√£o Sabe,-22.8593330383,-43.2754745483,1817
+Acari| Rio de Janeiro - RJ| Brasil,2016/09/19,00:00:00,N√£o,0,0,Sim,1,0,Sim,-22.8255310059,-43.3444595337,1818
+Mangueira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/19,18:06:49,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1819
+Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/19,18:37:23,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8401088715,-43.3780746460,1820
+Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/19,18:34:04,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8401088715,-43.3780746460,1821
+Rua Cupertino Marques| 1-37 - Jardim Bangu| Rio de Janeiro - RJ| 21853-290| Brasil,2016/09/18,23:30:00,N√£o,0,0,N√£o,0,0,Sim,-22.8523120880,-43.4927864075,1824
+Penha Circular| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,10:01:09,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8341712952,-43.2853431702,1825
+Rua Aimore pr√≥ximo ao 393 - Penha| Rio de Janeiro - RJ| Brasil,2016/09/20,10:53:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8468399048,-43.2873916626,1826
+Vaz Lobo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,12:30:32,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8574905396,-43.3293571472,1828
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,11:40:02,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8725337982,-43.3363647461,1829
+Catumbi| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,12:02:48,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9198665619,-43.1977157593,1830
+Rua A| 57 - Cantagalo| Niter√≥i - RJ| Brazil,2016/09/20,12:50:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9109268188,-43.0477333069,1831
+Mangueira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,10:19:29,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1832
+Caju| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,12:19:48,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8792076111,-43.2155532837,1833
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/17,00:00:00,Sim,1,0,Sim,1,0,N√£o Sabe,-22.8593330383,-43.2754745483,1834
+Rua Amb√≠r√© Cavalc√¢nti - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/20,12:31:10,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9215660095,-43.2059783936,1835
+Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,12:39:11,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8742256165,-43.4685440063,1836
+Travessa Fallet - Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,13:34:01,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9272537231,-43.1944389343,1838
+Caju| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,14:43:34,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8792076111,-43.2155532837,1839
+Padre Miguel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,15:37:54,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8780975342,-43.4483184814,1840
+Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,17:00:07,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,1841
+Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,18:36:27,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,1842
+Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/20,18:36:47,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,1843
+S√£o Gon√ßalo - State of Rio de Janeiro| Brazil,2016/09/20,18:37:12,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8272876740,-43.0637664795,1844
+Belford Roxo - RJ| Brasil,2016/09/21,20:11:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7645397186,-43.3996276855,1845
+Estrada Retiro da Imprensa - Areia Branca| Belford Roxo - RJ| Brasil,2016/09/21,01:39:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7458381653,-43.4051666260,1846
+Rua J√∫lio Louzada| 31-37 - Paci√™ncia| Rio de Janeiro - RJ| Brasil,2016/09/21,03:11:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9127025604,-43.6261558533,1847
+Rua Visconde de Paranagu√° - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/09/19,23:00:00,N√£o,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9177341461,-43.1781921387,1848
+Penha| Rio de Janeiro - RJ| Brasil,2016/09/21,12:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1850
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/09/21,17:56:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1851
+Acari| Rio de Janeiro - RJ| Brasil,2016/09/18,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8255310059,-43.3444595337,1852
+Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/20,09:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9052505493,-43.2340126038,1853
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/20,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.9252338409,-43.2053413391,1854
+Penha| Rio de Janeiro - RJ| Brasil,2016/09/20,09:30:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8308544159,-43.2698173523,1855
+Morro da Providencia - Gamb√¥a| Rio de Janeiro - RJ| Brasil,2016/09/20,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9002780914,-43.1952781677,1856
+Estrada da Barra da Tijuca - Itanhang√°| Rio de Janeiro - RJ| Brasil,2016/09/20,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.9967479706,-43.3048477173,1857
+Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/21,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.9167327881,-43.2508354187,1858
+Morro da Serrinha - V√°z Lobo| Rio de Janeiro - RJ| Brasil,2016/09/21,06:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8641662598,-43.3238906860,1859
+Madureira| Rio de Janeiro - RJ| Brasil,2016/09/21,06:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8725337982,-43.3363647461,1860
+Parque das Miss√µes| Duque de Caxias - RJ| Brasil,2016/09/19,00:00:00,N√£o,0,0,N√£o,0,0,Sim,Pol√≠cia,-22.8054943085,-43.2823677063,1861
+Rua Falet - Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/21,15:43:05,Sim,0,1,N√£o Sabe,0,0,N√£o Sabe,-22.9264984131,-43.1964492798,1862
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/21,18:45:47,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1863
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/09/22,08:00:05,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1864
+Rua Itapiru - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/09/22,09:20:48,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9225673676,-43.1974411011,1865
+S√£o Gon√ßalo - State of Rio de Janeiro| Brazil,2016/09/22,08:15:44,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8272876740,-43.0637664795,1866
+R. J| 104| Niter√≥i - State of Rio de Janeiro| Brazil,2016/09/22,08:17:01,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9066905975,-43.0447502136,1867
+Rua Alcoba√ßa - Ricardo de Albuquerque| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,09:18:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8269805908,-43.3921813965,1869
+Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,15:50:59,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1871
+Engenho Pequeno| Nova Igua√ßu - RJ| Brasil,2016/09/15,00:00:00,N√£o Sabe,0,0,Sim,0,1,N√£o Sabe,-22.7503662109,-43.4247360229,1872
+Nova Igua√ßu - RJ| Brasil,2016/09/15,00:00:00,N√£o Sabe,0,0,Sim,0,1,N√£o,-22.7561321259,-43.4607429504,1873
+Rua Bulh√µes Marcial - Vig√°rio Geral| Duque de Caxias - State of Rio de Janeiro| Brazil,2016/09/22,17:10:34,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8007297516,-43.3053741455,1875
+Rua Aquidab√£ - Meier| Rio de Janeiro - RJ| Brasil,2016/09/22,17:38:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9102344513,-43.2892951965,1876
+Rua Armando de Albuquerque - Vila Isabel| Rio de Janeiro - RJ| Brasil,2016/09/22,18:14:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9150638580,-43.2611427307,1877
+Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,18:03:25,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9128704071,-43.2845535278,1878
+Rua Vil√©la Tav√°res - Meier| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,18:58:09,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9089584351,-43.2867546082,1879
+Pavuna| Rio de Janeiro - RJ| Brasil,2016/09/21,00:00:00,N√£o Sabe,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8112316132,-43.3625259399,1881
+Avenida Coronel Raimundo Sampaio - Jardim Santa Rosa| S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/19,00:00:00,N√£o,0,0,N√£o,0,0,Sim,Pol√≠cia,-22.7684936523,-43.3501586914,1882
+Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,19:15:31,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1883
+Para√≠so| Queimados - RJ| Brasil,2016/09/12,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,Pol√≠cia,-22.7005119324,-43.5528831482,1884
+Queimados - RJ| Brasil,2016/09/11,00:00:00,Sim,1,0,N√£o,0,0,N√£o,Pol√≠cia,-22.7106685638,-43.5522270203,1885
+Belford Roxo - RJ| Brasil,2016/09/21,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.7645397186,-43.3996276855,1886
+Rua S√£o Carlos - Est√°cio| Rio de Janeiro - RJ| Brasil,2016/09/22,00:00:00,Sim,1,0,Sim,2,0,Sim,-22.9172458649,-43.2047615051,1888
+Morro do Castro| S√£o Gon√ßalo - RJ| Brasil,2016/09/22,00:00:00,N√£o,0,0,Sim,1,0,Sim,-22.8650951385,-43.0687942505,1889
+Rua Imeneari - Bangu| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,19:12:13,N√£o Sabe,0,0,N√£o Sabe,1,0,N√£o Sabe,-22.8611049652,-43.4703674316,1890
+Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,20:17:08,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8520107269,-43.3468055725,1891
+Morro dos Macacos - Sampaio| Rio de Janeiro - RJ| Brasil,2016/09/23,00:33:22,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9099998474,-43.2574996948,1892
+Avenida de Santa Cruz - Senador Camar√°| Rio de Janeiro - RJ| Brasil,2016/09/23,01:05:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8830089569,-43.4948730469,1893
+R. Zeferino Costa| 2262-2410 - Bom Retiro| S√£o Gon√ßalo - RJ| Brasil,2016/09/22,20:10:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7979602814,-42.9594421387,1894
+Salgueiro| S√£o Gon√ßalo - RJ| Brasil,2016/09/23,10:00:00,Sim,0,0,Sim,0,0,Sim,-22.7815208435,-43.0242271423,1895
+Morro da Formiga - Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/22,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9441661835,-43.2408332825,1896
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/09/22,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9128704071,-43.2845535278,1897
+Morro do Dezoito - Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/09/23,00:00:00,N√£o,0,0,Sim,0,1,N√£o,-22.8988895416,-43.3219451904,1898
+Chacrinha| Japeri - RJ| Brasil,2016/09/23,00:00:00,N√£o,0,0,Sim,2,0,N√£o,-22.6432971954,-43.6458015442,1899
+Rodovia Presidente Dutra| Nova Igua√ßu - RJ| Brasil,2016/09/23,00:00:00,Sim,0,2,N√£o,0,0,N√£o,-22.7388572693,-43.4757156372,1900
+Avenida Engenheiro Souza Filho - Itanhang√°| Rio de Janeiro - RJ| Brasil,2016/09/23,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.9790840149,-43.3335533142,1901
+Penha| Rio de Janeiro - RJ| Brasil,2016/09/23,12:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1902
+Avenida Ministro Edgard Romero - Madureira| Rio de Janeiro - RJ| Brasil,2016/09/23,15:44:36,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8664989471,-43.3344993591,1903
+Rua Pedro de Carvalho - Meier| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/22,18:44:19,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9083442688,-43.2884025574,1905
+Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/09/23,22:16:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9027462006,-43.2684059143,1909
+Ladeira dos Tabajaras 572 - Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/24,10:51:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9659252167,-43.1871299744,1910
+Rua Bar√£o| 450 - Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/09/24,11:10:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9012126923,-43.3487434387,1911
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/09/24,13:19:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1912
+Rua Araponga - Gale√£o| Rio de Janeiro - RJ| Brasil,2016/09/24,14:09:34,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8136119843,-43.2306938171,1913
+Hon√≥rio Gurgel| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/21,14:39:04,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8453350067,-43.3558273315,1914
+Rua Alcoba√ßa - Ricardo de Albuquerque| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/21,14:39:59,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8269805908,-43.3921813965,1915
+Rua Lins de Vasconcelos - Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:41:40,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9085521698,-43.2797622681,1916
+√Ågua Santa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:42:01,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052066803,-43.3072319031,1917
+Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:42:31,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8520107269,-43.3468055725,1918
+Rio das Pedras| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:43:05,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8649253845,-43.3478813171,1919
+Cordovil| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:43:29,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8234405518,-43.2959365845,1920
+Caju| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:44:23,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8792076111,-43.2155532837,1921
+Pra√ßa Seca| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:51:04,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1922
+Quintino Bocai√∫va| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/23,14:51:33,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8936595917,-43.3217468262,1923
+Engenho Novo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/24,14:52:09,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9027462006,-43.2684059143,1924
+Avenida Menezes Cortes - Freguesia (Jacarepagu√°)| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/24,14:52:34,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9210948944,-43.2850265503,1925
+Barros Filho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/24,02:54:51,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8356208801,-43.3639945984,1926
+Av. Autom√≥vel Clube| 11066-11194 - Coelho Neto| Rio de Janeiro - RJ| 20765-630| Brazil,2016/09/24,08:55:21,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8277244568,-43.3468475342,1927
+Complexo do Alem√£o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/24,08:59:42,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1928
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/24,08:00:05,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8725337982,-43.3363647461,1929
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/24,20:00:54,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1930
+Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/24,20:01:22,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,1931
+R. Lopes Quintas| 244 - Jardim Bot√¢nico| Rio de Janeiro - RJ| 22460-020| Brasil,2016/09/24,10:05:19,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9641208649,-43.2207450867,1934
+Jardim Bangu| Vila Kennedy| RJ| Brasil,2016/09/25,04:02:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8604011536,-43.4884109497,1936
+R. Ol√≠mpia| 15-143 - Tijuca| Rio de Janeiro - RJ| 20521-120| Brasil,2016/09/25,03:33:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9294281006,-43.2277565002,1937
+Rua Tuiuti - S√£o Crist√≥v√£o| Rio de Janeiro - RJ| Brasil,2016/09/25,13:40:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8974876404,-43.2312507629,1938
+Rua F√°ia - Rocha Miranda| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/25,01:41:06,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8471450806,-43.3474006653,1939
+Ing√°| Niter√≥i - State of Rio de Janeiro| Brazil,2016/09/25,20:42:16,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9038410187,-43.1222496033,1940
+Realengo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/25,07:43:32,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8763103485,-43.4302940369,1941
+Caminho do Outeiro - Jacarepagu√°| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/25,19:01:25,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9584751129,-43.3729972839,1942
+Rua do Engenho Novo - Sampaio| Rio de Janeiro - RJ| Brasil,2016/09/26,00:02:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9013099670,-43.2632179260,1944
+Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/26,09:11:33,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1947
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/26,09:13:18,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8725337982,-43.3363647461,1948
+Engenho Novo| Rio de Janeiro - RJ| Brasil,2016/09/23,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.9027462006,-43.2684059143,1949
+Avenida Marechal Rondon - S√£o Francisco Xavier| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.9053077698,-43.2440223694,1950
+Comendador Soares| Nova Igua√ßu - RJ| Brasil,2016/09/24,00:00:00,Sim,0,1,N√£o,0,0,N√£o,-22.7427062988,-43.4861450195,1951
+Parada Ang√©lica| Duque de Caxias - RJ| Brasil,2016/09/24,00:00:00,Sim,1,0,Sim,1,1,Sim,-22.6175575256,-43.2061882019,1952
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,1953
+Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o,0,0,N√£o,0,0,N√£o Sabe,-22.9697780609,-43.1868591309,1954
+Ladeira dos Tabajaras - Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o,0,0,N√£o,0,0,N√£o Sabe,-22.9642047882,-43.1898689270,1955
+Jardim Bangu| Vila Kennedy| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,Sim,1,0,Sim,2,0,Sim,-22.8604011536,-43.4884109497,1956
+Ilha do Governador| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o,0,0,Sim,3,0,Sim,-22.8052387238,-43.2086067200,1957
+Itabora√≠ - RJ| Brasil,2016/09/25,00:00:00,Sim,0,1,N√£o,0,0,N√£o,-22.7570018768,-42.8643150330,1958
+Rua Carlos Chambeland - Vila da Penha| Rio de Janeiro - RJ| Brasil,2016/09/25,00:00:00,N√£o,0,0,Sim,0,2,N√£o,-22.8450794220,-43.3041877747,1959
+Rua Eucl√≠des da Rocha - Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9652366638,-43.1942481995,1960
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.8246498108,-43.3727264404,1961
+Av. Brasil - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/09/25,00:00:00,N√£o,0,0,Sim,4,0,N√£o,-22.8628997803,-43.2481155396,1962
+Morro da Serrinha - V√°z Lobo| Rio de Janeiro - RJ| Brasil,2016/09/25,00:00:00,N√£o,0,0,N√£o,0,0,Sim,Pol√≠cia,-22.8641662598,-43.3238906860,1963
+Vital Brasil| Niter√≥i - RJ| Brasil,2016/09/25,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.9070396423,-43.0948944092,1964
+S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/25,00:00:00,N√£o,0,0,Sim,1,0,N√£o,Pol√≠cia,-22.7907657623,-43.3699378967,1965
+Salgueiro| S√£o Gon√ßalo - RJ| Brasil,2016/09/26,00:00:00,Sim,3,0,N√£o,0,0,Sim,-22.7815208435,-43.0242271423,1966
+Rua Maria Jos√© - Madureira| Rio de Janeiro - RJ| Brasil,2016/09/26,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.8801612854,-43.3467636108,1967
+Penha Circular| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/26,15:46:49,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8341712952,-43.2853431702,1968
+Queimados - RJ| Brasil,2016/09/24,02:00:00,Sim,2,0,N√£o Sabe,0,0,N√£o Sabe,-22.7106685638,-43.5522270203,1969
+Cordovil| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/26,16:49:03,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8234405518,-43.2959365845,1970
+Bangu| Vila Kennedy| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/26,18:15:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8604011536,-43.4884109497,1971
+Jardim Pernambuco| Nova Igua√ßu - RJ| Brasil,2016/09/26,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.7536888123,-43.4993782043,1972
+Chapadao - Campo Grande| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/27,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9322223663,-43.4766654968,1973
+Sape| Niter√≥i - RJ| Brasil,2016/09/24,00:00:00,Sim,1,0,N√£o,0,0,Sim,-22.8983268738,-43.0612525940,1975
+Del Castilho| Rio de Janeiro - RJ| Brasil,2016/09/27,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.8803653717,-43.2690048218,1976
+Rua Itaciaba - Bairro das Gra√ßas| Belford Roxo - RJ| Brasil,2016/09/24,00:00:00,Sim,1,0,Sim,0,1,N√£o,-22.7586059570,-43.3958549500,1977
+Guandu| Japeri - RJ| Brasil,2016/09/22,00:00:00,N√£o,0,0,Sim,0,1,Sim,-22.6889781952,-43.6447296143,1978
+Parque Santana| S√£o Jo√£o de Meriti - State of Rio de Janeiro| Brazil,2016/09/27,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7913093567,-43.3338279724,1979
+Parque Santana| S√£o Jo√£o de Meriti - State of Rio de Janeiro| Brazil,2016/09/27,00:00:00,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.7913093567,-43.3338279724,1980
+Frade| Angra dos Reis - RJ| Brasil,2016/09/27,21:26:44,N√£o Sabe,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.9617576599,-44.4393310547,1981
+Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/09/28,09:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9383335114,-43.2594451904,1982
+Rua Visconde de Niter√≥i - Mangueira| Rio de Janeiro - RJ| Brasil,2016/09/27,20:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9061183929,-43.2391586304,1983
+Duque de Caxias - RJ| Brasil,2016/09/26,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.7862987518,-43.3053092957,1984
+Morro do Borel - Andarai| Rio de Janeiro - RJ| Brasil,2016/09/28,09:30:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9383335114,-43.2594451904,1985
+Rua Ramos da Fonseca - Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/09/28,11:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9116592407,-43.2889785767,1986
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/09/28,08:24:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,1987
+Mangueira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,10:20:51,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9052505493,-43.2340126038,1988
+Lins de Vasconcelos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,11:22:08,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9128704071,-43.2845535278,1990
+Rodovia Washington Lu√≠z - Cordovil| Duque de Caxias - RJ| Brasil,2016/09/28,13:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.8059825897,-43.2894630432,1993
+Costa Barros| Rio de Janeiro - RJ| Brasil,2016/09/28,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8246498108,-43.3727264404,1994
+Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,13:59:15,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,1995
+Estrada Carlos Sampaio| Queimados - RJ| Brasil,2016/09/28,10:00:00,N√£o,0,0,Sim,2,0,N√£o,-22.7033805847,-43.5381889343,1996
+Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,14:59:38,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,1997
+Queimados - RJ| Brasil,2016/09/27,13:15:00,N√£o,0,0,Sim,1,0,N√£o,-22.7106685638,-43.5522270203,1998
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/09/24,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,1999
+Mar√©| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,19:15:16,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8574962616,-43.2430152893,2000
+Morro do Juramento - Vicente de Carvalho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,20:01:28,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8627777100,-43.3152770996,2001
+Avenida Ministro Edgard Romero - Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,20:07:41,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8664989471,-43.3344993591,2002
+Guadalupe| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,20:05:33,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8401088715,-43.3780746460,2003
+Rua √Ålvaro Proen√ßa - Parque Sao Nicolau| S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/28,23:01:00,N√£o Sabe,3,0,N√£o Sabe,0,0,N√£o,-22.8113727570,-43.3871154785,2004
+Queimados - RJ| Brasil,2016/09/28,23:53:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7106685638,-43.5522270203,2005
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/09/29,00:13:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,2006
+Rua Mesquita - Realengo| Rio de Janeiro - RJ| Brasil,2016/09/29,00:51:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8709564209,-43.4426193237,2007
+Morro da Serrinha - Vaz Lobo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/29,06:30:00,N√£o,0,0,N√£o Sabe,0,0,Sim,-22.8641662598,-43.3238906860,2008
+Rua Uruguai pr√≥ximo ao 288 - Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/29,06:50:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9293346405,-43.2432327271,2009
+Estrada Santo Ant√¥nio - Engenheiro Pedreira| Japeri - RJ| Brasil,2016/09/28,11:00:26,N√£o Sabe,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.6727790833,-43.5948829651,2010
+Morro do Estado| Niter√≥i - RJ| Brasil,2016/09/26,20:30:12,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8989562988,-43.1193046570,2011
+Ladeira dos Tabajaras - Botafogo| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/29,12:08:34,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9620361328,-43.1904754639,2012
+Jardim Delamare| Japeri - State of Rio de Janeiro| Brazil,2016/09/29,22:58:40,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6879177094,-43.5883216858,2013
+Beira-Rio| Japeri - State of Rio de Janeiro| Brazil,2016/09/28,10:59:27,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6294651031,-43.6627159119,2014
+Avenida Delamare| Japeri - State of Rio de Janeiro| Brazil,2016/09/28,10:59:49,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.6893081665,-43.5913543701,2015
+Campinho| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/28,11:01:22,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8856239319,-43.3481025696,2016
+Cordovil| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/29,10:03:18,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8234405518,-43.2959365845,2018
+Linha Amarela - Cidade de Deus| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/29,12:04:07,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9529361725,-43.3571815491,2019
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/29,07:06:47,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8725337982,-43.3363647461,2021
+Madureira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/29,06:07:24,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8725337982,-43.3363647461,2022
+Avenida Tancredo Neves - Centro| Nova Igua√ßu - RJ| Brasil,2016/09/25,22:00:00,N√£o,0,0,N√£o Sabe,0,0,N√£o,-22.7506294250,-43.4733200073,2023
+Rodovia BR101 Rio-Santos| Sapinhatuba| Angra dos Reis - RJ| Brasil,2016/09/29,01:15:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-19.7507648468,-40.3798675537,2024
+R. M√ºler Campos| S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/29,18:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8011131287,-43.3893280029,2026
+Rua Nina Ribeiro - Pavuna| Rio de Janeiro - RJ| Brasil,2016/09/29,16:12:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8098945618,-43.3721199036,2027
+R. S√£o Frederico| 57 - Est√°cio| Rio de Janeiro - RJ| 20250-260| Brasil,2016/09/29,15:11:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9166908264,-43.2038040161,2028
+Estrada Camboata pr√≥ximo ao 2080 - Guadalupe| Rio de Janeiro - RJ| Brasil,2016/09/29,19:52:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8365516663,-43.3866004944,2029
+Ladeira dos Tabajaras| 346 - Copacabana| Rio de Janeiro - RJ| Brasil,2016/09/29,20:40:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9647560120,-43.1889457703,2030
+Rua Nina Ribeiro - Pavuna| Rio de Janeiro - RJ| Brasil,2016/09/29,21:28:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8098945618,-43.3721199036,2031
+Avenida Beira Rio - Pavuna| Rio de Janeiro - RJ| Brasil,2016/09/29,22:03:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8110942841,-43.3307456970,2032
+Av. Lad√°rio - Cosmos| Rio de Janeiro - RJ| Brasil,2016/09/29,22:25:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.8923149109,-43.6006698608,2034
+Rua Augusto Rush - Coluband√™| S√£o Gon√ßalo - RJ| Brasil,2016/09/29,23:13:11,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8340873718,-43.0079841614,2035
+R. Frei G√°spar| 65 - Penha Circular| Rio de Janeiro - RJ| 21070-300| Brasil,2016/09/30,01:36:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8421268463,-43.2941703796,2036
+R. Vinte e Quatro| 1-31 - Vila Margarida| Itagua√≠ - RJ| Brasil,2016/09/30,03:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8753662109,-43.7939987183,2037
+Av. Maracan√£| 1529 - Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/29,21:24:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9344043732,-43.2439079285,2038
+Nova Am√©rica / Del Castilho - Avenida Autom√≥vel Clube - RJ| Brasil,2016/09/30,11:55:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8792743683,-43.2718772888,2039
+Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/30,12:17:39,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,2040
+Rua Leopoldo Bulh√µes - Manguinhos| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/30,12:19:18,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8801765442,-43.2503738403,2041
+Avenida Presidente Vargas - Cidade Nova| Rio de Janeiro - RJ| Brasil,2016/09/29,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.9065628052,-43.1950340271,2042
+Central do Brasil - Pra√ßa Proc√≥pio Ferreira - Centro| Rio de Janeiro - RJ| Brasil,2016/09/28,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9034252167,-43.1914710999,2043
+Rua Conde de Bonfim - Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/29,00:00:00,N√£o,0,0,Sim,1,0,N√£o,-22.9321212769,-43.2401809692,2044
+Austin| Nova Igua√ßu - RJ| Brasil,2016/09/28,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.7201728821,-43.5246353149,2045
+Rua Carlos Bravo - Piedade| Rio de Janeiro - RJ| Brasil,2016/09/29,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.9025936127,-43.3106918335,2046
+Morro do Dezoito - Quintino Bocaiuva| Rio de Janeiro - RJ| Brasil,2016/09/29,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8988895416,-43.3219451904,2047
+Morro do Sao Jose - Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/09/29,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.9069442749,-43.3408317566,2048
+Japeri - RJ| Brasil,2016/09/28,00:00:00,Sim,1,0,N√£o Sabe,0,0,N√£o,-22.6439971924,-43.6606445312,2049
+Rua Leopoldo Bulh√µes - Manguinhos| Rio de Janeiro - RJ| Brasil,2016/09/30,00:00:00,Sim,2,0,N√£o Sabe,0,0,N√£o,-22.8801765442,-43.2503738403,2050
+Morro do Fogueterio - Rio Comprido| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/30,18:40:34,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9277782440,-43.1991653442,2053
+Morro da Coroa - Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/09/30,19:04:14,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9225006104,-43.1925010681,2054
+R. Pacoval - Rocha Miranda| Rio de Janeiro - RJ| Brasil,2016/09/30,22:30:45,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8509998322,-43.3422584534,2055
+Rua Itapiru - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/10/01,05:59:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9225673676,-43.1974411011,2067
+Catumbi| Rio de Janeiro - RJ| Brasil,2016/10/01,06:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9198665619,-43.1977157593,2069
+R. Sampaio Viana| 225 - Rio Comprido| Rio de Janeiro - RJ| 20261-040| Brasil,2016/10/01,07:38:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9224987030,-43.2110633850,2070
+Rua Van Erven - Catumbi| Rio de Janeiro - RJ| Brasil,2016/10/01,08:44:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9179115295,-43.1985397339,2073
+Sapinhatuba| Angra dos Reis - Rio de Janeiro| Brasil,2016/10/01,01:54:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-23.0011863708,-44.2976417542,2074
+Rua Arist√≠des L√¥bo - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/10/01,08:58:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9205760956,-43.2086639404,2076
+Rua Itapiru - Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/10/01,09:46:48,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9225673676,-43.1974411011,2077
+Lins de Vasconcelos| Rio de Janeiro - RJ| Brasil,2016/09/01,10:33:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9128704071,-43.2845535278,2078
+R. Marac√°| 255-317 - Tom√°s Coelho| Rio de Janeiro - RJ| Brasil,2016/10/01,11:23:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8600063324,-43.3021125793,2079
+Tijuca| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,08:25:06,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9325733185,-43.2410240173,2080
+Est√°cio| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,08:43:21,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9174213409,-43.2049789429,2082
+Rua do Matoso - Pra√ßa da Bandeira| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,08:43:53,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9144306183,-43.2127494812,2083
+Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,10:48:05,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9191207886,-43.1907310486,2084
+Centro| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,14:24:10,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9070835114,-43.1819152832,2085
+Rua Javata pr√≥ximo ao 1481 - Anchieta| Rio de Janeiro - RJ| Brasil,2016/10/01,09:50:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8254680634,-43.3817024231,2086
+Morro da Providencia - Gamboa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,16:15:14,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9002780914,-43.1952781677,2087
+Complexo do Alem√£o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,17:15:34,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,2088
+Rua Conde de Bonfim| 830 - Tijuca| Rio de Janeiro - RJ| Brasil,2016/09/29,20:20:29,N√£o,0,0,Sim,0,0,N√£o,-22.9356384277,-43.2444229126,2089
+Av. Epit√°cio Pessoa| 2356 - Lagoa| Rio de Janeiro - RJ| 22411-072| Brazil,2016/10/01,20:44:22,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9768772125,-43.1979637146,2090
+Rua Bar√£o da Torre - Ipanema| Rio de Janeiro - RJ| Brasil,2016/10/01,21:22:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9831256866,-43.2054824829,2091
+Morro do Cantagalo - Copacabana| Rio de Janeiro - RJ| Brasil,2016/10/01,21:20:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9783325195,-43.1952781677,2092
+Guapimirim - RJ| Brasil,2016/10/01,23:25:00,N√£o,0,0,N√£o,0,0,N√£o,-22.5351982117,-42.9899482727,2093
+Rua Santo Cristo| Niter√≥i - RJ| Brasil,2016/10/02,02:55:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8790473938,-43.0882225037,2094
+Rua Vidal de Negreiros - Santo Cristo| Rio de Janeiro - RJ| Brasil,2016/10/02,08:01:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9012489319,-43.2013130188,2095
+Complexo do Alem√£o| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,22:52:20,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,2096
+Morro da Providencia - Gamboa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/01,22:53:07,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9002780914,-43.1952781677,2097
+Rua Aquiri - Ramos| Rio de Janeiro - RJ| Brasil,2016/10/02,14:40:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8618774414,-43.2647857666,2098
+Camorim| Angra dos Reis - RJ 23912-505| Brasil,2016/10/02,07:25:00,N√£o Sabe,0,0,N√£o Sabe,0,0,Sim,-22.9945163727,-44.2638816833,2099
+Penha| Rio de Janeiro - RJ| Brasil,2016/10/03,12:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,2100
+Rua Maturac√° - Penha Circular| Rio de Janeiro - RJ| Brasil,2016/10/03,13:23:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8450317383,-43.2982482910,2101
+Jardim Alzira| Queimados - RJ| Brasil,2016/09/30,14:53:00,Sim,1,0,N√£o,0,0,N√£o,-22.7155838013,-43.5703315735,2102
+Morro da Coroa - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/10/01,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9225006104,-43.1925010681,2103
+Rua Fallet - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/10/01,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9264984131,-43.1964492798,2104
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/10/01,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9252338409,-43.2053413391,2105
+Avenida Get√∫lio de Moura - Centro| S√£o Jo√£o de Meriti - RJ| Brasil,2016/09/30,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8016376495,-43.3752479553,2106
+Morro da Coroa - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/10/02,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.9225006104,-43.1925010681,2107
+Morro da Coroa - Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/10/03,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.9225006104,-43.1925010681,2108
+Penha| Rio de Janeiro - RJ| Brasil,2016/10/03,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.8308544159,-43.2698173523,2109
+Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/10/03,16:32:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9191207886,-43.1907310486,2110
+Chatuba| Mesquita - State of Rio de Janeiro| Brazil,2016/10/03,19:10:41,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8065814972,-43.4379882812,2111
+Belford Roxo - State of Rio de Janeiro| Brazil,2016/10/03,21:04:24,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7645397186,-43.3996276855,2112
+Catumbi| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/03,21:37:02,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9198665619,-43.1977157593,2113
+Santa Teresa| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/03,21:51:03,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9191207886,-43.1907310486,2115
+Costa Barros| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/03,21:51:51,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8246498108,-43.3727264404,2116
+Pra√ßa Seca| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/03,22:16:24,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,2117
+Penha| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/03,22:22:11,Sim,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,2118
+R. Manuel Machado - V√°z Lobo| Rio de Janeiro - RJ| Brasil,2016/10/03,23:45:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8571777344,-43.3317718506,2119
+Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/10/04,08:24:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9191207886,-43.1907310486,2120
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/10/03,19:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,2121
+Rua A√ßoriana - Pavuna| Rio de Janeiro - RJ| Brasil,2016/10/04,11:38:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8205413818,-43.3536109924,2122
+Penha| Rio de Janeiro - RJ| Brasil,2016/10/03,00:00:00,Sim,2,0,N√£o,0,0,N√£o,-22.8308544159,-43.2698173523,2123
+Santa Teresa| Rio de Janeiro - RJ| Brasil,2016/10/04,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.9191207886,-43.1907310486,2124
+Rio Comprido| Rio de Janeiro - RJ| Brasil,2016/10/04,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.9252338409,-43.2053413391,2125
+Est√°cio| Rio de Janeiro - RJ| Brasil,2016/10/04,00:00:00,N√£o,0,0,Sim,1,0,Sim,-22.9174213409,-43.2049789429,2126
+Parque Duque| Duque de Caxias - RJ| Brasil,2016/10/03,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.7951183319,-43.2884063721,2127
+Bangu - Jardim Bangu| Rio de Janeiro - RJ| Brasil,2016/10/04,00:00:00,N√£o,0,0,Sim,1,0,Sim,Pol√≠cia,-22.8753490448,-43.4722900391,2128
+Rua Praia de Inha√∫ma - Bonsucesso| Rio de Janeiro - RJ| Brasil,2016/10/05,02:49:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8647174835,-43.2406082153,2129
+Estrada do Engenho - Jardim Bangu| Rio de Janeiro - RJ| Brasil,2016/10/05,14:06:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8664569855,-43.4705009460,2130
+Penha| Rio de Janeiro - RJ| Brasil,2016/10/05,15:10:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8308544159,-43.2698173523,2132
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/10/05,13:31:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,2133
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/10/05,13:31:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,2134
+Avenida dos Inconfidentes| Nova Igua√ßu - RJ| Brasil,2016/10/05,00:00:00,Sim,0,1,N√£o,0,0,N√£o,-22.7185707092,-43.5315399170,2135
+Niter√≥i - RJ| Brasil,2016/10/04,00:00:00,Sim,1,0,N√£o,0,0,N√£o,-22.8858966827,-43.1152229309,2136
+Arco Metropolitano do Rio de Janeiro - Figueira| Duque de Caxias - RJ| Brasil,2016/10/05,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.6705970764,-43.2962455750,2137
+Catumbi| Rio de Janeiro - State of Rio de Janeiro| Brazil,2016/10/04,15:07:45,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9198665619,-43.1977157593,2138
+Nova Igua√ßu - State of Rio de Janeiro| Brazil,2016/10/04,15:08:33,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7561321259,-43.4607429504,2139
+S√£o Jo√£o de Meriti - State of Rio de Janeiro| Brazil,2016/10/05,15:09:13,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7907657623,-43.3699378967,2140
+Belford Roxo - State of Rio de Janeiro| Brazil,2016/10/05,20:08:09,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7645397186,-43.3996276855,2142
+- Queimados| RJ| 26383-080| Brasil,2016/10/02,15:34:00,N√£o Sabe,1,0,N√£o Sabe,0,0,N√£o Sabe,-22.7015552521,-43.5691032410,2143
+Rua C√¥nego Tobias - Meier| Rio de Janeiro - RJ| Brasil,2016/10/05,23:34:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9044399261,-43.2805366516,2145
+Pra√ßa Seca| Rio de Janeiro - RJ| Brasil,2016/10/06,08:16:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8969192505,-43.3516807556,2146
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/10/06,09:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,2147
+Rua Don√° Claudina - Meier| Rio de Janeiro - RJ| Brasil,2016/10/05,00:00:00,Sim,1,1,N√£o,0,0,N√£o,-22.9059638977,-43.2833633423,2148
+Amba√≠| Nova Igua√ßu - RJ| Brasil,2016/10/05,00:00:00,N√£o,0,0,N√£o,0,0,Sim,-22.7160587311,-43.4488258362,2149
+Rua Alberto Teixeira Cunha - Centro| Nil√≥polis - RJ| Brasil,2016/10/06,00:00:00,N√£o,0,0,N√£o,0,0,N√£o,-22.8134288788,-43.4229736328,2150
+Belford Roxo - RJ| Brasil,2016/10/06,00:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o,-22.7645397186,-43.3996276855,2151
+Complexo do Alem√£o| Rio de Janeiro - RJ| Brasil,2016/10/06,09:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8593330383,-43.2754745483,2152
+Rua dos Ara√∫jos - Tijuca| Rio de Janeiro - RJ| Brasil,2016/10/06,19:53:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9265289307,-43.2268295288,2154
+R. A| 2455-2517 - Fazenda Raul Seixas| Guapimirim - RJ| 25940-000| Brasil,2016/10/05,21:30:00,N√£o Sabe,0,0,N√£o,0,0,N√£o,-22.5539779663,-42.9795341492,2155
+Travessa Filipos - Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/10/06,20:48:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9480113983,-43.3662528992,2156
+Rua Airton - Comendador Soares| Nova Igua√ßu - RJ| Brasil,2016/10/06,22:33:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.7479190826,-43.4907608032,2157
+Cidade de Deus| Rio de Janeiro - RJ| Brasil,2016/10/06,23:16:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.9481697083,-43.3626708984,2159
+Estrada do Lameirao - Sant√≠ssimo| Rio de Janeiro - RJ| Brasil,2016/10/07,14:00:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8737583160,-43.5272102356,2161
+Santa Rosa| Niter√≥i - RJ| Brasil,2016/10/07,16:14:00,N√£o Sabe,0,0,N√£o Sabe,0,0,N√£o Sabe,-22.8987579346,-43.0985183716,2162
